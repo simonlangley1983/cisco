@@ -1,1 +1,32 @@
-
+[
+  {
+    "date": "1990-02-16",
+    "title": "Cisco IPO",
+    "category": "company"
+  },
+  {
+    "date": "2000-03-27",
+    "title": "Dot-com peak",
+    "category": "market"
+  },
+  {
+    "date": "2008-09-15",
+    "title": "Lehman Brothers collapse",
+    "category": "macro"
+  },
+  {
+    "date": "2020-03-16",
+    "title": "COVID market crash",
+    "category": "macro"
+  },
+  {
+    "date": "2024-03-18",
+    "title": "Splunk acquisition completed",
+    "category": "acquisition"
+  },
+  {
+    "date": "2026-05-19",
+    "title": "Cisco reaches new all-time high",
+    "category": "milestone"
+  }
+]
