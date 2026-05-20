@@ -1,0 +1,74 @@
+{
+  "symbol": "CSCO",
+  "source": "Yahoo Finance chart endpoint",
+  "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/CSCO?period1=0&period2=1779308331&interval=1d&events=history&includeAdjustedClose=true",
+  "generated_utc": "2026-05-20T20:18:51.570236+00:00",
+  "record_count": 9130,
+  "first_date": "1990-02-16",
+  "latest_date": "2026-05-20",
+  "latest_close": 114.349998,
+  "all_time_high_intraday": {
+    "date": "2026-05-18",
+    "high": 119.389999
+  },
+  "all_time_high_close": {
+    "date": "2026-05-18",
+    "close": 118.879997
+  },
+  "biggest_single_day_gain": {
+    "date": "2002-05-08",
+    "daily_change_pct": 24.388379,
+    "daily_change": 3.19,
+    "close": 16.27
+  },
+  "biggest_single_day_decline": {
+    "date": "1994-05-13",
+    "daily_change_pct": -19.82756,
+    "daily_change": -0.319444,
+    "close": 1.291667
+  },
+  "best_month": {
+    "month": "2001-10",
+    "start_date": "2001-10-01",
+    "end_date": "2001-10-31",
+    "start_close": 11.9,
+    "end_close": 16.92,
+    "change_pct": 42.184874
+  },
+  "worst_month": {
+    "month": "2001-02",
+    "start_date": "2001-02-01",
+    "end_date": "2001-02-28",
+    "start_close": 38.25,
+    "end_close": 23.6875,
+    "change_pct": -38.071895
+  },
+  "best_year": {
+    "year": "1991",
+    "start_date": "1991-01-02",
+    "end_date": "1991-12-31",
+    "start_close": 0.15191,
+    "end_close": 0.460069,
+    "change_pct": 202.856296
+  },
+  "worst_year": {
+    "year": "2001",
+    "start_date": "2001-01-02",
+    "end_date": "2001-12-31",
+    "start_close": 33.3125,
+    "end_close": 18.110001,
+    "change_pct": -45.63602
+  },
+  "longest_gain_streak": {
+    "direction": "gain",
+    "trading_days": 11,
+    "start_date": "2013-12-16",
+    "end_date": "2013-12-31"
+  },
+  "longest_decline_streak": {
+    "direction": "decline",
+    "trading_days": 11,
+    "start_date": "2015-06-19",
+    "end_date": "2015-07-06"
+  }
+}
