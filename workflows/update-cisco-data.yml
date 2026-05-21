@@ -2,7 +2,6 @@ name: Update Cisco share price data
 
 on:
   schedule:
-    # Runs daily at 23:15 UTC
     - cron: "15 23 * * *"
   workflow_dispatch:
 
@@ -22,24 +21,46 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install Python packages
+      - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install yfinance pandas
 
-      - name: Run Cisco data builder
+      - name: Build Cisco JSON
         run: |
           python scripts/build_cisco_json.py
 
-      - name: Commit updated data
+      - name: Confirm peer data exists
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          path = Path("data/cisco_daily.json")
+          data = json.loads(path.read_text())
+
+          print("Top-level keys:", list(data.keys()))
+          print("Peer symbols:", list(data.get("peer_records", {}).keys()))
+
+          if "peer_records" not in data:
+              raise SystemExit("ERROR: peer_records missing from cisco_daily.json")
+
+          if not data["peer_records"]:
+              raise SystemExit("ERROR: peer_records exists but is empty")
+
+          for symbol, rows in data["peer_records"].items():
+              print(symbol, "records:", len(rows))
+          PY
+
+      - name: Commit updated files
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          git add data/cisco_daily.json data/events.json data/insights.json || true
+          git add data/cisco_daily.json
 
           if git diff --cached --quiet; then
-            echo "No data changes to commit."
+            echo "No changes detected."
           else
             git commit -m "Update Cisco share price data"
             git push
