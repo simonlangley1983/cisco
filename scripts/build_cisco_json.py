@@ -1,388 +1,231 @@
-#!/usr/bin/env python3
-"""
-Build Cisco (CSCO) daily share-price files.
-
-Repo structure expected:
-
-/
-  data/
-  scripts/build_cisco_json.py
-
-Run from repo root:
-
-    python scripts/build_cisco_json.py
-
-Requires:
-
-    pip install requests
-
-Outputs:
-  data/cisco_daily.json
-  data/cisco_daily_compact.json
-  data/cisco_daily.csv
-  data/cisco_summary.json
-"""
-
 from __future__ import annotations
 
-import csv
 import json
-import sys
-from dataclasses import asdict, dataclass
 from datetime import datetime, timezone
 from pathlib import Path
-from typing import Any
 
-import requests
-
-
-SYMBOL = "CSCO"
-
-REPO_ROOT = Path(__file__).resolve().parents[1]
-DATA_DIR = REPO_ROOT / "data"
-
-OUT_JSON = DATA_DIR / "cisco_daily.json"
-OUT_COMPACT_JSON = DATA_DIR / "cisco_daily_compact.json"
-OUT_CSV = DATA_DIR / "cisco_daily.csv"
-OUT_SUMMARY = DATA_DIR / "cisco_summary.json"
+import pandas as pd
+import yfinance as yf
 
 
-def yahoo_chart_url() -> str:
-    period2 = int(datetime.now(timezone.utc).timestamp())
-    return (
-        "https://query1.finance.yahoo.com/v8/finance/chart/"
-        f"{SYMBOL}?period1=0&period2={period2}"
-        "&interval=1d&events=history&includeAdjustedClose=true"
+ROOT = Path(__file__).resolve().parents[1]
+DATA_DIR = ROOT / "data"
+OUT_FILE = DATA_DIR / "cisco_daily.json"
+
+
+def flatten_columns(df: pd.DataFrame) -> pd.DataFrame:
+    if isinstance(df.columns, pd.MultiIndex):
+        df.columns = [c[0] if isinstance(c, tuple) else c for c in df.columns]
+    return df
+
+
+def download_history(ticker: str, start: str = "1990-01-01") -> pd.DataFrame:
+    df = yf.download(
+        ticker,
+        start=start,
+        auto_adjust=False,
+        progress=False,
+        threads=False,
     )
 
+    if df.empty:
+        raise RuntimeError(f"No data returned for {ticker}")
 
-@dataclass
-class PriceRecord:
-    date: str
-    open: float | None
-    high: float | None
-    low: float | None
-    close: float | None
-    adjusted_close: float | None
-    volume: int | None
-    previous_close: float | None
-    daily_change: float | None
-    daily_change_pct: float | None
-    close_from_first_pct: float | None
+    df = flatten_columns(df).reset_index()
+    df.columns = [str(c).lower().replace(" ", "_") for c in df.columns]
+    return df
 
 
-def round_or_none(value: Any, places: int = 6) -> float | None:
-    if value is None:
+def to_records(df: pd.DataFrame) -> list[dict]:
+    out = []
+
+    for _, row in df.iterrows():
+        date_value = row.get("date")
+        if pd.isna(date_value):
+            continue
+
+        out.append(
+            {
+                "date": pd.to_datetime(date_value).strftime("%Y-%m-%d"),
+                "open": none_or_float(row.get("open")),
+                "high": none_or_float(row.get("high")),
+                "low": none_or_float(row.get("low")),
+                "close": none_or_float(row.get("close")),
+                "adj_close": none_or_float(row.get("adj_close")),
+                "volume": none_or_int(row.get("volume")),
+            }
+        )
+
+    return out
+
+
+def none_or_float(value):
+    if pd.isna(value):
         return None
-    return round(float(value), places)
+    return round(float(value), 6)
 
 
-def int_or_none(value: Any) -> int | None:
-    if value is None:
+def none_or_int(value):
+    if pd.isna(value):
         return None
     return int(value)
 
 
-def download_yahoo_chart() -> dict[str, Any]:
-    headers = {
-        "User-Agent": "Mozilla/5.0",
-        "Accept": "application/json,text/plain,*/*",
-    }
+def daily_changes(records: list[dict]) -> list[dict]:
+    changes = []
 
-    response = requests.get(yahoo_chart_url(), headers=headers, timeout=30)
-    response.raise_for_status()
+    for previous, current in zip(records, records[1:]):
+        if previous["close"] and current["close"]:
+            current["daily_change_pct"] = ((current["close"] - previous["close"]) / previous["close"]) * 100
+            changes.append(current)
 
-    payload = response.json()
-    chart = payload.get("chart", {})
-    error = chart.get("error")
-
-    if error:
-        raise RuntimeError(f"Yahoo returned an error: {error}")
-
-    result = chart.get("result")
-
-    if not result:
-        raise RuntimeError("Yahoo returned no chart result.")
-
-    return result[0]
+    return changes
 
 
-def parse_records(chart: dict[str, Any]) -> list[PriceRecord]:
-    timestamps = chart.get("timestamp", [])
-    indicators = chart.get("indicators", {})
-    quote = indicators.get("quote", [{}])[0]
-    adjclose = indicators.get("adjclose", [{}])[0].get("adjclose", [])
+def calendar_periods(records: list[dict], key_len: int) -> list[dict]:
+    grouped: dict[str, list[dict]] = {}
 
-    opens = quote.get("open", [])
-    highs = quote.get("high", [])
-    lows = quote.get("low", [])
-    closes = quote.get("close", [])
-    volumes = quote.get("volume", [])
+    for row in records:
+        grouped.setdefault(row["date"][:key_len], []).append(row)
 
-    records: list[PriceRecord] = []
-    previous_close: float | None = None
-    first_close: float | None = None
+    periods = []
 
-    for i, ts in enumerate(timestamps):
-        close = round_or_none(closes[i] if i < len(closes) else None)
+    for period, rows in grouped.items():
+        start = rows[0]
+        end = rows[-1]
 
-        if close is None:
-            continue
-
-        if first_close is None:
-            first_close = close
-
-        if previous_close is None:
-            daily_change = None
-            daily_change_pct = None
-        else:
-            daily_change = round(close - previous_close, 6)
-            daily_change_pct = round((daily_change / previous_close) * 100, 6)
-
-        close_from_first_pct = (
-            round(((close - first_close) / first_close) * 100, 6)
-            if first_close
-            else None
-        )
-
-        date = datetime.fromtimestamp(ts, timezone.utc).date().isoformat()
-
-        records.append(
-            PriceRecord(
-                date=date,
-                open=round_or_none(opens[i] if i < len(opens) else None),
-                high=round_or_none(highs[i] if i < len(highs) else None),
-                low=round_or_none(lows[i] if i < len(lows) else None),
-                close=close,
-                adjusted_close=round_or_none(adjclose[i] if i < len(adjclose) else None),
-                volume=int_or_none(volumes[i] if i < len(volumes) else None),
-                previous_close=previous_close,
-                daily_change=daily_change,
-                daily_change_pct=daily_change_pct,
-                close_from_first_pct=close_from_first_pct,
+        if start["close"] and end["close"]:
+            periods.append(
+                {
+                    "period": period,
+                    "start_date": start["date"],
+                    "end_date": end["date"],
+                    "change_pct": ((end["close"] - start["close"]) / start["close"]) * 100,
+                }
             )
-        )
 
-        previous_close = close
-
-    if not records:
-        raise RuntimeError("No usable price records were parsed.")
-
-    return records
+    return periods
 
 
-def longest_streak(records: list[PriceRecord], direction: str) -> dict[str, Any]:
-    best_count = 0
-    best_start = None
-    best_end = None
-    current_count = 0
-    current_start = None
+def longest_streak(records: list[dict], direction: str) -> dict:
+    best = []
+    current = []
 
-    for rec in records:
-        pct = rec.daily_change_pct
-
-        if pct is None:
+    for previous, row in zip(records, records[1:]):
+        if previous["close"] is None or row["close"] is None:
             continue
 
-        is_match = pct > 0 if direction == "gain" else pct < 0
+        up = row["close"] > previous["close"]
+        down = row["close"] < previous["close"]
+        match = up if direction == "gain" else down
 
-        if is_match:
-            if current_count == 0:
-                current_start = rec.date
-            current_count += 1
-
-            if current_count > best_count:
-                best_count = current_count
-                best_start = current_start
-                best_end = rec.date
+        if match:
+            if not current:
+                current = [previous, row]
+            else:
+                current.append(row)
         else:
-            current_count = 0
-            current_start = None
+            if len(current) > len(best):
+                best = current
+            current = []
+
+    if len(current) > len(best):
+        best = current
+
+    if not best:
+        return {"trading_days": 0, "start_date": None, "end_date": None}
 
     return {
-        "direction": direction,
-        "trading_days": best_count,
-        "start_date": best_start,
-        "end_date": best_end,
+        "trading_days": len(best) - 1,
+        "start_date": best[0]["date"],
+        "end_date": best[-1]["date"],
     }
 
 
-def best_worst_period(records: list[PriceRecord], period_length: int) -> tuple[dict[str, Any], dict[str, Any]]:
-    periods: dict[str, dict[str, Any]] = {}
+def build_meta(records: list[dict]) -> dict:
+    changes = daily_changes(records)
 
-    for rec in records:
-        if rec.close is None:
-            continue
+    biggest_gain = max(changes, key=lambda r: r["daily_change_pct"])
+    biggest_decline = min(changes, key=lambda r: r["daily_change_pct"])
 
-        period = rec.date[:period_length]
+    monthly = calendar_periods(records, 7)
+    yearly = calendar_periods(records, 4)
 
-        if period not in periods:
-            periods[period] = {
-                "period": period,
-                "start_date": rec.date,
-                "end_date": rec.date,
-                "start_close": rec.close,
-                "end_close": rec.close,
-            }
-        else:
-            periods[period]["end_date"] = rec.date
-            periods[period]["end_close"] = rec.close
+    best_month = max(monthly, key=lambda r: r["change_pct"])
+    worst_month = min(monthly, key=lambda r: r["change_pct"])
+    best_year = max(yearly, key=lambda r: r["change_pct"])
+    worst_year = min(yearly, key=lambda r: r["change_pct"])
 
-    rows = []
-
-    for item in periods.values():
-        change_pct = round(
-            ((item["end_close"] - item["start_close"]) / item["start_close"]) * 100,
-            6,
-        )
-        rows.append({**item, "change_pct": change_pct})
-
-    return max(rows, key=lambda x: x["change_pct"]), min(rows, key=lambda x: x["change_pct"])
-
-
-def build_summary(records: list[PriceRecord]) -> dict[str, Any]:
-    first = records[0]
-    latest = records[-1]
-
-    records_with_change = [r for r in records if r.daily_change_pct is not None]
-    records_with_high = [r for r in records if r.high is not None]
-    records_with_close = [r for r in records if r.close is not None]
-
-    biggest_gain = max(records_with_change, key=lambda r: r.daily_change_pct or 0)
-    biggest_decline = min(records_with_change, key=lambda r: r.daily_change_pct or 0)
-    all_time_high = max(records_with_high, key=lambda r: r.high or 0)
-    all_time_closing_high = max(records_with_close, key=lambda r: r.close or 0)
-    best_month, worst_month = best_worst_period(records, 7)
-    best_year, worst_year = best_worst_period(records, 4)
+    high = max(records, key=lambda r: r["high"] if r["high"] is not None else -1)
+    high_close = max(records, key=lambda r: r["close"] if r["close"] is not None else -1)
 
     return {
-        "symbol": SYMBOL,
-        "source": "Yahoo Finance chart endpoint",
-        "source_url": yahoo_chart_url(),
-        "generated_utc": datetime.now(timezone.utc).isoformat(),
+        "generated_utc": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "source": "Yahoo Finance via yfinance",
+        "symbol": "CSCO",
+        "benchmark_symbol": "^IXIC",
         "record_count": len(records),
-        "first_date": first.date,
-        "latest_date": latest.date,
-        "latest_close": latest.close,
-        "all_time_high_intraday": {
-            "date": all_time_high.date,
-            "high": all_time_high.high,
-        },
-        "all_time_high_close": {
-            "date": all_time_closing_high.date,
-            "close": all_time_closing_high.close,
-        },
+        "first_date": records[0]["date"],
+        "last_date": records[-1]["date"],
+        "all_time_high_intraday": {"date": high["date"], "high": high["high"]},
+        "all_time_high_close": {"date": high_close["date"], "close": high_close["close"]},
         "biggest_single_day_gain": {
-            "date": biggest_gain.date,
-            "daily_change_pct": biggest_gain.daily_change_pct,
-            "daily_change": biggest_gain.daily_change,
-            "close": biggest_gain.close,
+            "date": biggest_gain["date"],
+            "daily_change_pct": round(biggest_gain["daily_change_pct"], 6),
         },
         "biggest_single_day_decline": {
-            "date": biggest_decline.date,
-            "daily_change_pct": biggest_decline.daily_change_pct,
-            "daily_change": biggest_decline.daily_change,
-            "close": biggest_decline.close,
+            "date": biggest_decline["date"],
+            "daily_change_pct": round(biggest_decline["daily_change_pct"], 6),
         },
-        "best_month": {"month": best_month["period"], **{k: v for k, v in best_month.items() if k != "period"}},
-        "worst_month": {"month": worst_month["period"], **{k: v for k, v in worst_month.items() if k != "period"}},
-        "best_year": {"year": best_year["period"], **{k: v for k, v in best_year.items() if k != "period"}},
-        "worst_year": {"year": worst_year["period"], **{k: v for k, v in worst_year.items() if k != "period"}},
+        "best_month": {
+            "month": best_month["period"],
+            "change_pct": round(best_month["change_pct"], 6),
+            "start_date": best_month["start_date"],
+            "end_date": best_month["end_date"],
+        },
+        "worst_month": {
+            "month": worst_month["period"],
+            "change_pct": round(worst_month["change_pct"], 6),
+            "start_date": worst_month["start_date"],
+            "end_date": worst_month["end_date"],
+        },
+        "best_year": {
+            "year": best_year["period"],
+            "change_pct": round(best_year["change_pct"], 6),
+            "start_date": best_year["start_date"],
+            "end_date": best_year["end_date"],
+        },
+        "worst_year": {
+            "year": worst_year["period"],
+            "change_pct": round(worst_year["change_pct"], 6),
+            "start_date": worst_year["start_date"],
+            "end_date": worst_year["end_date"],
+        },
         "longest_gain_streak": longest_streak(records, "gain"),
         "longest_decline_streak": longest_streak(records, "decline"),
     }
 
 
-def write_json(records: list[PriceRecord], summary: dict[str, Any]) -> None:
-    payload = {
-        "meta": summary,
-        "records": [asdict(record) for record in records],
-    }
-    OUT_JSON.write_text(json.dumps(payload, indent=2), encoding="utf-8")
+def main() -> None:
+    DATA_DIR.mkdir(parents=True, exist_ok=True)
 
+    cisco_df = download_history("CSCO")
+    nasdaq_df = download_history("^IXIC")
 
-def write_compact_json(records: list[PriceRecord], summary: dict[str, Any]) -> None:
-    fields = [
-        "date",
-        "open",
-        "high",
-        "low",
-        "close",
-        "adjusted_close",
-        "volume",
-        "previous_close",
-        "daily_change",
-        "daily_change_pct",
-        "close_from_first_pct",
-    ]
+    cisco_records = to_records(cisco_df)
+    nasdaq_records = to_records(nasdaq_df)
 
     payload = {
-        "meta": summary,
-        "fields": fields,
-        "records": [
-            [
-                rec.date,
-                rec.open,
-                rec.high,
-                rec.low,
-                rec.close,
-                rec.adjusted_close,
-                rec.volume,
-                rec.previous_close,
-                rec.daily_change,
-                rec.daily_change_pct,
-                rec.close_from_first_pct,
-            ]
-            for rec in records
-        ],
+        "meta": build_meta(cisco_records),
+        "records": cisco_records,
+        "nasdaq_records": nasdaq_records,
     }
 
-    OUT_COMPACT_JSON.write_text(json.dumps(payload, separators=(",", ":")), encoding="utf-8")
-
-
-def write_csv(records: list[PriceRecord]) -> None:
-    fieldnames = list(asdict(records[0]).keys())
-
-    with OUT_CSV.open("w", newline="", encoding="utf-8") as handle:
-        writer = csv.DictWriter(handle, fieldnames=fieldnames)
-        writer.writeheader()
-        writer.writerows(asdict(record) for record in records)
-
-
-def write_summary(summary: dict[str, Any]) -> None:
-    OUT_SUMMARY.write_text(json.dumps(summary, indent=2), encoding="utf-8")
-
-
-def main() -> int:
-    try:
-        DATA_DIR.mkdir(parents=True, exist_ok=True)
-
-        chart = download_yahoo_chart()
-        records = parse_records(chart)
-        summary = build_summary(records)
-
-        write_json(records, summary)
-        write_compact_json(records, summary)
-        write_csv(records)
-        write_summary(summary)
-
-        print(f"Created {OUT_JSON.relative_to(REPO_ROOT)} with {len(records):,} records.")
-        print(f"Created {OUT_COMPACT_JSON.relative_to(REPO_ROOT)}.")
-        print(f"Created {OUT_CSV.relative_to(REPO_ROOT)}.")
-        print(f"Created {OUT_SUMMARY.relative_to(REPO_ROOT)}.")
-        print(f"Date range: {summary['first_date']} to {summary['latest_date']}")
-        print(
-            "All-time intraday high: "
-            f"{summary['all_time_high_intraday']['high']} "
-            f"on {summary['all_time_high_intraday']['date']}"
-        )
-
-        return 0
-
-    except Exception as exc:
-        print(f"ERROR: {exc}", file=sys.stderr)
-        return 1
+    OUT_FILE.write_text(json.dumps(payload, indent=2), encoding="utf-8")
+    print(f"Wrote {OUT_FILE}")
+    print(f"Cisco records: {len(cisco_records):,}")
+    print(f"Nasdaq records: {len(nasdaq_records):,}")
 
 
 if __name__ == "__main__":
-    raise SystemExit(main())
+    main()
