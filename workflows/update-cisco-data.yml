@@ -1,0 +1,46 @@
+name: Update Cisco share price data
+
+on:
+  schedule:
+    # Runs daily at 23:15 UTC
+    - cron: "15 23 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-cisco-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Python packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install yfinance pandas
+
+      - name: Run Cisco data builder
+        run: |
+          python scripts/build_cisco_json.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add data/cisco_daily.json data/events.json data/insights.json || true
+
+          if git diff --cached --quiet; then
+            echo "No data changes to commit."
+          else
+            git commit -m "Update Cisco share price data"
+            git push
+          fi
