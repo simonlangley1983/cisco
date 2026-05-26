@@ -31,8 +31,13 @@ def standardise_columns(df: pd.DataFrame) -> pd.DataFrame:
     df = flatten_columns(df).reset_index()
     df.columns = [str(c).lower().strip().replace(" ", "_") for c in df.columns]
 
-    if "datetime" in df.columns and "date" not in df.columns:
-        df = df.rename(columns={"datetime": "date"})
+    # yfinance sometimes calls the reset index column "date", sometimes "datetime",
+    # and sometimes simply "index". Normalise all of these to "date".
+    if "date" not in df.columns:
+        if "datetime" in df.columns:
+            df = df.rename(columns={"datetime": "date"})
+        elif "index" in df.columns:
+            df = df.rename(columns={"index": "date"})
 
     for base in ["open", "high", "low", "close", "adj_close", "volume"]:
         if base not in df.columns:
