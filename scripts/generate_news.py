@@ -10,13 +10,20 @@ COMPANY = "Cisco"
 OUTPUT_FILE = Path("data/cisco_news.json")
 MAX_ARTICLES = 10
 
-RELEVANCE_TERMS = [
+PRIMARY_TERMS = [
     "cisco",
     "csco",
     "splunk",
+]
+
+SECONDARY_TERMS = [
+    "enterprise ai",
+    "ai infrastructure",
+    "ai networking",
     "networking",
     "cybersecurity",
     "security",
+    "quantum security",
 ]
 
 
@@ -31,7 +38,12 @@ def get_nested(data, *keys):
 
 def is_relevant(title, summary):
     text = f"{title or ''} {summary or ''}".lower()
-    return any(term in text for term in RELEVANCE_TERMS)
+
+    if any(term in text for term in PRIMARY_TERMS):
+        return True
+
+    # Avoid loose Nvidia-only / AI-only stories unless Cisco is explicitly present.
+    return False
 
 
 def extract_thumbnail(content):
@@ -39,7 +51,13 @@ def extract_thumbnail(content):
 
     resolutions = thumbnail.get("resolutions") or []
     if resolutions:
-        return resolutions[0].get("url")
+        # Prefer the largest available image.
+        sorted_resolutions = sorted(
+            resolutions,
+            key=lambda item: item.get("width", 0) * item.get("height", 0),
+            reverse=True,
+        )
+        return sorted_resolutions[0].get("url")
 
     return thumbnail.get("originalUrl")
 
@@ -65,9 +83,9 @@ def extract_article(raw_article):
         return None
 
     return {
-        "title": title,
-        "summary": summary,
-        "publisher": publisher,
+        "title": title.strip(),
+        "summary": summary.strip(),
+        "publisher": publisher.strip(),
         "published_utc": published_utc,
         "url": url,
         "yahoo_url": yahoo_url,
@@ -89,8 +107,8 @@ def main():
         if not article:
             continue
 
-        title_key = article["title"].strip().lower()
-        url_key = article["url"].strip().lower()
+        title_key = article["title"].lower()
+        url_key = article["url"].lower()
 
         if title_key in seen_titles or url_key in seen_urls:
             continue
