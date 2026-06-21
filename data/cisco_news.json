@@ -1,18 +1,9 @@
 {
-  "generated_utc": "2026-06-20T19:55:25.208446Z",
+  "generated_utc": "2026-06-21T00:21:16.249553Z",
   "symbol": "CSCO",
   "company": "Cisco",
-  "article_count": 8,
+  "article_count": 6,
   "articles": [
-    {
-      "title": "Nvidia's $6.9 billion side bet just paid off in a big way",
-      "summary": "Back in 2020, Nvidia dropped $6.9 billion on a company most people had never heard of, Mellanox, an Israeli outfit that made networking switches and adapters. At the time, it barely registered. Jensen Huang was buying GPUs, building the chip story, and a networking company felt like a rounding ...",
-      "publisher": "TheStreet",
-      "published_utc": "2026-06-19T17:33:00Z",
-      "url": "https://www.thestreet.com/technology/nvidias-6-9-billion-side-bet-just-paid-off-in-a-big-way",
-      "yahoo_url": "https://finance.yahoo.com/technology/articles/nvidias-6-9-billion-side-173300881.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HKwog1vqI18oe5BDw9p6gw--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet_881/6af09e7800ad58eb6c5c9be2d1efa1cc"
-    },
     {
       "title": "Cisco is Overvalued at 7.01X P/S: Should You Still Buy the Stock?",
       "summary": "CSCO's AI infrastructure orders, network refresh cycle and security momentum support its premium valuation and long-term growth prospects.",
@@ -57,15 +48,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-cisco-systems-csco-outpaced-214504138.html",
       "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/why-cisco-systems-csco-outpaced-214504138.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6Ex_CnpNXcMseRWMhPXBow--~B/aD01ODg7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/3496571a811465d910e99bd171c71a94"
-    },
-    {
-      "title": "Nvidia Claims No. 1 Spot in $10 Billion AI Networking Market",
-      "summary": "Nvidia Wins One of the Biggest Battles in the AI Infrastructure Race",
-      "publisher": "GuruFocus.com",
-      "published_utc": "2026-06-18T12:15:40Z",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-claims-no-1-spot-121540877.html",
-      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/nvidia-claims-no-1-spot-121540877.html",
-      "thumbnail": null
     },
     {
       "title": "Zacks Investment Ideas feature highlights: Dell and Cisco",
