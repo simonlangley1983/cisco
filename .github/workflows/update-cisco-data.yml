@@ -69,3 +69,5 @@ jobs:
             git commit -m "Update Cisco share price and news data"
             git push
           fi
+- name: Update Cisco market cap rank
+  run: python scripts/generate_market_cap_rank.py
