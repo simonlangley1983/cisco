@@ -4,7 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 from pathlib import Path
 
-DATA_FILE = Path("data/cisco_data.json")
+DATA_FILE = Path("data/cisco_daily.json")
 URL = "https://companiesmarketcap.com/"
 
 def get_cisco_rank():
