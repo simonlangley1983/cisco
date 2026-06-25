@@ -1,9 +1,27 @@
 {
-  "generated_utc": "2026-06-24T21:04:15.051426Z",
+  "generated_utc": "2026-06-25T00:21:25.749566Z",
   "symbol": "CSCO",
   "company": "Cisco",
   "article_count": 6,
   "articles": [
+    {
+      "title": "Cisco Systems (CSCO) Dips More Than Broader Market: What You Should Know",
+      "summary": "In the most recent trading session, Cisco Systems (CSCO) closed at $119.74, indicating a -1.16% shift from the previous trading day.",
+      "publisher": "Zacks",
+      "published_utc": "2026-06-24T21:45:05Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-csco-dips-more-214505688.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-csco-dips-more-214505688.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UYup8AGIrn99rMsHiTllqA--~B/aD04NzY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/d0d4ab152198da2f423d92da8a7d22ee"
+    },
+    {
+      "title": "Everyone Is Watching Cisco Stock's AI Orders. Here's The Number They Stopped Bragging About.",
+      "summary": "The pivot to an AI powerhouse is driving record sales, but it comes at a cost to the high-profitability story management once championed.",
+      "publisher": "Trefis",
+      "published_utc": "2026-06-24T21:05:51Z",
+      "url": "https://www.trefis.com/articles/604313/everyone-is-watching-cisco-stocks-ai-orders-heres-the-number-they-stopped-bragging-about/2026-06-24",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/everyone-watching-cisco-stocks-ai-210551305.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RuzvG8kA5o_InMSxxcxA.w--~B/aD0xMjgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/trefis_142/21472cc541eddccb9d7006b756f72e45"
+    },
     {
       "title": "Why Cisco’s (CSCO) Acacia Orders Give It a Clearer Role in the 800G AI Optics Cycle",
       "summary": "Cisco Systems, Inc. (NASDAQ:CSCO) is one of the Best Fiber Optics Stocks to Buy for the AI Data Center Boom. On June 8, 2026, Bank of America raised its price target on Cisco to $150 from $135 and reiterated a Buy rating, extending a bullish view that had sharpened after the firm’s late-May optics note. […]",
@@ -39,24 +57,6 @@
       "url": "https://finance.yahoo.com/news/us-supreme-court-ends-suit-141003714.html",
       "yahoo_url": "https://finance.yahoo.com/news/us-supreme-court-ends-suit-141003714.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xpep_3BpvGs9AV5zSnit6A--~B/aD01NjI7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/d871cf77c28a4d5c10f95fbb1a572c56"
-    },
-    {
-      "title": "How Cisco’s Secure AI Factory and Quantum Networking Bets Could Reshape the Cisco Systems (CSCO) Narrative",
-      "summary": "In June 2026, Equinix announced an expanded collaboration with Cisco and NVIDIA to bring the Cisco Secure AI Factory into Equinix’s global data centers, while Cisco also joined Eurofiber, QBird and others as a founding partner of the Quantum Communication Fieldlab Rotterdam to advance quantum-secure networking in real-world infrastructure. Together, these initiatives highlight Cisco’s push to embed its networking and security technology at the heart of emerging AI and quantum-secure...",
-      "publisher": "Simply Wall St.",
-      "published_utc": "2026-06-23T15:10:46Z",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-secure-ai-factory-quantum-151046091.html",
-      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/cisco-secure-ai-factory-quantum-151046091.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VHMvoAlyQaRZcxjJbAgW1A--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/04fa3ad5da96418a6614fef94d5b3a77"
-    },
-    {
-      "title": "Cisco Systems, Inc. (CSCO) Is a Trending Stock: Facts to Know Before Betting on It",
-      "summary": "Cisco (CSCO) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
-      "publisher": "Zacks",
-      "published_utc": "2026-06-23T13:00:05Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-inc-csco-trending-130005785.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-inc-csco-trending-130005785.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ZVGBNd2_.kAicju5mLde7g--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/71afbbc0512eb3c471136d93f39079c9"
     }
   ]
 }
