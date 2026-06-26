@@ -1,9 +1,18 @@
 {
-  "generated_utc": "2026-06-25T00:21:25.749566Z",
+  "generated_utc": "2026-06-26T01:29:22.122414Z",
   "symbol": "CSCO",
   "company": "Cisco",
   "article_count": 6,
   "articles": [
+    {
+      "title": "Cisco (CSCO) Stock Sees Modest Fair Value Lift After AI Networking Target Raises",
+      "summary": "Cisco Systems has seen its fair value estimate move from US$125.82 to US$127.05, a small uptick that captures the latest tweak in the valuation model. Analysts linking this change to recent research generally point to stronger AI networking execution, campus refresh activity, and optical demand tied to Acacia, while still flagging valuation questions and segment level risks. As you read on, you will see how these shifting targets fit into the broader Cisco Systems story and what to watch as...",
+      "publisher": "Simply Wall St.",
+      "published_utc": "2026-06-25T21:09:24Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-csco-stock-sees-modest-210924894.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-csco-stock-sees-modest-210924894.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VHMvoAlyQaRZcxjJbAgW1A--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/04fa3ad5da96418a6614fef94d5b3a77"
+    },
     {
       "title": "Cisco Systems (CSCO) Dips More Than Broader Market: What You Should Know",
       "summary": "In the most recent trading session, Cisco Systems (CSCO) closed at $119.74, indicating a -1.16% shift from the previous trading day.",
@@ -48,15 +57,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-csco-considered-good-investment-133005844.html",
       "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-csco-considered-good-investment-133005844.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/XxozWWpdDFgGg6m0CzltLg--~B/aD02MDI7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/45c083e4721b0d0d1f6e431ec0bb5cc1"
-    },
-    {
-      "title": "US Supreme Court ends suit alleging Cisco helped China pursue Falun Gong",
-      "summary": "WASHINGTON, June 23 (Reuters) - The U. Supreme Court further limited the reach of a federal law used to hold corporations liable for human rights abuses committed abroad, as it issued a ruling on Tuesday ending a lawsuit by members of the Falun Gong movement accusing Cisco ‌Systems of facilitating religious persecution in China.",
-      "publisher": "Reuters",
-      "published_utc": "2026-06-23T15:50:43Z",
-      "url": "https://finance.yahoo.com/news/us-supreme-court-ends-suit-141003714.html",
-      "yahoo_url": "https://finance.yahoo.com/news/us-supreme-court-ends-suit-141003714.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xpep_3BpvGs9AV5zSnit6A--~B/aD01NjI7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/d871cf77c28a4d5c10f95fbb1a572c56"
     }
   ]
 }
