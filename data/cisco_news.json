@@ -1,9 +1,27 @@
 {
-  "generated_utc": "2026-06-30T00:18:10.394835Z",
+  "generated_utc": "2026-07-01T00:20:42.992588Z",
   "symbol": "CSCO",
   "company": "Cisco",
   "article_count": 5,
   "articles": [
+    {
+      "title": "Is Arista Networks’ (ANET) Russell Top 50 Debut Quietly Redefining Its AI Networking Narrative?",
+      "summary": "In late June 2026, Arista Networks, Inc. was added to the Russell Top 50 Index, while multiple research firms highlighted its role in AI-focused networking and public cloud-managed LAN solutions alongside peers such as Cisco, Extreme, HPE, Meter, and Nile. These developments underline how Arista is increasingly tied to AI-related networking demand and institutional index flows, potentially amplifying its exposure to trends in cloud-managed LAN and campus Network-as-a-Service adoption. Next,...",
+      "publisher": "Simply Wall St.",
+      "published_utc": "2026-06-30T18:09:39Z",
+      "url": "https://finance.yahoo.com/technology/ai/articles/arista-networks-anet-russell-top-180939730.html",
+      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/arista-networks-anet-russell-top-180939730.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/gLa338W0IDKm3LgNgW4Ysg--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/01c84f40a23de7510333f39442abc670"
+    },
+    {
+      "title": "Cisco (CSCO) Expands AI And Quantum Networking Ties With Equinix Rafay And Rotterdam",
+      "summary": "Cisco Systems is taking a larger role in enterprise AI infrastructure through its involvement in the Equinix NVIDIA Secure AI Factory expansion. The company has become a Cisco Solutions Plus partner with Rafay Systems to integrate Kubernetes orchestration and governance into complex environments. Cisco is a founding participant in the Quantum Communication Fieldlab Rotterdam, focused on real world deployment of quantum secure networking. Cisco Systems (NasdaqGS:CSCO) is tying its core...",
+      "publisher": "Simply Wall St.",
+      "published_utc": "2026-06-30T17:06:23Z",
+      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-csco-expands-ai-quantum-170623615.html",
+      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/cisco-csco-expands-ai-quantum-170623615.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VHMvoAlyQaRZcxjJbAgW1A--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/04fa3ad5da96418a6614fef94d5b3a77"
+    },
     {
       "title": "Here’s Why Cisco (CSCO) is Among the 15 Best AI Stocks That Will Make You Rich in 10 Years",
       "summary": "Cisco Systems, Inc. (NASDAQ:CSCO) is one of the 15 Best AI Stocks That Will Make You Rich in 10 Years. On June 25, 2026, KeyBanc raised its price target on Cisco Systems, Inc. (NASDAQ:CSCO) to $130 from $125 and kept an Overweight rating. KeyBanc’s chief investment officer survey for the first half of 2026 showed […]",
@@ -30,24 +48,6 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/cisco-lay-off-more-400-194834963.html",
       "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/cisco-lay-off-more-400-194834963.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/PTfwQ_PDm7kInz4tEDv9NA--~B/aD01NjA7dz04NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/la_times_articles_853/625ead989470552fd2e1565434522874"
-    },
-    {
-      "title": "1 Growth Stock Set to Flourishand 2 Facing Headwinds",
-      "summary": "Growth is oxygen. But when it evaporates, the consequences can be severe - ask anyone who bought Cisco in the Dot-Com Bubble or newer investors who lived through the 2020 to 2022 COVID cycle.",
-      "publisher": "StockStory",
-      "published_utc": "2026-06-26T15:04:25Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/1-growth-stock-set-flourishand-150425928.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/1-growth-stock-set-flourishand-150425928.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4L5dXol0hMyKvxkRc5LTrw--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/209b69ec588e3527677667db85f1c8d6"
-    },
-    {
-      "title": "Q1 Earnings Roundup: Cisco (NASDAQ:CSCO) And The Rest Of The IT Services & Other Tech Segment",
-      "summary": "Wrapping up Q1 earnings, we look at the numbers and key takeaways for the it services & other tech stocks, including Cisco (NASDAQ:CSCO) and its peers.",
-      "publisher": "StockStory",
-      "published_utc": "2026-06-26T12:32:25Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/q1-earnings-roundup-cisco-nasdaq-123225997.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/q1-earnings-roundup-cisco-nasdaq-123225997.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/02NPs_FyOnxlYViQFXfSYA--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/13084f782bf37f7c367bffc0690421cd"
     }
   ]
 }
