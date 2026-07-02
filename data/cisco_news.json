@@ -1,9 +1,27 @@
 {
-  "generated_utc": "2026-07-01T00:20:42.992588Z",
+  "generated_utc": "2026-07-02T00:20:51.806533Z",
   "symbol": "CSCO",
   "company": "Cisco",
-  "article_count": 5,
+  "article_count": 6,
   "articles": [
+    {
+      "title": "Top Analyst Reports for AMD, Lam Research & Cisco",
+      "summary": "AMD's AI-driven data center growth, Lam Research's chip equipment momentum and Cisco's AI demand headline today's top analyst reports.",
+      "publisher": "Zacks",
+      "published_utc": "2026-07-01T21:51:00Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-amd-lam-215100529.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-amd-lam-215100529.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/TuiWJqHciXHZR_bGyeNHIg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/81363f0fa347434ddebadf36a3b1e792"
+    },
+    {
+      "title": "Cisco (CSCO) Upgraded to Strong Buy: Here's What You Should Know",
+      "summary": "Cisco (CSCO) might move higher on growing optimism about its earnings prospects, which is reflected by its upgrade to a Zacks Rank #1 (Strong Buy).",
+      "publisher": "Zacks",
+      "published_utc": "2026-07-01T16:00:04Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-csco-upgraded-strong-buy-160004868.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-csco-upgraded-strong-buy-160004868.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UACuRym2G7Sc_7yqOtSLVQ--~B/aD0yMzUxO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/zacks.com/c65fb4556b91b6c9dc83e4eff25fede0"
+    },
     {
       "title": "Is Arista Networks’ (ANET) Russell Top 50 Debut Quietly Redefining Its AI Networking Narrative?",
       "summary": "In late June 2026, Arista Networks, Inc. was added to the Russell Top 50 Index, while multiple research firms highlighted its role in AI-focused networking and public cloud-managed LAN solutions alongside peers such as Cisco, Extreme, HPE, Meter, and Nile. These developments underline how Arista is increasingly tied to AI-related networking demand and institutional index flows, potentially amplifying its exposure to trends in cloud-managed LAN and campus Network-as-a-Service adoption. Next,...",
@@ -39,15 +57,6 @@
       "url": "https://www.trefis.com/articles/603814/the-real-risk-inside-cisco-stock/2026-06-26",
       "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/real-risk-inside-cisco-stock-021112150.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/83wCu_sZtQmSXWIU8u7XIw--~B/aD04NTM7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/trefis_142/1941b9b7e581dafb8c56e93dda3be756"
-    },
-    {
-      "title": "Cisco to lay off more than 400 workers in California",
-      "summary": "The San José tech company informed the state that the job cuts will occur in their San Francisco Bay area offices.",
-      "publisher": "LA Times",
-      "published_utc": "2026-06-26T19:48:34Z",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-lay-off-more-400-194834963.html",
-      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/cisco-lay-off-more-400-194834963.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/PTfwQ_PDm7kInz4tEDv9NA--~B/aD01NjA7dz04NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/la_times_articles_853/625ead989470552fd2e1565434522874"
     }
   ]
 }
