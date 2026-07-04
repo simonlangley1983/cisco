@@ -1,9 +1,54 @@
 {
-  "generated_utc": "2026-07-03T00:18:31.347318Z",
+  "generated_utc": "2026-07-04T00:16:38.317140Z",
   "symbol": "CSCO",
   "company": "Cisco",
-  "article_count": 7,
+  "article_count": 6,
   "articles": [
+    {
+      "title": "2 Growth Stocks with All-Star Potential and 1 Facing Challenges",
+      "summary": "Growth is oxygen. But when it evaporates, the consequences can be severe - ask anyone who bought Cisco in the Dot-Com Bubble or newer investors who lived through the 2020 to 2022 COVID cycle.",
+      "publisher": "StockStory",
+      "published_utc": "2026-07-03T16:18:06Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/2-growth-stocks-star-potential-161806748.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/2-growth-stocks-star-potential-161806748.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/TL85ubL2i65ABePAxCaeCQ--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/ed88d876281c097cbcb9ccb93aa60771"
+    },
+    {
+      "title": "3 Growth Stocks We Steer Clear Of",
+      "summary": "Growth is oxygen. But when it evaporates, the consequences can be severe - ask anyone who bought Cisco in the Dot-Com Bubble or newer investors who lived through the 2020 to 2022 COVID cycle.",
+      "publisher": "StockStory",
+      "published_utc": "2026-07-03T16:10:06Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-steer-clear-161006872.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-steer-clear-161006872.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rXD6FpaKASB7476.iDal9Q--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/0bb3ade2085ccd800b3ce0f2b7212c7f"
+    },
+    {
+      "title": "Are Computer and Technology Stocks Lagging  Cisco Systems (CSCO) This Year?",
+      "summary": "Here is how Cisco Systems (CSCO) and Arteris, Inc. (AIP) have performed compared to their sector so far this year.",
+      "publisher": "Zacks",
+      "published_utc": "2026-07-03T13:40:04Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/computer-technology-stocks-lagging-cisco-134004249.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/computer-technology-stocks-lagging-cisco-134004249.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nxwFIPS2ImeTQYZMYlnAgg--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/1a018a29aef5adbf5b4319f32058e209"
+    },
+    {
+      "title": "Cisco Stock Is Soaring On A Massive AI Bet",
+      "summary": "Management put a stunningly large number on its AI future, and investors are piling in. But the real story is what this growth costs.",
+      "publisher": "Trefis",
+      "published_utc": "2026-07-03T12:46:42Z",
+      "url": "https://www.trefis.com/articles/605692/cisco-stock-is-soaring-on-a-massive-ai-bet/2026-07-03",
+      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/cisco-stock-soaring-massive-ai-124642965.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RuzvG8kA5o_InMSxxcxA.w--~B/aD0xMjgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/trefis_142/21472cc541eddccb9d7006b756f72e45"
+    },
+    {
+      "title": "Cisco (CSCO) Stock Looks Stretched On Cash Flow Yet Reasonable On Earnings",
+      "summary": "Cisco Systems stock has delivered a strong 142.4% return over the past 5 years, yet the latest valuation work suggests the price now sits at a premium to its intrinsic value estimate, while market multiples look roughly in line with peers. A 142.4% gain over 5 years signals that long term holders have already enjoyed substantial returns, so fresh buyers are stepping in at a very different entry point. Growing expectations around Cisco’s role in AI driven networking and cloud managed...",
+      "publisher": "Simply Wall St.",
+      "published_utc": "2026-07-03T00:22:26Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-csco-stock-looks-stretched-002226827.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-csco-stock-looks-stretched-002226827.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VHMvoAlyQaRZcxjJbAgW1A--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/04fa3ad5da96418a6614fef94d5b3a77"
+    },
     {
       "title": "Cisco Systems (CSCO) Stock Moves -3.69%: What You Should Know",
       "summary": "In the most recent trading session, Cisco Systems (CSCO) closed at $112.69, indicating a -3.69% shift from the previous trading day.",
@@ -12,60 +57,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-csco-stock-moves-214505185.html",
       "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-csco-stock-moves-214505185.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/XxozWWpdDFgGg6m0CzltLg--~B/aD02MDI7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/45c083e4721b0d0d1f6e431ec0bb5cc1"
-    },
-    {
-      "title": "Cisco Has 90,000 Employees. Each of Them Will Soon Have Their Own AI Agent.",
-      "summary": "Here’s how AI agents are changing the game at Cisco.",
-      "publisher": "Entrepreneur",
-      "published_utc": "2026-07-02T15:30:23Z",
-      "url": "https://www.entrepreneur.com/business-news/cisco-has-90000-employees-each-of-them-will-soon-have-their-own-ai-agent",
-      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/cisco-90-000-employees-them-153023512.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/oEotCDooCXqQkJVm51ZORQ--~B/aD0xNjAwO3c9MjUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/entrepreneur_869/8a5e276f9624da321a07471274e079b2"
-    },
-    {
-      "title": "Cisco’s Forecast Beats the Bearish Retail Crowd. Here’s the Target",
-      "summary": "Cisco Systems (NASDAQ:CSCO) has quietly become one of the most compelling AI infrastructure plays in the market, even as retail chatter has turned sour. The company just posted record quarterly revenue of $15.8 billion, raised full-year guidance, and told investors it now expects to book $9 billion in AI infrastructure orders from hyperscalers in FY26. ... Cisco’s Forecast Beats the Bearish Retail Crowd. Here’s the Target",
-      "publisher": "24/7 Wall St.",
-      "published_utc": "2026-07-02T15:03:12Z",
-      "url": "https://247wallst.com/investing/2026/07/02/ciscos-forecast-beats-the-bearish-retail-crowd-heres-the-target/",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-forecast-beats-bearish-retail-150312447.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/H4JNxme74CUFt7KwsGCu8g--~B/aD03Njg7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/0c0b236512d78e9abf66a556c30cc943"
-    },
-    {
-      "title": "The Zacks Analyst Blog Highlights AMD, Lam Research, Cisco Systems, Perma-Pipe international and AstroNova",
-      "summary": "AMD, Lam Research and Cisco headline new analyst reports as AI demand, semiconductor spending and networking trends drive growth across featured stocks.",
-      "publisher": "Zacks",
-      "published_utc": "2026-07-02T12:55:00Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-amd-125500578.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-amd-125500578.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/EW5J2mTHnTyNfdMxx3VZiw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/77a053cf2d2dc44c2e658d9c7a167193"
-    },
-    {
-      "title": "Dow Records Best 1H Performance Since 2021: 5 Top Picks for 2H 2026",
-      "summary": "Dow posted its best first-half gain since 2021. CSCO, CAT, V, KO and AMZN are five blue-chip stocks highlighted for potential second-half momentum.",
-      "publisher": "Zacks",
-      "published_utc": "2026-07-02T12:21:00Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dow-records-best-1h-performance-122100508.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/dow-records-best-1h-performance-122100508.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JxF30o4n54a3_xYQeZrUZA--~B/aD00MTE7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/11b5fbdd2160f220199b8f17b9bc290e"
-    },
-    {
-      "title": "3 Growth Stocks with Explosive Upside",
-      "summary": "Growth is oxygen. But when it evaporates, the consequences can be severe - ask anyone who bought Cisco in the Dot-Com Bubble or newer investors who lived through the 2020 to 2022 COVID cycle.",
-      "publisher": "StockStory",
-      "published_utc": "2026-07-02T11:48:24Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-explosive-upside-114824650.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-explosive-upside-114824650.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/buOdudi28B.0yo80EI_Jtg--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/69b20cc54e4aad6a6eb82eb7170e485c"
-    },
-    {
-      "title": "Top Analyst Reports for AMD, Lam Research & Cisco",
-      "summary": "AMD's AI-driven data center growth, Lam Research's chip equipment momentum and Cisco's AI demand headline today's top analyst reports.",
-      "publisher": "Zacks",
-      "published_utc": "2026-07-01T21:51:00Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-amd-lam-215100529.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-amd-lam-215100529.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/TuiWJqHciXHZR_bGyeNHIg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/81363f0fa347434ddebadf36a3b1e792"
     }
   ]
 }
