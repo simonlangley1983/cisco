@@ -2,10 +2,11 @@ name: Update Cisco share price data
 
 on:
   schedule:
-    # US market hours, weekdays. Avoids :00 to reduce GitHub delays.
-    - cron: "17,47 14-21 * * 1-5"
+    # Every 30 minutes during US market hours (Mon-Fri)
+    - cron: "17 14-21 * * 1-5"
+    - cron: "47 14-21 * * 1-5"
 
-    # Daily late refresh for news/rankings.
+    # Daily late refresh for news/rankings
     - cron: "15 23 * * *"
 
   workflow_dispatch:
