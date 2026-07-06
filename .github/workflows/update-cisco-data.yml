@@ -2,8 +2,17 @@ name: Update Cisco share price data
 
 on:
   schedule:
+    # US market hours, weekdays. Avoids :00 to reduce GitHub delays.
+    - cron: "17,47 14-21 * * 1-5"
+
+    # Daily late refresh for news/rankings.
     - cron: "15 23 * * *"
+
   workflow_dispatch:
+
+concurrency:
+  group: update-cisco-data
+  cancel-in-progress: true
 
 permissions:
   contents: write
@@ -31,10 +40,12 @@ jobs:
           python scripts/build_cisco_json.py
 
       - name: Generate Cisco news
+        if: github.event.schedule == '15 23 * * *' || github.event_name == 'workflow_dispatch'
         run: |
           python scripts/generate_news.py
 
       - name: Update Cisco market cap rank
+        if: github.event.schedule == '15 23 * * *' || github.event_name == 'workflow_dispatch'
         run: |
           python scripts/generate_market_cap_rank.py
 
