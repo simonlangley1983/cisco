@@ -1,9 +1,27 @@
 {
-  "generated_utc": "2026-07-06T14:24:24.535164Z",
+  "generated_utc": "2026-07-07T00:19:27.751272Z",
   "symbol": "CSCO",
   "company": "Cisco",
-  "article_count": 5,
+  "article_count": 3,
   "articles": [
+    {
+      "title": "The Wide-Open Possibilities The Options Market Sees In Cisco Stock",
+      "summary": "If you hold shares in this networking giant, you are already exposed to a notably large potential swing in its value over the next year.",
+      "publisher": "Trefis",
+      "published_utc": "2026-07-06T18:16:10Z",
+      "url": "https://www.trefis.com/articles/605498/the-wide-open-possibilities-the-options-market-sees-in-cisco-stock/2026-07-06",
+      "yahoo_url": "https://finance.yahoo.com/markets/options/articles/wide-open-possibilities-options-market-181610548.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RuzvG8kA5o_InMSxxcxA.w--~B/aD0xMjgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/trefis_142/21472cc541eddccb9d7006b756f72e45"
+    },
+    {
+      "title": "Can Cisco's AI Networking Momentum Lift CSCO Stock Higher?",
+      "summary": "CSCO's networking business is gaining momentum as AI infrastructure demand, campus refresh projects and hyperscaler deployments fuel a broader growth cycle.",
+      "publisher": "Zacks",
+      "published_utc": "2026-07-06T16:19:00Z",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ciscos-ai-networking-momentum-lift-161900761.html",
+      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/ciscos-ai-networking-momentum-lift-161900761.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/EW5J2mTHnTyNfdMxx3VZiw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/77a053cf2d2dc44c2e658d9c7a167193"
+    },
     {
       "title": "The Zacks Analyst Blog Highlights Cisco Systems, Johnson Controls and Cenovus Energy",
       "summary": "CSCO, JCI and CVE are highlighted as AI investment and sector rankings shape Zacks' July market strategy.",
@@ -12,42 +30,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-cisco-092900639.html",
       "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-cisco-092900639.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/EW5J2mTHnTyNfdMxx3VZiw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/77a053cf2d2dc44c2e658d9c7a167193"
-    },
-    {
-      "title": "Cisco Is Up 46% and Oracle Is Down 25% in 2026. The Better Dividend Buy Might Surprise You.",
-      "summary": "Cisco is up 46% in 2026 while Oracle has slid 25%, and Wall Street sees up to 185% upside for one of them. Here's how the two tech giants compare on value, yield, and dividend growth.",
-      "publisher": "Barchart",
-      "published_utc": "2026-07-03T23:00:02Z",
-      "url": "https://www.barchart.com/story/news/3122384/cisco-is-up-46-and-oracle-is-down-25-in-2026-the-better-dividend-buy-might-surprise-you",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-46-oracle-down-25-230002737.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/IIqMMKHvqgYnkPzIhdwC4Q--~B/aD05MTM7dz0xNjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/barchart_com_477/21b3e121a99cb25406bfa2657ca87846"
-    },
-    {
-      "title": "2 Growth Stocks with All-Star Potential and 1 Facing Challenges",
-      "summary": "Growth is oxygen. But when it evaporates, the consequences can be severe - ask anyone who bought Cisco in the Dot-Com Bubble or newer investors who lived through the 2020 to 2022 COVID cycle.",
-      "publisher": "StockStory",
-      "published_utc": "2026-07-03T16:18:06Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/2-growth-stocks-star-potential-161806748.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/2-growth-stocks-star-potential-161806748.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/TL85ubL2i65ABePAxCaeCQ--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/ed88d876281c097cbcb9ccb93aa60771"
-    },
-    {
-      "title": "3 Growth Stocks We Steer Clear Of",
-      "summary": "Growth is oxygen. But when it evaporates, the consequences can be severe - ask anyone who bought Cisco in the Dot-Com Bubble or newer investors who lived through the 2020 to 2022 COVID cycle.",
-      "publisher": "StockStory",
-      "published_utc": "2026-07-03T16:10:06Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-steer-clear-161006872.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-steer-clear-161006872.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/rXD6FpaKASB7476.iDal9Q--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/0bb3ade2085ccd800b3ce0f2b7212c7f"
-    },
-    {
-      "title": "Are Computer and Technology Stocks Lagging  Cisco Systems (CSCO) This Year?",
-      "summary": "Here is how Cisco Systems (CSCO) and Arteris, Inc. (AIP) have performed compared to their sector so far this year.",
-      "publisher": "Zacks",
-      "published_utc": "2026-07-03T13:40:04Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/computer-technology-stocks-lagging-cisco-134004249.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/computer-technology-stocks-lagging-cisco-134004249.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nxwFIPS2ImeTQYZMYlnAgg--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/1a018a29aef5adbf5b4319f32058e209"
     }
   ]
 }
