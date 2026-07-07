@@ -1,4 +1,4 @@
-name: update
+name: Update Cisco share price data
 
 on:
   workflow_dispatch:
@@ -7,19 +7,22 @@ on:
     # Covers 09:30-16:00 New York time in both summer and winter.
     - cron: "*/15 13-21 * * 1-5"
 
+    # Daily late refresh for news/rankings
+    - cron: "15 23 * * *"
+
+concurrency:
+  group: update-cisco-data
+  cancel-in-progress: true
+
 permissions:
   contents: write
 
-concurrency:
-  group: update-dashboard-data
-  cancel-in-progress: true
-
 jobs:
-  update:
+  update-cisco-data:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Check out repo
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
@@ -30,35 +33,46 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Run updater
+      - name: Install dependencies
         run: |
-          python update.py
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
-      - name: Show key outputs (debug)
+      - name: Build Cisco JSON
         run: |
-          echo "---- portfolios.json ----"
-          cat portfolios.json || true
-          echo "---- latest.json ----"
-          cat latest.json || true
-          echo "---- history.json ----"
-          cat history.json || true
+          python scripts/build_cisco_json.py
+
+      - name: Generate Cisco news
+        if: github.event.schedule == '15 23 * * *' || github.event_name == 'workflow_dispatch'
+        run: |
+          python scripts/generate_news.py
+
+      - name: Update Cisco market cap rank
+        if: github.event.schedule == '15 23 * * *' || github.event_name == 'workflow_dispatch'
+        run: |
+          python scripts/generate_market_cap_rank.py
+
+      - name: Show key outputs
+        run: |
+          echo "---- cisco_daily.json ----"
+          cat data/cisco_daily.json || true
+          echo "---- cisco_news.json ----"
+          cat data/cisco_news.json || true
           echo "---- git status ----"
           git status --porcelain
 
       - name: Commit and push changes
         run: |
           set -e
-          git config user.name "invest-game-bot"
-          git config user.email "actions@users.noreply.github.com"
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
 
-          # Always stage the generated outputs
-          git add latest.json history.json state.json
+          git add data/cisco_daily.json data/cisco_news.json
 
-          # If there are no changes, stop cleanly
           if git diff --cached --quiet; then
-            echo "No changes to commit"
+            echo "No changes detected."
             exit 0
           fi
 
-          git commit -m "Update dashboard data"
+          git commit -m "Update Cisco share price and news data"
           git push
