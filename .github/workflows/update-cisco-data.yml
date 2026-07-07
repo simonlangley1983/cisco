@@ -1,87 +1,64 @@
-name: Update Cisco share price data
+name: update
 
 on:
-  schedule:
-    # Every 30 minutes during US market hours (Mon-Fri)
-    - cron: "17 14-21 * * 1-5"
-    - cron: "47 14-21 * * 1-5"
-
-    # Daily late refresh for news/rankings
-    - cron: "15 23 * * *"
-
   workflow_dispatch:
-
-concurrency:
-  group: update-cisco-data
-  cancel-in-progress: true
+  schedule:
+    # Every 15 minutes across US market hours, allowing for DST shifts.
+    # Covers 09:30-16:00 New York time in both summer and winter.
+    - cron: "*/15 13-21 * * 1-5"
 
 permissions:
   contents: write
 
+concurrency:
+  group: update-dashboard-data
+  cancel-in-progress: true
+
 jobs:
-  update-cisco-data:
+  update:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check out repo
+      - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Install dependencies
+      - name: Run updater
         run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          python update.py
 
-      - name: Build Cisco JSON
+      - name: Show key outputs (debug)
         run: |
-          python scripts/build_cisco_json.py
+          echo "---- portfolios.json ----"
+          cat portfolios.json || true
+          echo "---- latest.json ----"
+          cat latest.json || true
+          echo "---- history.json ----"
+          cat history.json || true
+          echo "---- git status ----"
+          git status --porcelain
 
-      - name: Generate Cisco news
-        if: github.event.schedule == '15 23 * * *' || github.event_name == 'workflow_dispatch'
+      - name: Commit and push changes
         run: |
-          python scripts/generate_news.py
+          set -e
+          git config user.name "invest-game-bot"
+          git config user.email "actions@users.noreply.github.com"
 
-      - name: Update Cisco market cap rank
-        if: github.event.schedule == '15 23 * * *' || github.event_name == 'workflow_dispatch'
-        run: |
-          python scripts/generate_market_cap_rank.py
+          # Always stage the generated outputs
+          git add latest.json history.json state.json
 
-      - name: Confirm peer data exists
-        run: |
-          python - <<'PY'
-          import json
-          from pathlib import Path
-
-          path = Path("data/cisco_daily.json")
-          data = json.loads(path.read_text())
-
-          print("Top-level keys:", list(data.keys()))
-          print("Peer symbols:", list(data.get("peer_records", {}).keys()))
-
-          if "peer_records" not in data:
-              raise SystemExit("ERROR: peer_records missing from cisco_daily.json")
-
-          if not data["peer_records"]:
-              raise SystemExit("ERROR: peer_records exists but is empty")
-
-          for symbol, rows in data["peer_records"].items():
-              print(symbol, "records:", len(rows))
-          PY
-
-      - name: Commit updated files
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-
-          git add data/cisco_daily.json data/cisco_news.json
-
+          # If there are no changes, stop cleanly
           if git diff --cached --quiet; then
-            echo "No changes detected."
-          else
-            git commit -m "Update Cisco share price and news data"
-            git push
+            echo "No changes to commit"
+            exit 0
           fi
+
+          git commit -m "Update dashboard data"
+          git push
