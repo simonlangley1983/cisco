@@ -1,9 +1,18 @@
 {
-  "generated_utc": "2026-07-11T00:08:14.827275Z",
+  "generated_utc": "2026-07-12T00:08:53.218724Z",
   "symbol": "CSCO",
   "company": "Cisco",
-  "article_count": 1,
+  "article_count": 2,
   "articles": [
+    {
+      "title": "Robinhood, AI Plays Lead Five Stocks Near Buy Points",
+      "summary": "Robinhood Markets and a pair of resurgent AI infrastructure plays, Dell Technologies and Cisco Systems, lead this weekend's watchlist of five stocks near buy points.  Joining HOOD and AI stocks DELL and CSCO are two IRL (in real life) stocks.  Outfront Media, a real estate investment trust, focuses on billboard and transit advertising, while Match Group operates Tinder and other dating sites.",
+      "publisher": "Investor's Business Daily",
+      "published_utc": "2026-07-11T15:34:00Z",
+      "url": "https://www.investors.com/news/robinhood-ai-plays-lead-five-stocks-near-buy-points/?src=A00220&yptr=yahoo",
+      "yahoo_url": null,
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/EjStG4yglHr1k.5Itev99w--~B/aD01MzM7dz05NDU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/559e977a0eb020a047bf3a3c78adf328"
+    },
     {
       "title": "Cisco, IBD Stock Of The Day, Went From Slow-Growth Tech Icon To AI Infrastructure Leader",
       "summary": "Cisco stock has surged as AI networking, optics, Splunk and hyperscaler spending transform the company into an infrastructure winner.",
