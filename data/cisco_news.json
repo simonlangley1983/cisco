@@ -1,9 +1,45 @@
 {
-  "generated_utc": "2026-07-13T00:08:57.555491Z",
+  "generated_utc": "2026-07-14T00:05:19.884156Z",
   "symbol": "CSCO",
   "company": "Cisco",
-  "article_count": 2,
+  "article_count": 5,
   "articles": [
+    {
+      "title": "The Overlooked Growth Engine Powering Cisco Systems Stock",
+      "summary": "You might think you know this networking giant, but a new business in AI infrastructure is quietly forging its next era of growth.",
+      "publisher": "Trefis",
+      "published_utc": "2026-07-13T22:04:44Z",
+      "url": "https://www.trefis.com/articles/606816/the-overlooked-growth-engine-powering-cisco-systems-stock/2026-07-13",
+      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/overlooked-growth-engine-powering-cisco-220444846.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Ay1X8YW3cHQVxE1fX7efLw--~B/aD05NTk7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/trefis_142/74cd6d277b6b12eba5210fda18f54197"
+    },
+    {
+      "title": "Bull of the Day: Cisco Systems (CSCO)",
+      "summary": "Cisco shares have been red-hot in 2026 on the back of favorable quarterly results that have revealed hot demand for its solutions for AI infrastructure.",
+      "publisher": "Zacks",
+      "published_utc": "2026-07-13T09:00:00Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bull-day-cisco-systems-csco-090000968.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/bull-day-cisco-systems-csco-090000968.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/t8sbrz3m0S74yr4Xoe6zaA--~B/aD0zMjY7dz00ODQ7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/e2581bb7ff03a5ef0e05050bdd749129"
+    },
+    {
+      "title": "Zacks Market Edge Highlights:  Ford Motor, Wayfair and Cisco",
+      "summary": "Ford Motor, Wayfair and Cisco have been highlighted in this Market Edge article.",
+      "publisher": "Zacks",
+      "published_utc": "2026-07-13T07:36:00Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-market-edge-highlights-ford-073600526.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/zacks-market-edge-highlights-ford-073600526.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/TYvfq5RYMYTbCJ.l4NVR2g--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/6f9fd5d81a15fcc24562a2f18e90107c"
+    },
+    {
+      "title": "Cisco and Planet Fitness have been highlighted as Zacks Bull and Bear of the Day",
+      "summary": "Cisco and Planet Fitness have been highlighted as Zacks Bull and Bear of the Day",
+      "publisher": "Zacks",
+      "published_utc": "2026-07-13T07:01:00Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-planet-fitness-highlighted-zacks-070100254.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-planet-fitness-highlighted-zacks-070100254.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/EW5J2mTHnTyNfdMxx3VZiw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/77a053cf2d2dc44c2e658d9c7a167193"
+    },
     {
       "title": "Robinhood, AI Plays Lead Five Stocks Near Buy Points",
       "summary": "Robinhood Markets and a pair of resurgent AI infrastructure plays, Dell Technologies and Cisco Systems, lead this weekend's watchlist of five stocks near buy points.  Joining HOOD and AI stocks DELL and CSCO are two IRL (in real life) stocks.  Outfront Media, a real estate investment trust, focuses on billboard and transit advertising, while Match Group operates Tinder and other dating sites.",
@@ -12,15 +48,6 @@
       "url": "https://www.investors.com/news/robinhood-ai-plays-lead-five-stocks-near-buy-points/?src=A00220&yptr=yahoo",
       "yahoo_url": null,
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/EjStG4yglHr1k.5Itev99w--~B/aD01MzM7dz05NDU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/559e977a0eb020a047bf3a3c78adf328"
-    },
-    {
-      "title": "Cisco, IBD Stock Of The Day, Went From Slow-Growth Tech Icon To AI Infrastructure Leader",
-      "summary": "Cisco stock has surged as AI networking, optics, Splunk and hyperscaler spending transform the company into an infrastructure winner.",
-      "publisher": "Investor's Business Daily",
-      "published_utc": "2026-07-10T21:33:29Z",
-      "url": "https://www.investors.com/research/ibd-stock-of-the-day/cisco-stock-tech-icon-artificial-intelligence-transformation/?src=A00220&yptr=yahoo",
-      "yahoo_url": null,
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bIcKQzBndF2ZZJ6_B8W1ug--~B/aD00MzA7dz04MTY7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/76aa93ee7ab3842d811bf33d6f6ad015"
     }
   ]
 }
