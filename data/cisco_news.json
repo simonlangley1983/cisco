@@ -1,9 +1,18 @@
 {
-  "generated_utc": "2026-07-18T00:06:36.767708Z",
+  "generated_utc": "2026-07-19T00:07:28.974613Z",
   "symbol": "CSCO",
   "company": "Cisco",
-  "article_count": 4,
+  "article_count": 5,
   "articles": [
+    {
+      "title": "What You Actually Pay To Join The CSCO Run",
+      "summary": "The networking giant is on a tear, powered by a genuine business surge, but for investors arriving now, the critical question is what the ticket costs.",
+      "publisher": "Trefis",
+      "published_utc": "2026-07-18T14:09:17Z",
+      "url": "https://www.trefis.com/articles/607748/what-you-actually-pay-to-join-the-csco-run/2026-07-18",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/actually-pay-join-csco-run-140917994.html",
+      "thumbnail": null
+    },
     {
       "title": "A $10,000 Investment in Cisco When Chuck Robbins Became CEO Is Worth This Much Today",
       "summary": "Chuck Robbins inherited a hardware dinosaur that Wall Street wrote off as dead money, then spent a decade quietly rewriting Cisco's future around software, security, and AI. Whether the payoff justifies the wait depends entirely on what happened to patient shareholders.",
