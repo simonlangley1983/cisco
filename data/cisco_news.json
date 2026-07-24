@@ -1,9 +1,27 @@
 {
-  "generated_utc": "2026-07-23T00:12:11.252824Z",
+  "generated_utc": "2026-07-24T00:09:25.999196Z",
   "symbol": "CSCO",
   "company": "Cisco",
-  "article_count": 5,
+  "article_count": 4,
   "articles": [
+    {
+      "title": "Has Cisco Systems (CSCO) Run Ahead Of Fair Value Following Its Webex Contact Center Deal?",
+      "summary": "Cisco Systems (CSCO) has been in focus after SuccessKPI announced a partnership to integrate its Workforce Engagement Management and intelligence tools directly into Cisco’s Webex Contact Center, creating a single cloud-native platform for hybrid human and AI contact centers. See our latest analysis for Cisco Systems. Cisco Systems’ recent partnerships around Webex Contact Center, quantum secure networking and security platforms sit against a share price of US$112.21, with a 90-day share...",
+      "publisher": "Simply Wall St.",
+      "published_utc": "2026-07-23T15:15:26Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-csco-run-ahead-151526960.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-csco-run-ahead-151526960.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VHMvoAlyQaRZcxjJbAgW1A--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/04fa3ad5da96418a6614fef94d5b3a77"
+    },
+    {
+      "title": "Cisco Systems' Quarterly Earnings Preview: What You Need to Know",
+      "summary": "Cisco Systems is set to post its fourth-quarter results soon, and analysts predict a double-digit growth in the company’s bottom-line figure.",
+      "publisher": "Barchart",
+      "published_utc": "2026-07-23T13:07:59Z",
+      "url": "https://www.barchart.com/story/news/3426835/cisco-systems-quarterly-earnings-preview-what-you-need-to-know",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-quarterly-earnings-preview-130759921.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HF6AagKogu8x.U8.8.ySbw--~B/aD04MzY7dz0xMjU0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/barchart_com_477/bec27416fdbe79bd1eb29e2bdbc3efb1"
+    },
     {
       "title": "What Cisco Stock Was Telling You About Its AI Orders",
       "summary": "You could be forgiven for glancing at Cisco (CSCO)’s financials in early 2025 and promptly falling asleep. As of its fiscal third-quarter report for FY 2025 (July fiscal ending), trailing-twelve-month revenue had grown 0.5%. It was a picture of a mature tech titan, not a rocket ship.",
@@ -21,33 +39,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-sell-csco-1-174226933.html",
       "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-sell-csco-1-174226933.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/02NPs_FyOnxlYViQFXfSYA--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/13084f782bf37f7c367bffc0690421cd"
-    },
-    {
-      "title": "Cisco Systems (CSCO) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
-      "summary": "In the closing of the recent trading day, Cisco Systems (CSCO) stood at $110.7, denoting a -1.11% move from the preceding trading day.",
-      "publisher": "Zacks",
-      "published_utc": "2026-07-20T21:45:04Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-csco-sees-more-214504941.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-csco-sees-more-214504941.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/QOfludHza1dTKV8R6Coeiw--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/48ad4265c55e3ba7a1fb9148d6e717d9"
-    },
-    {
-      "title": "Cisco (CSCO) Tests Quantum Networking While Webex Adds AI Contact Center Partner",
-      "summary": "Cisco Systems is piloting Aliro Orchestrator as a quantum network management layer at its Photonics Center in Italy, using live quantum key distribution with Cisco routers. The company has also entered a new partnership with SuccessKPI to bring AI-powered workforce engagement and operational intelligence to Webex Contact Center. These developments extend Cisco's activity in quantum secure networking and AI enabled contact center operations, with unified oversight of human and AI...",
-      "publisher": "Simply Wall St.",
-      "published_utc": "2026-07-20T16:09:03Z",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-csco-tests-quantum-networking-160903232.html",
-      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/cisco-csco-tests-quantum-networking-160903232.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VHMvoAlyQaRZcxjJbAgW1A--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/04fa3ad5da96418a6614fef94d5b3a77"
-    },
-    {
-      "title": "Price Prediction: Cisco Stock Will Double on This Date",
-      "summary": "Cisco is up nearly 50% this year and just raised its AI order target by 80%, yet the stock sits well below its 52-week high. A bold model now maps a specific path to a price that would shock most analysts.",
-      "publisher": "24/7 Wall St.",
-      "published_utc": "2026-07-20T14:30:51Z",
-      "url": "https://247wallst.com/investing/2026/07/20/price-prediction-cisco-stock-will-double-on-this-date/",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/price-prediction-cisco-stock-double-143051748.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VC03KaZl4j4mSb8_42fQvg--~B/aD0xNzA3O3c9MjU2MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/7584fd9b9c962aeaacac372014350aaa"
     }
   ]
 }
