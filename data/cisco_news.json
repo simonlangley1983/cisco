@@ -1,9 +1,27 @@
 {
-  "generated_utc": "2026-07-30T00:09:01.423733Z",
+  "generated_utc": "2026-07-31T00:14:33.924775Z",
   "symbol": "CSCO",
   "company": "Cisco",
-  "article_count": 4,
+  "article_count": 3,
   "articles": [
+    {
+      "title": "3 Growth Stocks with Open Questions",
+      "summary": "Growth is oxygen. But when it evaporates, the consequences can be severe - ask anyone who bought Cisco in the Dot-Com Bubble or newer investors who lived through the 2020 to 2022 COVID cycle.",
+      "publisher": "StockStory",
+      "published_utc": "2026-07-30T06:45:02Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-open-questions-064502848.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-open-questions-064502848.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3DKeHNUVhZiT.KYvUEekcA--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/50356188ceac26855046e834de2f08c7"
+    },
+    {
+      "title": "Cisco (CSCO) Stock Fair Value Edges Higher After AI Networking Order Strength",
+      "summary": "Cisco Systems now carries a slightly higher assessed fair value, with the price target moving from US$127.05 to US$130.23. Recent Street research links this change to higher fair value estimates tied to AI infrastructure demand, networking order strength and management guidance on future AI related revenue, while still flagging pockets of risk. As you read on, you will see how this evolving analyst narrative around Cisco Systems can help you track what really matters for the stock story from...",
+      "publisher": "Simply Wall St.",
+      "published_utc": "2026-07-30T06:07:48Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-csco-stock-fair-value-060748930.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-csco-stock-fair-value-060748930.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VHMvoAlyQaRZcxjJbAgW1A--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/04fa3ad5da96418a6614fef94d5b3a77"
+    },
     {
       "title": "Here's Why Cisco Systems (CSCO) Fell More Than Broader Market",
       "summary": "Cisco Systems (CSCO) closed at $112.48 in the latest trading session, marking a -2.68% move from the prior day.",
@@ -12,33 +30,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-cisco-systems-csco-214503481.html",
       "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-cisco-systems-csco-214503481.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/d6hN0_BhikrNdWTnix6fng--~B/aD03NDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/7853de8d69faeccb7d1ad6ebba40b8a2"
-    },
-    {
-      "title": "The Volatility Warning Embedded in Cisco Stock",
-      "summary": "Beneath the surface of its recent run, the market is pricing a notably wide range of outcomes for the networking giant, a risk you carry whether you trade options or not.",
-      "publisher": "Trefis",
-      "published_utc": "2026-07-29T13:43:54Z",
-      "url": "https://www.trefis.com/articles/609111/the-volatility-warning-embedded-in-cisco-stock/2026-07-29",
-      "yahoo_url": "https://finance.yahoo.com/markets/options/articles/volatility-warning-embedded-cisco-stock-134354816.html",
-      "thumbnail": null
-    },
-    {
-      "title": "Eliyan raises $145 million at $1 billion valuation to ease AI chip data bottlenecks",
-      "summary": "Eliyan, a startup that aims to ease the bottlenecks in transferring data between AI chips in data centers, ‌said on Wednesday it had raised $145 million in venture funding at a $1 billion ‌valuation.  Cisco Systems, Lumentum and an early investor in networking pioneer Mellanox before its sale to Nvidia backed the raising, ​according to Santa Clara, California-based Eliyan.  The startup is developing technology aimed at the growing list of companies that are developing their own custom AI computing chips to compete with graphics processing units from Nvidia and Advanced Micro Devices.",
-      "publisher": "Reuters",
-      "published_utc": "2026-07-29T13:06:37Z",
-      "url": "https://finance.yahoo.com/technology/ai/articles/eliyan-raises-145-million-1-130637741.html",
-      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/eliyan-raises-145-million-1-130637741.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VI_lF6qyESlsBhjBxEaDDw--~B/aD01MzI7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/0eda9fb88fa3d50303d28d8bc1cebcd5"
-    },
-    {
-      "title": "Zacks Industry Outlook Highlights Cisco Systems, Extreme Networks and Digi International",
-      "summary": "Cisco Systems leads networking stocks benefiting from AI infrastructure demand, despite industry headwinds from cautious IT spending and supply-chain uncertainty.",
-      "publisher": "Zacks",
-      "published_utc": "2026-07-29T08:52:00Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-industry-outlook-highlights-cisco-085200540.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/zacks-industry-outlook-highlights-cisco-085200540.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/EW5J2mTHnTyNfdMxx3VZiw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/77a053cf2d2dc44c2e658d9c7a167193"
     }
   ]
 }
