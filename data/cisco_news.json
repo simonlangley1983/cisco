@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-08-01T00:10:31.375533Z",
+  "generated_utc": "2026-08-02T00:09:33.282811Z",
   "symbol": "CSCO",
   "company": "Cisco",
-  "article_count": 3,
+  "article_count": 2,
   "articles": [
     {
       "title": "3 Growth Stocks with Open Questions",
@@ -21,15 +21,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-csco-stock-fair-value-060748930.html",
       "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-csco-stock-fair-value-060748930.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VHMvoAlyQaRZcxjJbAgW1A--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/04fa3ad5da96418a6614fef94d5b3a77"
-    },
-    {
-      "title": "Here's Why Cisco Systems (CSCO) Fell More Than Broader Market",
-      "summary": "Cisco Systems (CSCO) closed at $112.48 in the latest trading session, marking a -2.68% move from the prior day.",
-      "publisher": "Zacks",
-      "published_utc": "2026-07-29T21:45:03Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-cisco-systems-csco-214503481.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-cisco-systems-csco-214503481.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/d6hN0_BhikrNdWTnix6fng--~B/aD03NDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/7853de8d69faeccb7d1ad6ebba40b8a2"
     }
   ]
 }
