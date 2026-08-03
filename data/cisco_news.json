@@ -1,9 +1,18 @@
 {
-  "generated_utc": "2026-08-02T00:09:33.282811Z",
+  "generated_utc": "2026-08-03T00:10:16.621508Z",
   "symbol": "CSCO",
   "company": "Cisco",
   "article_count": 2,
   "articles": [
+    {
+      "title": "Prediction: Up 50% YTD, Cisco Will End The Year at This Price",
+      "summary": "Cisco has quietly transformed from a slow-growth networking dinosaur into one of 2026's biggest mega-cap winners, but the real question is whether the catalyst behind this rally signals a durable shift or a setup ripe for disappointment.",
+      "publisher": "24/7 Wall St.",
+      "published_utc": "2026-08-02T14:30:22Z",
+      "url": "https://247wallst.com/investing/2026/08/02/prediction-up-50-ytd-cisco-will-end-the-year-at-this-price/",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/prediction-50-ytd-cisco-end-143022057.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/93F_eRcg1D86EK3pADToDg--~B/aD0xMDAwO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/0540c8c48d56fc6e38c1755d8ffa437d"
+    },
     {
       "title": "3 Growth Stocks with Open Questions",
       "summary": "Growth is oxygen. But when it evaporates, the consequences can be severe - ask anyone who bought Cisco in the Dot-Com Bubble or newer investors who lived through the 2020 to 2022 COVID cycle.",
@@ -12,15 +21,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-open-questions-064502848.html",
       "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-open-questions-064502848.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3DKeHNUVhZiT.KYvUEekcA--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/50356188ceac26855046e834de2f08c7"
-    },
-    {
-      "title": "Cisco (CSCO) Stock Fair Value Edges Higher After AI Networking Order Strength",
-      "summary": "Cisco Systems now carries a slightly higher assessed fair value, with the price target moving from US$127.05 to US$130.23. Recent Street research links this change to higher fair value estimates tied to AI infrastructure demand, networking order strength and management guidance on future AI related revenue, while still flagging pockets of risk. As you read on, you will see how this evolving analyst narrative around Cisco Systems can help you track what really matters for the stock story from...",
-      "publisher": "Simply Wall St.",
-      "published_utc": "2026-07-30T06:07:48Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-csco-stock-fair-value-060748930.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-csco-stock-fair-value-060748930.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VHMvoAlyQaRZcxjJbAgW1A--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/04fa3ad5da96418a6614fef94d5b3a77"
     }
   ]
 }
