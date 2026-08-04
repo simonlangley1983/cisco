@@ -1,9 +1,27 @@
 {
-  "generated_utc": "2026-08-03T00:10:16.621508Z",
+  "generated_utc": "2026-08-04T00:15:38.015456Z",
   "symbol": "CSCO",
   "company": "Cisco",
-  "article_count": 2,
+  "article_count": 3,
   "articles": [
+    {
+      "title": "Cisco (CSCO) Stock May Trade At A Cash Flow Premium While Earnings Look Fair",
+      "summary": "Cisco Systems stock has delivered strong multi year gains, yet current valuation checks suggest the shares now sit close to an intrinsic value estimate rather than standing out as a bargain. The Discounted Cash Flow (DCF) intrinsic value and market based multiples both point to a price that looks about right given what the market knows today. Over the last 5 years Cisco Systems has returned roughly 140%, which puts fresh focus on whether the current share price already reflects much of that...",
+      "publisher": "Simply Wall St.",
+      "published_utc": "2026-08-03T21:08:54Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-csco-stock-may-trade-210854340.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-csco-stock-may-trade-210854340.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VHMvoAlyQaRZcxjJbAgW1A--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/04fa3ad5da96418a6614fef94d5b3a77"
+    },
+    {
+      "title": "CSCO, SPOT, DASH Stocks In Focus: Bank Of America Turns Bullish Ahead Of Earnings",
+      "summary": "Bank of America recommends purchasing select stocks, including Spotify, Ralph Lauren, RB Global, DoorDash, and Cisco Systems, ahead of their quarterly financial releases.",
+      "publisher": "Stocktwits",
+      "published_utc": "2026-08-03T17:28:08Z",
+      "url": "https://stocktwits.com/news-articles/markets/equity/csco-spot-dash-stocks-bank-of-america-turns-bullish/cZoTk37RJ35",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/csco-spot-dash-stocks-focus-172808534.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/SYfrVPIrejLREVpKKpcTdg--~B/aD04NTQ7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stocktwits_383/808a30648ceaedd2e7f35b467a33cc40"
+    },
     {
       "title": "Prediction: Up 50% YTD, Cisco Will End The Year at This Price",
       "summary": "Cisco has quietly transformed from a slow-growth networking dinosaur into one of 2026's biggest mega-cap winners, but the real question is whether the catalyst behind this rally signals a durable shift or a setup ripe for disappointment.",
@@ -12,15 +30,6 @@
       "url": "https://247wallst.com/investing/2026/08/02/prediction-up-50-ytd-cisco-will-end-the-year-at-this-price/",
       "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/prediction-50-ytd-cisco-end-143022057.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/93F_eRcg1D86EK3pADToDg--~B/aD0xMDAwO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/0540c8c48d56fc6e38c1755d8ffa437d"
-    },
-    {
-      "title": "3 Growth Stocks with Open Questions",
-      "summary": "Growth is oxygen. But when it evaporates, the consequences can be severe - ask anyone who bought Cisco in the Dot-Com Bubble or newer investors who lived through the 2020 to 2022 COVID cycle.",
-      "publisher": "StockStory",
-      "published_utc": "2026-07-30T06:45:02Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-open-questions-064502848.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-open-questions-064502848.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/3DKeHNUVhZiT.KYvUEekcA--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/50356188ceac26855046e834de2f08c7"
     }
   ]
 }
