@@ -1,9 +1,18 @@
 {
-  "generated_utc": "2026-08-06T00:09:12.222622Z",
+  "generated_utc": "2026-08-06T22:08:32.426325Z",
   "symbol": "CSCO",
   "company": "Cisco",
-  "article_count": 6,
+  "article_count": 4,
   "articles": [
+    {
+      "title": "What's in Store for These 3 Networking Stocks This Earnings Season?",
+      "summary": "Cisco, Intrusion and RADCOM face a mixed earnings setup as AI networking demand rises, while cautious IT spending, costs and deployment delays weigh.",
+      "publisher": "Zacks",
+      "published_utc": "2026-08-06T15:13:00Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/whats-store-3-networking-stocks-151300866.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/whats-store-3-networking-stocks-151300866.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8o9rg2CrGEpifq1M3QJiHw--~B/aD00NzY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/c677c23b9536975282331581e339bd4c"
+    },
     {
       "title": "Cisco Systems to report amid expectations of continued AI infrastructure strength",
       "summary": "Cisco Systems Inc (NASDAQ:CSCO, XETRA:CIS) is set to report quarterly results after the market close on August 12, with UBS expecting the networking equipment maker to deliver revenue and earnings above consensus estimates, supported by accelerating demand for AI infrastructure and resilient...",
@@ -30,33 +39,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-likely-deliver-q4-revenue-173302257.html",
       "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-likely-deliver-q4-revenue-173302257.html",
       "thumbnail": null
-    },
-    {
-      "title": "3 Growth Stocks to Add to Your Roster",
-      "summary": "Growth is oxygen. But when it evaporates, the consequences can be severe - ask anyone who bought Cisco in the Dot-Com Bubble or newer investors who lived through the 2020 to 2022 COVID cycle.",
-      "publisher": "StockStory",
-      "published_utc": "2026-08-04T09:41:22Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-add-roster-094122002.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-add-roster-094122002.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.lB4ZWxiaYdSxDepkKrnOw--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/0de05e9307a2c148144339e87cee1d1a"
-    },
-    {
-      "title": "Are Wall Street Analysts Predicting Cisco Systems Stock Will Climb or Sink?",
-      "summary": "Cisco stock has outperformed the broader market over the past year, and analysts remain fairly bullish about its prospects.",
-      "publisher": "Barchart",
-      "published_utc": "2026-08-04T08:08:31Z",
-      "url": "https://www.barchart.com/story/news/3628848/are-wall-street-analysts-predicting-cisco-systems-stock-will-climb-or-sink",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-cisco-080831905.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HF6AagKogu8x.U8.8.ySbw--~B/aD04MzY7dz0xMjU0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/barchart_com_477/bec27416fdbe79bd1eb29e2bdbc3efb1"
-    },
-    {
-      "title": "Cisco (CSCO) Stock May Trade At A Cash Flow Premium While Earnings Look Fair",
-      "summary": "Cisco Systems stock has delivered strong multi year gains, yet current valuation checks suggest the shares now sit close to an intrinsic value estimate rather than standing out as a bargain. The Discounted Cash Flow (DCF) intrinsic value and market based multiples both point to a price that looks about right given what the market knows today. Over the last 5 years Cisco Systems has returned roughly 140%, which puts fresh focus on whether the current share price already reflects much of that...",
-      "publisher": "Simply Wall St.",
-      "published_utc": "2026-08-03T21:08:54Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-csco-stock-may-trade-210854340.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-csco-stock-may-trade-210854340.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VHMvoAlyQaRZcxjJbAgW1A--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/04fa3ad5da96418a6614fef94d5b3a77"
     }
   ]
 }
