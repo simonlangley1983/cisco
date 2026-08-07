@@ -1,9 +1,18 @@
 {
-  "generated_utc": "2026-08-06T22:08:32.426325Z",
+  "generated_utc": "2026-08-07T01:43:41.881379Z",
   "symbol": "CSCO",
   "company": "Cisco",
   "article_count": 4,
   "articles": [
+    {
+      "title": "Cisco Systems (CSCO) Expands Security And Webex Links, Is It 9% Overvalued?",
+      "summary": "Cisco Systems (CSCO) is back in focus as investors watch a cluster of AI and security developments, including its role in the Tech Mahindra Security Service Edge partnership and new emergency calling integration for Webex. See our latest analysis for Cisco Systems. Against this backdrop of AI infrastructure orders, security partnerships and the upcoming August 12 earnings call, Cisco Systems has seen momentum build, with a 30 day share price return of 8.13% and a 1 year total shareholder...",
+      "publisher": "Simply Wall St.",
+      "published_utc": "2026-08-06T22:12:20Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-csco-expands-security-221220461.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-csco-expands-security-221220461.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VHMvoAlyQaRZcxjJbAgW1A--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/04fa3ad5da96418a6614fef94d5b3a77"
+    },
     {
       "title": "What's in Store for These 3 Networking Stocks This Earnings Season?",
       "summary": "Cisco, Intrusion and RADCOM face a mixed earnings setup as AI networking demand rises, while cautious IT spending, costs and deployment delays weigh.",
@@ -30,15 +39,6 @@
       "url": "https://www.barchart.com/story/news/3644892/dear-cisco-stock-fans-earnings-are-just-around-the-corner",
       "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/dear-cisco-stock-fans-earnings-195723250.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/WLvp9PqewnwVWCScHqVz7g--~B/aD0xMDU2O3c9MTYwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/barchart_com_477/b63c711a1d81edaea11cbb32b25d904b"
-    },
-    {
-      "title": "Cisco Likely to Deliver Q4 Revenue, EPS Upside, UBS Says",
-      "summary": "Cisco Systems (CSCO) is expected to deliver revenue and EPS upside in Q4 following industry checks a",
-      "publisher": "MT Newswires",
-      "published_utc": "2026-08-04T17:33:02Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-likely-deliver-q4-revenue-173302257.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-likely-deliver-q4-revenue-173302257.html",
-      "thumbnail": null
     }
   ]
 }
