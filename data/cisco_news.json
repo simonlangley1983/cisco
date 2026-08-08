@@ -1,9 +1,27 @@
 {
-  "generated_utc": "2026-08-07T23:46:19.292663Z",
+  "generated_utc": "2026-08-08T23:42:53.559895Z",
   "symbol": "CSCO",
   "company": "Cisco",
-  "article_count": 5,
+  "article_count": 4,
   "articles": [
+    {
+      "title": "Cisco Is Deploying AI Agents to All 90,000 Employees. Here’s What the Economics Look Like.",
+      "summary": "Cisco is not running a pilot program. Starting at the end of July 2026, the company is deploying a personalized AI agent to every single one of its 90,000 employees. This is a structural overhaul of how a Fortune 500 company operates, moving beyond the experimental phase into a full-scale integration of autonomous agents across […]",
+      "publisher": "Forkast News",
+      "published_utc": "2026-08-08T19:11:38Z",
+      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-deploying-ai-agents-90-191138601.html",
+      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/cisco-deploying-ai-agents-90-191138601.html",
+      "thumbnail": null
+    },
+    {
+      "title": "Dow Jones Futures: What To Do As Market Revs Up; Buffett's Berkshire Beats With Cisco, Lumentum Due",
+      "summary": "With bulls back in charge, here's what investors should do. Warren Buffett's Berkshire beat views Saturday. Lumentum, Cisco. Applied Materials earnings are on tap..",
+      "publisher": "Investor's Business Daily",
+      "published_utc": "2026-08-08T19:03:50Z",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-warren-buffett-cisco-lumentum-earnings/?src=A00220&yptr=yahoo",
+      "yahoo_url": null,
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/v3cgABlfW5ddt6eTdccdYg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/4042396af994870132facc7050d3148e"
+    },
     {
       "title": "Cisco Stock Is Finally Pricing In A New Growth Story",
       "summary": "Management put a much higher number on its future, and the stock has been on a tear ever since. But is this a fleeting AI boom or a fundamental rewiring of the business.",
@@ -14,15 +32,6 @@
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/uzQPF1Fa4g1tGRJHy8JbjA--~B/aD05NjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/trefis_142/85123c835b6e8ce60fad17fb7e30174e"
     },
     {
-      "title": "Dow Jones Futures: As Stock Market Ramps Up, Here's What To Do; Warren Buffett, Cisco, Lumentum Due",
-      "summary": "With bulls back in charge, here's what investors should do. Warren Buffett's Berkshire, Cisco, Lumentum are on tap.",
-      "publisher": "Investor's Business Daily",
-      "published_utc": "2026-08-07T20:58:40Z",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-warren-buffett-cisco-lumentum-earnings/?src=A00220&yptr=yahoo",
-      "yahoo_url": null,
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/v3cgABlfW5ddt6eTdccdYg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/4042396af994870132facc7050d3148e"
-    },
-    {
       "title": "Stay Ahead of the Game With Cisco (CSCO) Q4 Earnings: Wall Street's Insights on Key Metrics",
       "summary": "Evaluate the expected performance of Cisco (CSCO) for the quarter ended July 2026, looking beyond the conventional Wall Street top-and-bottom-line estimates and examining some of its key metrics for better insight.",
       "publisher": "Zacks",
@@ -30,24 +39,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/stay-ahead-game-cisco-csco-131505797.html",
       "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/stay-ahead-game-cisco-csco-131505797.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0K2vxHTAGj_tGrBqjPJ8Cg--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/f889276f4a638f3c7a79c0e3e6b768c1"
-    },
-    {
-      "title": "Cisco Raised Its AI Order Target to $9 Billion. Here's What Investors Need to Know.",
-      "summary": "AI infrastructure orders could more than quadruple in fiscal 2026. So why is revenue guided to grow just 11%?",
-      "publisher": "Motley Fool",
-      "published_utc": "2026-08-07T08:43:00Z",
-      "url": "https://www.fool.com/investing/2026/08/07/cisco-raised-its-ai-order-target-to-9-billion-here/",
-      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/cisco-raised-ai-order-target-084300962.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/e0S2YxJzRyzmpLiRR0bATw--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/bbaa107d75d6b0a9a20bd6dd36d05eb7"
-    },
-    {
-      "title": "Cisco Systems (CSCO) Expands Security And Webex Links, Is It 9% Overvalued?",
-      "summary": "Cisco Systems (CSCO) is back in focus as investors watch a cluster of AI and security developments, including its role in the Tech Mahindra Security Service Edge partnership and new emergency calling integration for Webex. See our latest analysis for Cisco Systems. Against this backdrop of AI infrastructure orders, security partnerships and the upcoming August 12 earnings call, Cisco Systems has seen momentum build, with a 30 day share price return of 8.13% and a 1 year total shareholder...",
-      "publisher": "Simply Wall St.",
-      "published_utc": "2026-08-06T22:12:20Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-csco-expands-security-221220461.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-csco-expands-security-221220461.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VHMvoAlyQaRZcxjJbAgW1A--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/04fa3ad5da96418a6614fef94d5b3a77"
     }
   ]
 }
