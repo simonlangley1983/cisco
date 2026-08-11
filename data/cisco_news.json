@@ -1,26 +1,71 @@
 {
-  "generated_utc": "2026-08-10T23:49:29.239592Z",
+  "generated_utc": "2026-08-11T23:56:51.843794Z",
   "symbol": "CSCO",
   "company": "Cisco",
-  "article_count": 2,
+  "article_count": 7,
   "articles": [
     {
-      "title": "Cisco Q4 Earnings Preview: What Investors Should Expect",
-      "summary": "Cisco Faces a Major AI Test as Q4 Earnings Approach",
-      "publisher": "GuruFocus.com",
-      "published_utc": "2026-08-10T15:29:31Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-q4-earnings-preview-investors-152931015.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-q4-earnings-preview-investors-152931015.html",
+      "title": "CPI, Cisco earnings, and more: What investors need to watch Wednesday",
+      "summary": "Asking for a Trend Host, Josh Lipton previews what investors should watch on Wednesday, August 12, including the latest Consumer Price Index (CPI) report, which will offer a fresh look at inflation and the health of the consumer. Cisco (CSCO) reports fiscal fourth-quarter results, while Bloomin' Brands (BLMN) also reports earnings.",
+      "publisher": "Yahoo Finance Video",
+      "published_utc": "2026-08-11T23:05:00Z",
+      "url": "https://finance.yahoo.com/video/cpi-cisco-earnings-more-investors-230500912.html",
+      "yahoo_url": "https://finance.yahoo.com/video/cpi-cisco-earnings-more-investors-230500912.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/DncZHxkKz7F4plwfjXvMGA--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/wtw-812_0900.png"
+    },
+    {
+      "title": "Here’s How Much Traders Expect Cisco Stock to Move After Earnings",
+      "summary": "Cisco is set to post earnings after the closing bell Wednesday, with traders anticipating a move that could bring the stock back near its June highs.",
+      "publisher": "Investopedia",
+      "published_utc": "2026-08-11T20:41:35Z",
+      "url": "https://www.investopedia.com/here-is-how-much-traders-expect-cisco-stock-to-move-after-earnings-csco-q4-fy2026-12037300",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/much-traders-expect-cisco-stock-204135599.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ofxEvMVF6Xmci5bUsvXJvw--~B/aD0yMjQ0O3c9Mzk3MjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/investopedia_245/61531f792ddab98163251e5c5384cfe2.jpg"
+    },
+    {
+      "title": "Is Cisco Systems Stock Poised for New Highs as Q4 Earnings Approach?",
+      "summary": "Cisco Systems (CSCO) is set to report its fiscal fourth-quarter results after the closing bell on Wednesday, Aug. 12, putting the networking giant back in the spotlight as investors assess whether its impressive momentum can continue.",
+      "publisher": "Zacks",
+      "published_utc": "2026-08-11T17:46:00Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-stock-poised-highs-174600731.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-stock-poised-highs-174600731.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/TNepVKOb2Jr3TvKQPxEOEQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/77a053cf2d2dc44c2e658d9c7a167193.jpg"
+    },
+    {
+      "title": "Cisco (CSCO) Puts 90,000 Workers On Personalized AI Agents With New Revenue Targets",
+      "summary": "Cisco Systems (NasdaqGS: CSCO) is rolling out personalized AI agents to its entire 90,000-person workforce as part of a broad internal transformation. The company is pairing the deployment with major infrastructure investment and company-wide model routing to manage AI workloads across teams and functions. Cisco is setting defined AI-driven revenue targets, tying the internal rollout to measurable business outcomes and new income streams. The move signals a push to use standardized agentic...",
+      "publisher": "Simply Wall St.",
+      "published_utc": "2026-08-11T15:13:28Z",
+      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-csco-puts-90-000-151328425.html",
+      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/cisco-csco-puts-90-000-151328425.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/VHMvoAlyQaRZcxjJbAgW1A--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/04fa3ad5da96418a6614fef94d5b3a77"
+    },
+    {
+      "title": "Cisco or Coherent: Which Stock Is Poised to Soar After Earnings?",
+      "summary": "Cisco and Coherent both report earnings the same afternoon, putting two very different AI networking bets head to head. One carries a 93% crowd-backed beat probability while the other just shed 14% in a single session, and only one belongs in a retirement portfolio.",
+      "publisher": "24/7 Wall St.",
+      "published_utc": "2026-08-11T12:05:29Z",
+      "url": "https://247wallst.com/investing/2026/08/11/cisco-or-coherent-which-stock-is-poised-to-soar-after-earnings/",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-coherent-stock-poised-soar-120529991.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jRLnuuWudoaylkldpyRHkA--~B/aD03Njg7dz0xMzc2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/36ce16d8424143528510554d9cf19be6"
+    },
+    {
+      "title": "Cisco’s 90K Agent Rollout: The CFO Math Behind Full-Workforce Agentic Deployment",
+      "summary": "The Economics of Scale Starting at the end of July 2026, Cisco is deploying personalized AI agents to its entire 90,000-person workforce. This is not a pilot program; it is a standardized infrastructure shift intended to change how the company produces work. To manage the massive volume of requests from 90,000 users, Chief Product Officer […]",
+      "publisher": "Forkast News",
+      "published_utc": "2026-08-11T11:55:31Z",
+      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-90k-agent-rollout-cfo-115531155.html",
+      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/cisco-90k-agent-rollout-cfo-115531155.html",
       "thumbnail": null
     },
     {
-      "title": "Cisco Systems Is In a Trading Range Ahead of Earnings - Shorting OTM Puts and Calls Works",
-      "summary": "Analysts have been raising price targets for Cisco Systems, set to report earnings this week. CSCO stock has been in a trading range. Shorting one-month out-of-the-money (OTM) puts and calls works.",
-      "publisher": "Barchart",
-      "published_utc": "2026-08-10T13:15:02Z",
-      "url": "https://www.barchart.com/story/news/3755903/cisco-systems-is-in-a-trading-range-ahead-of-earnings-shorting-otm-puts-and-calls-works",
-      "yahoo_url": "https://finance.yahoo.com/markets/options/articles/cisco-systems-trading-range-ahead-131502050.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/HF6AagKogu8x.U8.8.ySbw--~B/aD04MzY7dz0xMjU0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/barchart_com_477/bec27416fdbe79bd1eb29e2bdbc3efb1"
+      "title": "How To Earn $500 A Month From Cisco Stock Ahead Of Q4 Earnings",
+      "summary": "Ahead of Cisco Systems, Inc‘s fourth-quarter earnings report on Wednesday, Aug. 12, investors may be eyeing potential gains from the company’s dividends. Currently, Cisco has an annual dividend yield of 1.38%, which is a quarterly dividend amount of 42 cents...",
+      "publisher": "Benzinga",
+      "published_utc": "2026-08-11T10:01:09Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/earn-500-month-cisco-stock-100109396.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/earn-500-month-cisco-stock-100109396.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/LZjmzZYcKNS4DcbqtbIJtQ--~B/aD02NjY7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/benzinga_79/d8bf4717f83e1243a7aef58658b780be"
     }
   ]
 }
