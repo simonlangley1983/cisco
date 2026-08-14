@@ -1,62 +1,53 @@
 {
-  "generated_utc": "2026-08-13T23:56:04.762996Z",
+  "generated_utc": "2026-08-14T23:34:25.177884Z",
   "symbol": "CSCO",
   "company": "Cisco",
-  "article_count": 6,
+  "article_count": 5,
   "articles": [
     {
-      "title": "The Number Cisco Stopped Leading With Explains What You Now Own",
-      "summary": "The recurring-revenue share management once put front and center has slipped while hyperscaler orders became the story.",
+      "title": "Cisco Stock Drops Again as AI Hardware Squeezes Margins",
+      "summary": "Cisco's AI infrastructure orders are exploding, but lower product margins are testing how profitably it can convert that demand.",
+      "publisher": "GuruFocus.com",
+      "published_utc": "2026-08-14T19:08:45Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-stock-drops-again-ai-190845854.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-stock-drops-again-ai-190845854.html",
+      "thumbnail": null
+    },
+    {
+      "title": "Cisco Beat On Every Line, Then Fell On What AI Costs To Ship",
+      "summary": "Record revenue, a guide above Wall Street, and a stock down anyway, because the growth now arrives as hardware and the mix shift is what compresses the margin.",
       "publisher": "Trefis",
-      "published_utc": "2026-08-13T23:29:12Z",
-      "url": "https://www.trefis.com/articles/611356/the-number-cisco-stopped-leading-with-explains-what-you-now-own/2026-08-13",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/number-cisco-stopped-leading-explains-232912762.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/laY51JcP6xZ_xPHCGPBgmQ--~B/aD05NjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/trefis_142/85123c835b6e8ce60fad17fb7e30174e.jpg"
+      "published_utc": "2026-08-14T18:27:26Z",
+      "url": "https://www.trefis.com/articles/611552/cisco-beat-on-every-line-then-fell-on-what-ai-costs-to-ship/2026-08-14",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-beat-every-line-then-182726658.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/j82OwSgVUAv.6KtckF7eFg--~B/aD05NTk7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/trefis_142/74cd6d277b6b12eba5210fda18f54197.jpg"
     },
     {
-      "title": "S&P 500 notches record-high close as rate-hike worries ease",
-      "summary": "<body><p>VIDEO SHOWS: N/A</p><p>STORY: Wall Street's main indexes ended higher on Thursday, with the Dow ticking up marginally, the S&P 500 adding nearly two-thirds of a percent to close at a record high, and the tech-heavy Nasdaq climbing more than eight-tenths of a percent.</p><p>Several chip stocks led the way, with shares of Sandisk surging nearly 14% after the memory chip maker said it expects revenue to grow at a mid-to-high-teens percentage rate from fiscal years 2028 to 2030, encouraged by strong demand amid rapid AI infrastructure buildout.&nbsp;</p><p>On the flip side, shares of Cisco fell more than 8% despite the AI infrastructure company a day earlier forecasting fiscal 2027 revenue above Wall Street expectations.</p><p>Eric Diton is president and managing director of The Wealth Alliance.</p><p>\"Sandisk up double digits with just great numbers, great expectations for future revenue for margins, which by the way is what took Cisco down today. Cisco beat on earnings, beat on revenue, but the street focused on a little over a 2% drop in margin, and they beat up the stock pretty well. But generally speaking, the Nasdaq's having a great day, up roughly three quarters of a percent, led by the chips.\"</p><p>Elsewhere in the market, shares of Netflix climbed more than 5% after billionaire investor Bill Ackman unveiled a new holding in the streaming company as part of Pershing Square's biggest portfolio overhaul in years.</p><p>And shares of Tapestry plunged more than 16% after the Coach owner forecast muted annual revenue growth.</p><p>Meanwhile, fresh data showed U.S. producer prices were unchanged in July, while the number of Americans filing claims for unemployment benefits increased moderately last week, pointing to a stable jobs market.</p><p>Traders are pricing in a more than 60% chance that the Federal Reserve will keep interest rates unchanged at its meeting next month, according to CME's FedWatch tool.</p></body>",
-      "publisher": "Reuters Videos",
-      "published_utc": "2026-08-13T23:13:44Z",
-      "url": "https://finance.yahoo.com/video/p-500-notches-record-high-231344253.html",
-      "yahoo_url": "https://finance.yahoo.com/video/p-500-notches-record-high-231344253.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Y1Cd7gpPmQJqPAf_mFwNag--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415665815001/a9dd50f1-c173-4200-af15-3c7c0c0f006f/main/1280x720/1m8s405ms/match/image.jpg"
+      "title": "Cisco Just Gave Investors 3 Big Reasons to Be Bullish",
+      "summary": "Cisco just posted its strongest earnings surprise in years, yet the stock dropped sharply the next day. Whether that selloff is a warning sign or a rare entry point comes down to three catalysts that most investors are overlooking.",
+      "publisher": "24/7 Wall St.",
+      "published_utc": "2026-08-14T16:30:30Z",
+      "url": "https://247wallst.com/investing/2026/08/14/cisco-just-gave-investors-3-big-reasons-to-be-bullish/",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-just-gave-investors-3-163030773.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8DoK.jBVyxBIES8wsuxY_A--~B/aD01Nzk7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/5569172f3f82970a31ec258b525f32ec.jpg"
     },
     {
-      "title": "Stock Market Today, Aug. 13: Cisco Falls on Margin Concerns Despite Record Revenue and AI Demand",
-      "summary": "Today, Aug. 13, 2026, the networking giant's stock tumbled 8.4% after earnings, as investors weighed hyperscaler AI orders against gross margin headwinds.",
-      "publisher": "Motley Fool",
-      "published_utc": "2026-08-13T21:18:32Z",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/08/13/stock-market-today-aug-13-cisco-falls-on-margin-concerns-despite-record-revenue-and-ai-demand/",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-13-211832586.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/qITABGLG78Pc9P2axC_oqA--~B/aD0yMDA7dz0yMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/44108f481967b6b8d31e96d1e24908fa.png"
+      "title": "Cisco rating cut at HSBC as analyst sees a lack of catalysts",
+      "summary": "Investing.com -- HSBC downgraded Cisco Systems (NASDAQ: CSCO) to Hold from Buy and cut its price target for the stock to $120 from $137 in a note on Friday, saying that while fourth-quarter results were strong, the stock lacks a near-term catalyst.",
+      "publisher": "Investing.com",
+      "published_utc": "2026-08-14T15:39:05Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-rating-cut-hsbc-analyst-153905121.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-rating-cut-hsbc-analyst-153905121.html",
+      "thumbnail": null
     },
     {
-      "title": "Tech, Media & Telecom Roundup: Market Talk",
-      "summary": "Find insight on Cisco, Cerebras Systems and more in the latest Market Talks covering technology, media and telecom.",
-      "publisher": "The Wall Street Journal",
-      "published_utc": "2026-08-13T21:13:00Z",
-      "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-87c2e936?siteid=yhoof2&yptr=yahoo",
-      "yahoo_url": null,
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cnZTZoa3SQo36FdEpiY9fw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/364a25edce85d06e3b10ebc7c0d01d88.jpg"
-    },
-    {
-      "title": "Stocks to Watch Thursday Recap: Lenovo, Applied Materials, StubHub, Cisco",
-      "summary": "↗️ Lenovo Group (HK:992): Shares rose 20% in Hong Kong after the company posted record-high revenue driven by AI-infrastructure demand. ↘️ StubHub (STUB): Shares in the ticket seller pulled back around 10% after the company failed to turn a profit in the second quarter because of climbing costs, despite surging revenue from the World Cup.",
-      "publisher": "The Wall Street Journal",
-      "published_utc": "2026-08-13T21:08:06Z",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-13-2026/card/stocks-to-watch-thursday-lenovo-applied-materials-stubhub-cisco-N2wojACpWBthwfpL86Qm?siteid=yhoof2&yptr=yahoo",
-      "yahoo_url": null,
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_xlDFrOAxJ5tjOS8VVWB0w--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/21c5dbbfe81e539fba283eb6f07a11bf.jpg"
-    },
-    {
-      "title": "Stock Market Today: Nasdaq 100 Leads Upside; Cerebras Smashed On Earnings, Yet Up For Week (Live Coverage)",
-      "summary": "Stock Market Today: The Dow Jones index rises Thursday after surprise key inflation data. Cisco and AI stock Cerebras plunge on earnings.",
+      "title": "Stock Market Hits Highs; Cisco, Lumentum, Super Micro, Sandisk Key Movers: Weekly Review",
+      "summary": "The stock market cleared a tight range, with the S&P 500 and Russell 2000 hitting new highs. Lumentum, Cisco, Super Micro, Sandisk were key movers.",
       "publisher": "Investor's Business Daily",
-      "published_utc": "2026-08-13T20:51:23Z",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-cisco-cerebras-earnings/?src=A00220&yptr=yahoo",
+      "published_utc": "2026-08-14T14:21:23Z",
+      "url": "https://www.investors.com/news/stock-market-hits-highs-cisco-lumentum-super-micro-sandisk-key-movers-weekly-review/?src=A00220&yptr=yahoo",
       "yahoo_url": null,
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.v19t7Os1VirOUA3r27ljA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/e64f6759beba88fa4ce287892d6106d2.jpg"
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bZtLd5Bmf4LzzYijQK1BTQ--~B/aD01MTE7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/708c4d75cb753962eaeef053ec805dd5.jpg"
     }
   ]
 }
