@@ -1,9 +1,36 @@
 {
-  "generated_utc": "2026-08-14T23:34:25.177884Z",
+  "generated_utc": "2026-08-15T23:33:18.990012Z",
   "symbol": "CSCO",
   "company": "Cisco",
-  "article_count": 5,
+  "article_count": 7,
   "articles": [
+    {
+      "title": "Cisco Systems (CSCO) Was Caught In A 2,500 Organization AI Exposure",
+      "summary": "Cisco Systems (NasdaqGS: CSCO) is among more than 2,500 organizations reportedly affected by a major AI supply chain incident linked to LiteLLM in March 2026. The exposure is said to include sensitive data such as cloud credentials and AI API keys tied to AI integrations. The incident raises questions about cybersecurity, operational resilience and data privacy across Cisco's AI powered infrastructure and services. Investors are assessing how these AI related risks may influence perceptions...",
+      "publisher": "Simply Wall St.",
+      "published_utc": "2026-08-15T21:10:30Z",
+      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-systems-csco-caught-2-211030597.html",
+      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/cisco-systems-csco-caught-2-211030597.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nMgkxHlrsxC1ZlNCDNQIEg--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/04fa3ad5da96418a6614fef94d5b3a77.jpg"
+    },
+    {
+      "title": "Cisco vs. Broadcom: One Stock Looks Like the Better AI Play",
+      "summary": "Cisco just posted a networking super cycle quarter while Broadcom reported AI semiconductor numbers that border on absurd, and the two stocks now sit at nearly the same valuation multiple despite wildly different growth trajectories.",
+      "publisher": "24/7 Wall St.",
+      "published_utc": "2026-08-15T15:30:40Z",
+      "url": "https://247wallst.com/investing/2026/08/15/cisco-vs-broadcom-one-stock-looks-like-the-better-ai-play/",
+      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/cisco-vs-broadcom-one-stock-153040244.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/9yUOYcD3LCbYs6ZllD9dlw--~B/aD01NzY7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/d7427ece82afcc017c742aaa54eda6b6.jpg"
+    },
+    {
+      "title": "CSCO Q2 Deep Dive: AI Networking Surge Drives Growth, Market Eyes Margins and Demand Durability",
+      "summary": "Networking technology giant Cisco (NASDAQ:CSCO) reported Q2 CY2026 results exceeding the market’s revenue expectations, with sales up 17.6% year on year to $17.25 billion. On top of that, next quarter’s revenue guidance ($18.1 billion at the midpoint) was surprisingly good and 8.1% above what analysts were expecting. Its non-GAAP profit of $1.22 per share was 4.4% above analysts’ consensus estimates.",
+      "publisher": "StockStory",
+      "published_utc": "2026-08-15T02:45:00Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/csco-q2-deep-dive-ai-024500134.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/csco-q2-deep-dive-ai-024500134.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_m_hIGSLtjLqP242Op3I9w--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/13084f782bf37f7c367bffc0690421cd.jpg"
+    },
     {
       "title": "Cisco Stock Drops Again as AI Hardware Squeezes Margins",
       "summary": "Cisco's AI infrastructure orders are exploding, but lower product margins are testing how profitably it can convert that demand.",
@@ -39,15 +66,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-rating-cut-hsbc-analyst-153905121.html",
       "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-rating-cut-hsbc-analyst-153905121.html",
       "thumbnail": null
-    },
-    {
-      "title": "Stock Market Hits Highs; Cisco, Lumentum, Super Micro, Sandisk Key Movers: Weekly Review",
-      "summary": "The stock market cleared a tight range, with the S&P 500 and Russell 2000 hitting new highs. Lumentum, Cisco, Super Micro, Sandisk were key movers.",
-      "publisher": "Investor's Business Daily",
-      "published_utc": "2026-08-14T14:21:23Z",
-      "url": "https://www.investors.com/news/stock-market-hits-highs-cisco-lumentum-super-micro-sandisk-key-movers-weekly-review/?src=A00220&yptr=yahoo",
-      "yahoo_url": null,
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/bZtLd5Bmf4LzzYijQK1BTQ--~B/aD01MTE7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/708c4d75cb753962eaeef053ec805dd5.jpg"
     }
   ]
 }
