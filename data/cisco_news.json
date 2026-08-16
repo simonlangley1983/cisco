@@ -1,9 +1,36 @@
 {
-  "generated_utc": "2026-08-15T23:33:18.990012Z",
+  "generated_utc": "2026-08-16T23:32:59.532551Z",
   "symbol": "CSCO",
   "company": "Cisco",
-  "article_count": 7,
+  "article_count": 8,
   "articles": [
+    {
+      "title": "1 Growth Stock with Explosive Upside and 2 We Question",
+      "summary": "Growth is oxygen. But when it evaporates, the consequences can be severe - ask anyone who bought Cisco in the Dot-Com Bubble or newer investors who lived through the 2020 to 2022 COVID cycle.",
+      "publisher": "StockStory",
+      "published_utc": "2026-08-16T17:41:00Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/1-growth-stock-explosive-upside-174100027.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/1-growth-stock-explosive-upside-174100027.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JY_cJfPqgKNwQqvu_1BgIQ--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/d0c508e063f679ea538d34e866cf1d98.jpg"
+    },
+    {
+      "title": "5 big analyst AI moves: Bullish on memory names; Apple and Cisco downgraded",
+      "summary": "Investing.com -- Here are the biggest analyst moves in the area of artificial intelligence (AI) for this week.",
+      "publisher": "Investing.com",
+      "published_utc": "2026-08-16T09:30:02Z",
+      "url": "https://finance.yahoo.com/technology/ai/articles/5-big-analyst-ai-moves-093002869.html",
+      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/5-big-analyst-ai-moves-093002869.html",
+      "thumbnail": null
+    },
+    {
+      "title": "Why Cisco (CSCO) Stock Is Down Today",
+      "summary": "Shares of networking technology giant Cisco (NASDAQ:CSCO) fell 9% in the afternoon session after the company reported fourth-quarter fiscal 2026 results that beat Wall Street's expectations for both revenue and profit. Cisco posted record revenue of $17.3 billion, growing 18% year over year and surpassing analyst estimates. Non-GAAP earnings per share came in at $1.22, also beating consensus forecasts. Furthermore, Cisco provided an optimistic outlook, guiding fiscal 2027 revenue to $72.2–$73.4",
+      "publisher": "StockStory",
+      "published_utc": "2026-08-16T07:41:00Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-cisco-csco-stock-down-074100939.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/why-cisco-csco-stock-down-074100939.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_m_hIGSLtjLqP242Op3I9w--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/13084f782bf37f7c367bffc0690421cd.jpg"
+    },
     {
       "title": "Cisco Systems (CSCO) Was Caught In A 2,500 Organization AI Exposure",
       "summary": "Cisco Systems (NasdaqGS: CSCO) is among more than 2,500 organizations reportedly affected by a major AI supply chain incident linked to LiteLLM in March 2026. The exposure is said to include sensitive data such as cloud credentials and AI API keys tied to AI integrations. The incident raises questions about cybersecurity, operational resilience and data privacy across Cisco's AI powered infrastructure and services. Investors are assessing how these AI related risks may influence perceptions...",
@@ -48,24 +75,6 @@
       "url": "https://www.trefis.com/articles/611552/cisco-beat-on-every-line-then-fell-on-what-ai-costs-to-ship/2026-08-14",
       "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-beat-every-line-then-182726658.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/j82OwSgVUAv.6KtckF7eFg--~B/aD05NTk7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/trefis_142/74cd6d277b6b12eba5210fda18f54197.jpg"
-    },
-    {
-      "title": "Cisco Just Gave Investors 3 Big Reasons to Be Bullish",
-      "summary": "Cisco just posted its strongest earnings surprise in years, yet the stock dropped sharply the next day. Whether that selloff is a warning sign or a rare entry point comes down to three catalysts that most investors are overlooking.",
-      "publisher": "24/7 Wall St.",
-      "published_utc": "2026-08-14T16:30:30Z",
-      "url": "https://247wallst.com/investing/2026/08/14/cisco-just-gave-investors-3-big-reasons-to-be-bullish/",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-just-gave-investors-3-163030773.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8DoK.jBVyxBIES8wsuxY_A--~B/aD01Nzk7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/5569172f3f82970a31ec258b525f32ec.jpg"
-    },
-    {
-      "title": "Cisco rating cut at HSBC as analyst sees a lack of catalysts",
-      "summary": "Investing.com -- HSBC downgraded Cisco Systems (NASDAQ: CSCO) to Hold from Buy and cut its price target for the stock to $120 from $137 in a note on Friday, saying that while fourth-quarter results were strong, the stock lacks a near-term catalyst.",
-      "publisher": "Investing.com",
-      "published_utc": "2026-08-14T15:39:05Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-rating-cut-hsbc-analyst-153905121.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-rating-cut-hsbc-analyst-153905121.html",
-      "thumbnail": null
     }
   ]
 }
