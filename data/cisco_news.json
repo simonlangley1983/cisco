@@ -1,9 +1,27 @@
 {
-  "generated_utc": "2026-08-16T23:32:59.532551Z",
+  "generated_utc": "2026-08-17T23:34:30.066552Z",
   "symbol": "CSCO",
   "company": "Cisco",
   "article_count": 8,
   "articles": [
+    {
+      "title": "Cisco Grew Faster By Selling Hardware And Charging More For It",
+      "summary": "The record quarter was carried by the product line and by price increases taken to cover memory costs, and a heavier hardware mix, together with those memory costs, is what pulled product margin down.",
+      "publisher": "Trefis",
+      "published_utc": "2026-08-17T18:55:13Z",
+      "url": "https://www.trefis.com/articles/611686/cisco-grew-faster-by-selling-hardware-and-charging-more-for-it/2026-08-17",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-grew-faster-selling-hardware-185513410.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/51eCBSC2FsDqw4oLC.fOgA--~B/aD03Njg7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/trefis_142/bfeb32af92839dda7f7bc44b5bdf6a6f.jpg"
+    },
+    {
+      "title": "ETFs to Buy as Cisco Shares Sink Despite Surpassing Q4 Earnings",
+      "summary": "Cisco's post-earnings sell-off spotlights four ETFs offering exposure to its AI-driven growth while cushioning single-stock risks.",
+      "publisher": "Zacks",
+      "published_utc": "2026-08-17T14:40:00Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-buy-cisco-shares-sink-144000206.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/etfs-buy-cisco-shares-sink-144000206.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vROPxL_mEJnnBuAn4lJSAw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/75701a0cb7cb5c2a9a21e2ae671472f5.jpg"
+    },
     {
       "title": "1 Growth Stock with Explosive Upside and 2 We Question",
       "summary": "Growth is oxygen. But when it evaporates, the consequences can be severe - ask anyone who bought Cisco in the Dot-Com Bubble or newer investors who lived through the 2020 to 2022 COVID cycle.",
@@ -57,24 +75,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/csco-q2-deep-dive-ai-024500134.html",
       "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/csco-q2-deep-dive-ai-024500134.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_m_hIGSLtjLqP242Op3I9w--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/13084f782bf37f7c367bffc0690421cd.jpg"
-    },
-    {
-      "title": "Cisco Stock Drops Again as AI Hardware Squeezes Margins",
-      "summary": "Cisco's AI infrastructure orders are exploding, but lower product margins are testing how profitably it can convert that demand.",
-      "publisher": "GuruFocus.com",
-      "published_utc": "2026-08-14T19:08:45Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-stock-drops-again-ai-190845854.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-stock-drops-again-ai-190845854.html",
-      "thumbnail": null
-    },
-    {
-      "title": "Cisco Beat On Every Line, Then Fell On What AI Costs To Ship",
-      "summary": "Record revenue, a guide above Wall Street, and a stock down anyway, because the growth now arrives as hardware and the mix shift is what compresses the margin.",
-      "publisher": "Trefis",
-      "published_utc": "2026-08-14T18:27:26Z",
-      "url": "https://www.trefis.com/articles/611552/cisco-beat-on-every-line-then-fell-on-what-ai-costs-to-ship/2026-08-14",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-beat-every-line-then-182726658.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/j82OwSgVUAv.6KtckF7eFg--~B/aD05NTk7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/trefis_142/74cd6d277b6b12eba5210fda18f54197.jpg"
     }
   ]
 }
