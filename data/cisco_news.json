@@ -1,9 +1,54 @@
 {
-  "generated_utc": "2026-08-18T23:34:13.677973Z",
+  "generated_utc": "2026-08-19T23:34:18.293645Z",
   "symbol": "CSCO",
   "company": "Cisco",
   "article_count": 7,
   "articles": [
+    {
+      "title": "How Wide A Year Are Cisco Holders Actually Signed Up For?",
+      "summary": "The options are charging only their usual premium, which makes the width of the price range a fact about the business rather than a mood in the market.",
+      "publisher": "Trefis",
+      "published_utc": "2026-08-19T18:50:33Z",
+      "url": "https://www.trefis.com/articles/612049/how-wide-a-year-are-cisco-holders-actually-signed-up-for/2026-08-19",
+      "yahoo_url": "https://finance.yahoo.com/markets/options/articles/wide-cisco-holders-actually-signed-185033985.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/CQuVyHfSaNWRss0fLPrL9w--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/trefis_142/10c2890c16ecee8e2a801b3a46ab1981.jpg"
+    },
+    {
+      "title": "BofA makes bold call on Cisco stock after earnings",
+      "summary": "Bank of America sees a stronger setup for Cisco after earnings, but one issue could determine whether the stock can deliver more upside.",
+      "publisher": "TheStreet",
+      "published_utc": "2026-08-19T17:47:00Z",
+      "url": "https://www.thestreet.com/investing/stocks/bofa-reiterates-buy-150-target-cisco-stock-after-earnings",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/bofa-makes-bold-call-cisco-174700307.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/AEbtQOr8GizHM46g8gbpCw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet_881/2c11c0db656bda219a6a24d8b505fca7.jpg"
+    },
+    {
+      "title": "Cisco Drops 10% Post Q4 Earnings: Buy, Sell or Hold the Stock?",
+      "summary": "CSCO's Q4 revenues surge 18%, and AI demand stays strong, but margin pressure, soft recurring growth and a premium valuation support a hold.",
+      "publisher": "Zacks",
+      "published_utc": "2026-08-19T16:22:00Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-drops-10-post-q4-162200580.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-drops-10-post-q4-162200580.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/TNepVKOb2Jr3TvKQPxEOEQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/77a053cf2d2dc44c2e658d9c7a167193.jpg"
+    },
+    {
+      "title": "1 Growth Stock to Add to Your Roster and 2 We Ignore",
+      "summary": "Growth is oxygen. But when it evaporates, the consequences can be severe - ask anyone who bought Cisco in the Dot-Com Bubble or newer investors who lived through the 2020 to 2022 COVID cycle.",
+      "publisher": "StockStory",
+      "published_utc": "2026-08-19T13:18:02Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/1-growth-stock-add-roster-131802202.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/1-growth-stock-add-roster-131802202.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/aHB1xSY888Uphrk3Nau.wQ--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/280d786530000daaa3de19e7417f3d04.jpg"
+    },
+    {
+      "title": "5 Must-Read Analyst Questions From Cisco’s Q2 Earnings Call",
+      "summary": "Cisco’s latest quarter exceeded Wall Street’s revenue and adjusted profit expectations, but the market response was negative. Management attributed the strong sales to a surge in demand for AI-driven networking infrastructure, particularly from hyperscale cloud providers and enterprise customers, as well as robust product order momentum across geographies and segments. CEO Charles Robbins highlighted, “We delivered record revenue...with product revenue up 24% year-over-year,” citing broad-based",
+      "publisher": "StockStory",
+      "published_utc": "2026-08-19T09:26:02Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/5-must-read-analyst-questions-092602573.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/5-must-read-analyst-questions-092602573.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_m_hIGSLtjLqP242Op3I9w--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/13084f782bf37f7c367bffc0690421cd.jpg"
+    },
     {
       "title": "What You Actually Pay To Join The CSCO Run",
       "summary": "Cisco's stock has the momentum of a genuine business transformation, but after a powerful run, investors must ask if the price of admission is simply too high.",
@@ -21,51 +66,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-csco-stock-looks-fairly-141350711.html",
       "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-csco-stock-looks-fairly-141350711.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nMgkxHlrsxC1ZlNCDNQIEg--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/04fa3ad5da96418a6614fef94d5b3a77.jpg"
-    },
-    {
-      "title": "Strong AI Infrastructure Orders Drive Confidence in Cisco Systems (CSCO)",
-      "summary": "The London Company, an investment management company, released its second-quarter 2026 investor letter for its “The London Company Income Equity Strategy”. A copy of the letter can be downloaded here. U.S. equities rebounded in Q2, with the Russell 3000 rising 15.4% and the S&P 500 achieving its best quarter since 2020, driven by AI infrastructure spending […]",
-      "publisher": "Insider Monkey",
-      "published_utc": "2026-08-18T12:16:46Z",
-      "url": "https://finance.yahoo.com/technology/ai/articles/strong-ai-infrastructure-orders-drive-121646291.html",
-      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/strong-ai-infrastructure-orders-drive-121646291.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jyEAivzF7kuT48w2VzJy_A--~B/aD00MzA7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/55f350b4afd5c25b974dc8fe6bae80de.jpg"
-    },
-    {
-      "title": "What Kept Coming Up When Analysts Grilled CSCO",
-      "summary": "Cisco is forecasting a large year of growth, but analysts on its latest call pressed on the sustainability of the boom and its cost. Here's what management's answers revealed.",
-      "publisher": "Trefis",
-      "published_utc": "2026-08-17T23:18:38Z",
-      "url": "https://www.trefis.com/articles/611673/what-kept-coming-up-when-analysts-grilled-csco/2026-08-17",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/kept-coming-analysts-grilled-csco-231838721.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4C39RrU2X5j1_KGyjGSquw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/trefis_142/2749a55784a3299510816e76f9096740.jpg"
-    },
-    {
-      "title": "Cisco Grew Faster By Selling Hardware And Charging More For It",
-      "summary": "The record quarter was carried by the product line and by price increases taken to cover memory costs, and a heavier hardware mix, together with those memory costs, is what pulled product margin down.",
-      "publisher": "Trefis",
-      "published_utc": "2026-08-17T18:55:13Z",
-      "url": "https://www.trefis.com/articles/611686/cisco-grew-faster-by-selling-hardware-and-charging-more-for-it/2026-08-17",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-grew-faster-selling-hardware-185513410.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/51eCBSC2FsDqw4oLC.fOgA--~B/aD03Njg7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/trefis_142/bfeb32af92839dda7f7bc44b5bdf6a6f.jpg"
-    },
-    {
-      "title": "ETFs to Buy as Cisco Shares Sink Despite Surpassing Q4 Earnings",
-      "summary": "Cisco's post-earnings sell-off spotlights four ETFs offering exposure to its AI-driven growth while cushioning single-stock risks.",
-      "publisher": "Zacks",
-      "published_utc": "2026-08-17T14:40:00Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-buy-cisco-shares-sink-144000206.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/etfs-buy-cisco-shares-sink-144000206.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vROPxL_mEJnnBuAn4lJSAw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/75701a0cb7cb5c2a9a21e2ae671472f5.jpg"
-    },
-    {
-      "title": "1 Growth Stock with Explosive Upside and 2 We Question",
-      "summary": "Growth is oxygen. But when it evaporates, the consequences can be severe - ask anyone who bought Cisco in the Dot-Com Bubble or newer investors who lived through the 2020 to 2022 COVID cycle.",
-      "publisher": "StockStory",
-      "published_utc": "2026-08-16T17:41:00Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/1-growth-stock-explosive-upside-174100027.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/1-growth-stock-explosive-upside-174100027.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JY_cJfPqgKNwQqvu_1BgIQ--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/d0c508e063f679ea538d34e866cf1d98.jpg"
     }
   ]
 }
