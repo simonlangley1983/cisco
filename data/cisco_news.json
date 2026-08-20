@@ -1,9 +1,27 @@
 {
-  "generated_utc": "2026-08-19T23:34:18.293645Z",
+  "generated_utc": "2026-08-20T23:37:26.920570Z",
   "symbol": "CSCO",
   "company": "Cisco",
   "article_count": 7,
   "articles": [
+    {
+      "title": "What Could Cisco Systems (CSCO) Gain From The Streaming Infrastructure Boom?",
+      "summary": "Cisco Systems (NasdaqGS: CSCO) is being highlighted as a key supplier in the global video streaming infrastructure market, which is seeing strong demand for live, low latency video and AI-enabled media workflows. Industry attention is shifting to vendors that can support expanded content delivery network capacity as streaming platforms, enterprises and cloud providers scale their video services. This focus places Cisco beyond its commonly discussed roles in networking and AI security and...",
+      "publisher": "Simply Wall St.",
+      "published_utc": "2026-08-20T10:08:28Z",
+      "url": "https://finance.yahoo.com/technology/articles/could-cisco-systems-csco-gain-100828128.html",
+      "yahoo_url": "https://finance.yahoo.com/technology/articles/could-cisco-systems-csco-gain-100828128.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nMgkxHlrsxC1ZlNCDNQIEg--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/04fa3ad5da96418a6614fef94d5b3a77.jpg"
+    },
+    {
+      "title": "Cisco (CSCO) Q4 2026 Earnings Call Transcript",
+      "summary": "AI infrastructure orders hit $4 billion in quarter, driving record fiscal year results.",
+      "publisher": "Motley Fool",
+      "published_utc": "2026-08-19T23:31:19Z",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/08/19/cisco-csco-q4-2026-earnings-call-transcript/",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-csco-q4-2026-earnings-233119665.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Zf0OlyhIZ7toi7UvDaApwA--~B/aD00Mjc7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73.png"
+    },
     {
       "title": "How Wide A Year Are Cisco Holders Actually Signed Up For?",
       "summary": "The options are charging only their usual premium, which makes the width of the price range a fact about the business rather than a mood in the market.",
@@ -48,24 +66,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/5-must-read-analyst-questions-092602573.html",
       "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/5-must-read-analyst-questions-092602573.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_m_hIGSLtjLqP242Op3I9w--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/13084f782bf37f7c367bffc0690421cd.jpg"
-    },
-    {
-      "title": "What You Actually Pay To Join The CSCO Run",
-      "summary": "Cisco's stock has the momentum of a genuine business transformation, but after a powerful run, investors must ask if the price of admission is simply too high.",
-      "publisher": "Trefis",
-      "published_utc": "2026-08-18T16:54:14Z",
-      "url": "https://www.trefis.com/articles/611836/what-you-actually-pay-to-join-the-csco-run-2/2026-08-18",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/actually-pay-join-csco-run-165414559.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/j82OwSgVUAv.6KtckF7eFg--~B/aD05NTk7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/trefis_142/74cd6d277b6b12eba5210fda18f54197.jpg"
-    },
-    {
-      "title": "Cisco (CSCO) Stock Looks Fairly Valued After Strong AI News",
-      "summary": "Cisco Systems stock has more than doubled over the past five years, yet current valuation checks suggest it now looks closer to fairly priced than obviously cheap, even after the recent pullback following strong AI related news. Over five years, Cisco Systems has delivered a total return of about 122%, which places current decisions more in the category of managing an established gain rather than betting on an early stage recovery. The ramp up in AI infrastructure demand and internal use of...",
-      "publisher": "Simply Wall St.",
-      "published_utc": "2026-08-18T14:13:50Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-csco-stock-looks-fairly-141350711.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-csco-stock-looks-fairly-141350711.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nMgkxHlrsxC1ZlNCDNQIEg--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/04fa3ad5da96418a6614fef94d5b3a77.jpg"
     }
   ]
 }
