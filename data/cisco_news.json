@@ -1,9 +1,18 @@
 {
-  "generated_utc": "2026-08-20T23:37:26.920570Z",
+  "generated_utc": "2026-08-21T23:36:08.200234Z",
   "symbol": "CSCO",
   "company": "Cisco",
-  "article_count": 7,
+  "article_count": 4,
   "articles": [
+    {
+      "title": "What Does Okta (OKTA) Gain From Its New Chief Legal Officer?",
+      "summary": "Okta (NasdaqGS: OKTA) appointed Scott Morgan as Chief Legal Officer, adding a seasoned legal leader with experience in technology growth and integrations. Morgan previously led legal functions at Splunk and played a key role in its expansion and integration into Cisco. The move comes as Okta develops AI-native identity security offerings and refines its governance and risk management approach. For a wider view on how leadership decisions can shape long term growth potential in tech, it can...",
+      "publisher": "Simply Wall St.",
+      "published_utc": "2026-08-21T15:11:47Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/does-okta-okta-gain-chief-151147079.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/does-okta-okta-gain-chief-151147079.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/SnDrmMgkflucGtfnrlCSig--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/47b1af040582d42464f0a0f280b2e22b.jpg"
+    },
     {
       "title": "What Could Cisco Systems (CSCO) Gain From The Streaming Infrastructure Boom?",
       "summary": "Cisco Systems (NasdaqGS: CSCO) is being highlighted as a key supplier in the global video streaming infrastructure market, which is seeing strong demand for live, low latency video and AI-enabled media workflows. Industry attention is shifting to vendors that can support expanded content delivery network capacity as streaming platforms, enterprises and cloud providers scale their video services. This focus places Cisco beyond its commonly discussed roles in networking and AI security and...",
@@ -30,42 +39,6 @@
       "url": "https://www.trefis.com/articles/612049/how-wide-a-year-are-cisco-holders-actually-signed-up-for/2026-08-19",
       "yahoo_url": "https://finance.yahoo.com/markets/options/articles/wide-cisco-holders-actually-signed-185033985.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/CQuVyHfSaNWRss0fLPrL9w--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/trefis_142/10c2890c16ecee8e2a801b3a46ab1981.jpg"
-    },
-    {
-      "title": "BofA makes bold call on Cisco stock after earnings",
-      "summary": "Bank of America sees a stronger setup for Cisco after earnings, but one issue could determine whether the stock can deliver more upside.",
-      "publisher": "TheStreet",
-      "published_utc": "2026-08-19T17:47:00Z",
-      "url": "https://www.thestreet.com/investing/stocks/bofa-reiterates-buy-150-target-cisco-stock-after-earnings",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/bofa-makes-bold-call-cisco-174700307.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/AEbtQOr8GizHM46g8gbpCw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet_881/2c11c0db656bda219a6a24d8b505fca7.jpg"
-    },
-    {
-      "title": "Cisco Drops 10% Post Q4 Earnings: Buy, Sell or Hold the Stock?",
-      "summary": "CSCO's Q4 revenues surge 18%, and AI demand stays strong, but margin pressure, soft recurring growth and a premium valuation support a hold.",
-      "publisher": "Zacks",
-      "published_utc": "2026-08-19T16:22:00Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-drops-10-post-q4-162200580.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-drops-10-post-q4-162200580.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/TNepVKOb2Jr3TvKQPxEOEQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/77a053cf2d2dc44c2e658d9c7a167193.jpg"
-    },
-    {
-      "title": "1 Growth Stock to Add to Your Roster and 2 We Ignore",
-      "summary": "Growth is oxygen. But when it evaporates, the consequences can be severe - ask anyone who bought Cisco in the Dot-Com Bubble or newer investors who lived through the 2020 to 2022 COVID cycle.",
-      "publisher": "StockStory",
-      "published_utc": "2026-08-19T13:18:02Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/1-growth-stock-add-roster-131802202.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/1-growth-stock-add-roster-131802202.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/aHB1xSY888Uphrk3Nau.wQ--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/280d786530000daaa3de19e7417f3d04.jpg"
-    },
-    {
-      "title": "5 Must-Read Analyst Questions From Cisco’s Q2 Earnings Call",
-      "summary": "Cisco’s latest quarter exceeded Wall Street’s revenue and adjusted profit expectations, but the market response was negative. Management attributed the strong sales to a surge in demand for AI-driven networking infrastructure, particularly from hyperscale cloud providers and enterprise customers, as well as robust product order momentum across geographies and segments. CEO Charles Robbins highlighted, “We delivered record revenue...with product revenue up 24% year-over-year,” citing broad-based",
-      "publisher": "StockStory",
-      "published_utc": "2026-08-19T09:26:02Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/5-must-read-analyst-questions-092602573.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/5-must-read-analyst-questions-092602573.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_m_hIGSLtjLqP242Op3I9w--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/13084f782bf37f7c367bffc0690421cd.jpg"
     }
   ]
 }
