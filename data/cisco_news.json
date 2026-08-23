@@ -1,9 +1,27 @@
 {
-  "generated_utc": "2026-08-22T23:33:28.379994Z",
+  "generated_utc": "2026-08-23T23:33:55.123505Z",
   "symbol": "CSCO",
   "company": "Cisco",
-  "article_count": 4,
+  "article_count": 5,
   "articles": [
+    {
+      "title": "Cisco & Cerebras Orders Up, Stocks Down",
+      "summary": "Though Cisco Systems and Cerebras have bulging order books, they face some major challenges.",
+      "publisher": "Motley Fool",
+      "published_utc": "2026-08-23T00:33:43Z",
+      "url": "https://www.fool.com/investing/2026/08/22/cisco-cerebras-orders-up-stocks-down/",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-cerebras-orders-stocks-down-003343430.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/v0Ja50zjtpXptocVqUmviA--~B/aD00NTA7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/5452c3f51b58c3c29ea83f6a1984a8b8.jpg"
+    },
+    {
+      "title": "Jim Cramer Dismissed Market Reaction To Cisco Systems, Inc. (NASDAQ:CSCO) Following Earnings",
+      "summary": "Networking equipment provider Cisco Systems, Inc. (NASDAQ:CSCO)’s shares are up by more than 60% over the past year and by more than 40% year-to-date. With the AI buildout in full swing, the firm has benefited from the demand for its products from data centers. This was evident through Cisco Systems, Inc. (NASDAQ:CSCO)’s fiscal Q4 revenue […]",
+      "publisher": "Insider Monkey",
+      "published_utc": "2026-08-23T00:12:40Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-dismissed-market-reaction-001240299.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-dismissed-market-reaction-001240299.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Lk2r1ddJu1W1QRTJ.of0CQ--~B/aD03Njg7dz0xMTUyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/3fe61364b95991c98978f250ba7bea2c.png"
+    },
     {
       "title": "This Stock Is Quietly Becoming an AI Powerhouse in 2026",
       "summary": "Cisco just posted its fifth straight earnings beat and the stock has surged over 60% in a year, yet most investors still think of it as the old router company. The AI order numbers buried in its latest report tell a very different story.",
@@ -30,15 +48,6 @@
       "url": "https://finance.yahoo.com/technology/articles/could-cisco-systems-csco-gain-100828128.html",
       "yahoo_url": "https://finance.yahoo.com/technology/articles/could-cisco-systems-csco-gain-100828128.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nMgkxHlrsxC1ZlNCDNQIEg--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/04fa3ad5da96418a6614fef94d5b3a77.jpg"
-    },
-    {
-      "title": "Cisco (CSCO) Q4 2026 Earnings Call Transcript",
-      "summary": "AI infrastructure orders hit $4 billion in quarter, driving record fiscal year results.",
-      "publisher": "Motley Fool",
-      "published_utc": "2026-08-19T23:31:19Z",
-      "url": "https://www.fool.com/earnings/call-transcripts/2026/08/19/cisco-csco-q4-2026-earnings-call-transcript/",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-csco-q4-2026-earnings-233119665.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Zf0OlyhIZ7toi7UvDaApwA--~B/aD00Mjc7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73.png"
     }
   ]
 }
