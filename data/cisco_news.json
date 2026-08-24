@@ -1,9 +1,36 @@
 {
-  "generated_utc": "2026-08-23T23:33:55.123505Z",
+  "generated_utc": "2026-08-24T23:33:30.407877Z",
   "symbol": "CSCO",
   "company": "Cisco",
-  "article_count": 5,
+  "article_count": 7,
   "articles": [
+    {
+      "title": "Cisco Grows Into Its Multiple, And The Market Has To Do The Rest",
+      "summary": "Consensus has the earnings arriving, and the multiple falling, yet the scenario that follows leaves a holder within a few percent of today's price unless the market goes on paying a richer forward multiple than it does today.",
+      "publisher": "Trefis",
+      "published_utc": "2026-08-24T20:25:38Z",
+      "url": "https://www.trefis.com/articles/612581/cisco-grows-into-its-multiple-and-the-market-has-to-do-the-rest/2026-08-24",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-grows-multiple-market-rest-202538824.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/laY51JcP6xZ_xPHCGPBgmQ--~B/aD05NjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/trefis_142/85123c835b6e8ce60fad17fb7e30174e.jpg"
+    },
+    {
+      "title": "Cisco Systems (CSCO) & Arista Networks (ANET): Cisco Just Beat Every Estimate. Why Did the Stock Still Drop 8%?",
+      "summary": "On August 12, 2026, Cisco Systems, Inc. (NASDAQ:CSCO) reported fiscal fourth-quarter earnings and revenue that beat Wall Street estimates and issued guidance well above expectations. Shares still fell as much as 8.4% the following trading day. Why This Matters Cisco’s actual numbers were strong by almost any measure, but investors sold the stock anyway, while […]",
+      "publisher": "Insider Monkey",
+      "published_utc": "2026-08-24T18:52:00Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-csco-arista-networks-185200152.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-csco-arista-networks-185200152.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4gJ7np79Zy9FLZwgqIguXA--~B/aD04MTY7dz0xNDU2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/d25b3866bc1552f975e750324a887a7e.jpg"
+    },
+    {
+      "title": "Forget Nvidia. Cisco Could Be a Hidden Winner From the AI Boom",
+      "summary": "Nvidia grabs the AI headlines, but a 69% gain over the past year hints that a quieter networking giant may be capturing just as much of the buildout. The question is whether Cisco's biggest surge is still ahead or already priced in.",
+      "publisher": "24/7 Wall St.",
+      "published_utc": "2026-08-24T16:30:34Z",
+      "url": "https://247wallst.com/investing/2026/08/24/forget-nvidia-cisco-could-be-a-hidden-winner-from-the-ai-boom/",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/forget-nvidia-cisco-could-hidden-163034803.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/QIa9VAz7sc4Ch5Gqf5cDfQ--~B/aD0xNzA3O3c9MjU2MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/b2f9c7cb89d5cc4e471bfce65db4b79d.jpg"
+    },
     {
       "title": "Cisco & Cerebras Orders Up, Stocks Down",
       "summary": "Though Cisco Systems and Cerebras have bulging order books, they face some major challenges.",
@@ -39,15 +66,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/does-okta-okta-gain-chief-151147079.html",
       "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/does-okta-okta-gain-chief-151147079.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/SnDrmMgkflucGtfnrlCSig--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/47b1af040582d42464f0a0f280b2e22b.jpg"
-    },
-    {
-      "title": "What Could Cisco Systems (CSCO) Gain From The Streaming Infrastructure Boom?",
-      "summary": "Cisco Systems (NasdaqGS: CSCO) is being highlighted as a key supplier in the global video streaming infrastructure market, which is seeing strong demand for live, low latency video and AI-enabled media workflows. Industry attention is shifting to vendors that can support expanded content delivery network capacity as streaming platforms, enterprises and cloud providers scale their video services. This focus places Cisco beyond its commonly discussed roles in networking and AI security and...",
-      "publisher": "Simply Wall St.",
-      "published_utc": "2026-08-20T10:08:28Z",
-      "url": "https://finance.yahoo.com/technology/articles/could-cisco-systems-csco-gain-100828128.html",
-      "yahoo_url": "https://finance.yahoo.com/technology/articles/could-cisco-systems-csco-gain-100828128.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nMgkxHlrsxC1ZlNCDNQIEg--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/04fa3ad5da96418a6614fef94d5b3a77.jpg"
     }
   ]
 }
