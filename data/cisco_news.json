@@ -1,62 +1,71 @@
 {
-  "generated_utc": "2026-08-25T23:35:42.692085Z",
+  "generated_utc": "2026-08-27T04:30:21.211662Z",
   "symbol": "CSCO",
   "company": "Cisco",
-  "article_count": 6,
+  "article_count": 7,
   "articles": [
     {
-      "title": "Why Super Micro Computer Rallied Today",
-      "summary": "Super Micro received a big boost from Cisco today.",
-      "publisher": "Motley Fool",
-      "published_utc": "2026-08-25T20:31:06Z",
-      "url": "https://www.fool.com/investing/2026/08/25/why-super-micro-computer-rallied-today/",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/why-super-micro-computer-rallied-203106888.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/pYCoiBmQzgCI.Fcw8ezV0w--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/57c23887456c86569e41f470f8f72dfd.jpg"
+      "title": "Cisco Could Be Entering a More Lasting Growth Phase, Says Morgan Stanley",
+      "summary": "There are several key catalysts, including upgrades to networking equipment, demand for artificial intelligence, and cybersecurity.",
+      "publisher": "Barchart",
+      "published_utc": "2026-08-26T19:50:09Z",
+      "url": "https://www.barchart.com/story/news/4133668/cisco-could-be-entering-a-more-lasting-growth-phase-says-morgan-stanley",
+      "yahoo_url": "https://finance.yahoo.com/technology/articles/cisco-could-entering-more-lasting-195009265.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ahHmLQ55wP8FbWQbwHjB9A--~B/aD04MzY7dz0xMjU0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/barchart_com_477/bec27416fdbe79bd1eb29e2bdbc3efb1.jpg"
     },
     {
-      "title": "Cisco and Supermicro Are Building for AI's Next Phase",
-      "summary": "The partnership brings dense GPU systems and liquid cooling together.",
-      "publisher": "GuruFocus.com",
-      "published_utc": "2026-08-25T19:34:10Z",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-supermicro-building-ais-next-193410168.html",
-      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/cisco-supermicro-building-ais-next-193410168.html",
-      "thumbnail": null
-    },
-    {
-      "title": "Lumentum's 1.6T & 200G Ramp Faces Cisco & NVIDIA Competition",
-      "summary": "LITE's 1.6T transceiver and 200G laser ramps support AI connectivity growth as capacity expands amid tight supply and tougher competition.",
-      "publisher": "Zacks",
-      "published_utc": "2026-08-25T15:13:00Z",
-      "url": "https://finance.yahoo.com/technology/articles/lumentums-1-6t-200g-ramp-151300512.html",
-      "yahoo_url": "https://finance.yahoo.com/technology/articles/lumentums-1-6t-200g-ramp-151300512.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/NfE98gXNbsO55.sY9WHEcA--~B/aD0xODc7dz02MTk7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/bfb17b2bc10454e6a97898bad0259533.jpg"
-    },
-    {
-      "title": "Cisco Systems (CSCO) Looks Fairly Valued As AI Orders And Guidance Lift Sentiment",
-      "summary": "Cisco Systems (CSCO) is back in focus after management highlighted strong AI related orders, provided upbeat guidance for fiscal 2027 AI infrastructure revenue, and announced an expanded Secure AI Factory partnership with NVIDIA and Supermicro. See our latest analysis for Cisco Systems. Cisco Systems shares have eased in the short term, with the 1 month share price return down 3.45% and the 3 month share price return down 6.85%. However, the stock still shows strong momentum, highlighted by a...",
+      "title": "What Could Super Micro Computer (SMCI) Gain From This AI Infrastructure Partnership?",
+      "summary": "Super Micro Computer (NasdaqGS:SMCI) is expanding its AI infrastructure partnership with Cisco and NVIDIA to deliver integrated rack scale solutions for neocloud and sovereign cloud customers. The collaboration incorporates Supermicro high density, liquid cooled and air cooled servers into Cisco's Secure AI Factory infrastructure for next generation AI data centers. The joint offering is aimed at enterprises and cloud providers that want to deploy efficient and secure AI workloads at...",
       "publisher": "Simply Wall St.",
-      "published_utc": "2026-08-25T14:14:11Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-csco-looks-fairly-141411342.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-csco-looks-fairly-141411342.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nMgkxHlrsxC1ZlNCDNQIEg--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/04fa3ad5da96418a6614fef94d5b3a77.jpg"
+      "published_utc": "2026-08-26T19:08:50Z",
+      "url": "https://finance.yahoo.com/technology/ai/articles/could-super-micro-computer-smci-190850097.html",
+      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/could-super-micro-computer-smci-190850097.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7sphyXQH6mTSZBl6vfC0vQ--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/88228fadcfcf61d75ba1baf2ef33a4f7.jpg"
     },
     {
-      "title": "Has Cisco Systems (CSCO) Outpaced Other Computer and Technology Stocks This Year?",
-      "summary": "Here is how Cisco Systems (CSCO) and Five9 (FIVN) have performed compared to their sector so far this year.",
-      "publisher": "Zacks",
-      "published_utc": "2026-08-25T13:40:04Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-csco-outpaced-other-134004536.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-csco-outpaced-other-134004536.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/jJ3wNA6KzB2ynYr.NBgL6g--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/8442d24e11d454aa89061259a9714d43.jpg"
+      "title": "Super Micro Rallied On A Stamp Of Approval, Not On Demand",
+      "summary": "Cisco putting Super Micro's liquid-cooled servers in its own AI product line ended a slide the record order book had not.",
+      "publisher": "Trefis",
+      "published_utc": "2026-08-26T18:03:30Z",
+      "url": "https://www.trefis.com/articles/613014/super-micro-rallied-on-a-stamp-of-approval-not-on-demand/2026-08-26",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-rallied-stamp-approval-180330601.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YHuitGqWPq7RI3kJcGxoqg--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/trefis_142/f9b1b44322f3fe94699cfbe3b3dc3e3b.jpg"
     },
     {
-      "title": "Wall Street Bulls Look Optimistic About Cisco (CSCO): Should You Buy?",
-      "summary": "According to the average brokerage recommendation (ABR), one should invest in Cisco (CSCO). It is debatable whether this highly sought-after metric is effective because Wall Street analysts' recommendations tend to be overly optimistic. Would it be worth investing in the stock?",
+      "title": "Cisco just broke its biggest hardware rule to chase the AI boom",
+      "summary": "A new partnership pulls rack-scale compute into Cisco’s stack, and it changes who else gets a cut of the AI buildout.",
+      "publisher": "TheStreet",
+      "published_utc": "2026-08-26T17:33:00Z",
+      "url": "https://www.thestreet.com/technology/cisco-supermicro-ai-infrastructure-stock-analysis",
+      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/cisco-just-broke-biggest-hardware-173300319.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_ZKlCio6erSVgoVv3bmyWw--~B/aD0yNTYwO3c9Mzg0MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet_881/19e3622f4ad7daeba5f77311d26086e7.jpg"
+    },
+    {
+      "title": "Cisco Expands Secure AI Factory: Can it Outpace PANW & FTNT?",
+      "summary": "CSCO expands its Secure AI Factory with NVIDIA, embedding security into AI infrastructure as cyber threats rise and competition intensifies.",
       "publisher": "Zacks",
-      "published_utc": "2026-08-25T13:30:04Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-bulls-look-optimistic-133004462.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-bulls-look-optimistic-133004462.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/SCIO3o.AM.W7gQtGBplQ8w--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/1a018a29aef5adbf5b4319f32058e209.jpg"
+      "published_utc": "2026-08-26T17:22:00Z",
+      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-expands-secure-ai-factory-172200020.html",
+      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/cisco-expands-secure-ai-factory-172200020.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vROPxL_mEJnnBuAn4lJSAw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/75701a0cb7cb5c2a9a21e2ae671472f5.jpg"
+    },
+    {
+      "title": "Cisco Systems Stock Ran On Orders Its Revenue Had Not Caught Up To",
+      "summary": "The AI order book was public and escalating for three straight quarters before the shares moved.",
+      "publisher": "Trefis",
+      "published_utc": "2026-08-26T16:27:05Z",
+      "url": "https://www.trefis.com/articles/613001/cisco-systems-stock-ran-on-orders-its-revenue-had-not-caught-up-to/2026-08-26",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-stock-ran-orders-162705176.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/j82OwSgVUAv.6KtckF7eFg--~B/aD05NTk7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/trefis_142/74cd6d277b6b12eba5210fda18f54197.jpg"
+    },
+    {
+      "title": "Strong Datacenter Growth Boosts TER's Prospects Against CSCO & VRT",
+      "summary": "Teradyne's AI-driven datacenter growth, strong memory demand, and strategic moves strengthen its prospects against Cisco Systems and Vertiv.",
+      "publisher": "Zacks",
+      "published_utc": "2026-08-26T16:26:00Z",
+      "url": "https://finance.yahoo.com/technology/articles/strong-datacenter-growth-boosts-ters-162600424.html",
+      "yahoo_url": "https://finance.yahoo.com/technology/articles/strong-datacenter-growth-boosts-ters-162600424.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wUMY.TTjL0vjch2Jvd.Zmg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/d43cb7b76527c97c59494165d3dffeae.jpg"
     }
   ]
 }
