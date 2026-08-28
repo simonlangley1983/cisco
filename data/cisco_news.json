@@ -1,71 +1,44 @@
 {
-  "generated_utc": "2026-08-27T04:30:21.211662Z",
+  "generated_utc": "2026-08-28T06:55:22.243821Z",
   "symbol": "CSCO",
   "company": "Cisco",
-  "article_count": 7,
+  "article_count": 4,
   "articles": [
     {
-      "title": "Cisco Could Be Entering a More Lasting Growth Phase, Says Morgan Stanley",
-      "summary": "There are several key catalysts, including upgrades to networking equipment, demand for artificial intelligence, and cybersecurity.",
-      "publisher": "Barchart",
-      "published_utc": "2026-08-26T19:50:09Z",
-      "url": "https://www.barchart.com/story/news/4133668/cisco-could-be-entering-a-more-lasting-growth-phase-says-morgan-stanley",
-      "yahoo_url": "https://finance.yahoo.com/technology/articles/cisco-could-entering-more-lasting-195009265.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ahHmLQ55wP8FbWQbwHjB9A--~B/aD04MzY7dz0xMjU0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/barchart_com_477/bec27416fdbe79bd1eb29e2bdbc3efb1.jpg"
-    },
-    {
-      "title": "What Could Super Micro Computer (SMCI) Gain From This AI Infrastructure Partnership?",
-      "summary": "Super Micro Computer (NasdaqGS:SMCI) is expanding its AI infrastructure partnership with Cisco and NVIDIA to deliver integrated rack scale solutions for neocloud and sovereign cloud customers. The collaboration incorporates Supermicro high density, liquid cooled and air cooled servers into Cisco's Secure AI Factory infrastructure for next generation AI data centers. The joint offering is aimed at enterprises and cloud providers that want to deploy efficient and secure AI workloads at...",
-      "publisher": "Simply Wall St.",
-      "published_utc": "2026-08-26T19:08:50Z",
-      "url": "https://finance.yahoo.com/technology/ai/articles/could-super-micro-computer-smci-190850097.html",
-      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/could-super-micro-computer-smci-190850097.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7sphyXQH6mTSZBl6vfC0vQ--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/88228fadcfcf61d75ba1baf2ef33a4f7.jpg"
-    },
-    {
-      "title": "Super Micro Rallied On A Stamp Of Approval, Not On Demand",
-      "summary": "Cisco putting Super Micro's liquid-cooled servers in its own AI product line ended a slide the record order book had not.",
-      "publisher": "Trefis",
-      "published_utc": "2026-08-26T18:03:30Z",
-      "url": "https://www.trefis.com/articles/613014/super-micro-rallied-on-a-stamp-of-approval-not-on-demand/2026-08-26",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-rallied-stamp-approval-180330601.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/YHuitGqWPq7RI3kJcGxoqg--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/trefis_142/f9b1b44322f3fe94699cfbe3b3dc3e3b.jpg"
-    },
-    {
-      "title": "Cisco just broke its biggest hardware rule to chase the AI boom",
-      "summary": "A new partnership pulls rack-scale compute into Cisco’s stack, and it changes who else gets a cut of the AI buildout.",
+      "title": "Morgan Stanley reveals Cisco's quiet edge over rivals",
+      "summary": "Cisco is navigating a shortage that’s squeezing the whole AI infrastructure industry.",
       "publisher": "TheStreet",
-      "published_utc": "2026-08-26T17:33:00Z",
-      "url": "https://www.thestreet.com/technology/cisco-supermicro-ai-infrastructure-stock-analysis",
-      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/cisco-just-broke-biggest-hardware-173300319.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_ZKlCio6erSVgoVv3bmyWw--~B/aD0yNTYwO3c9Mzg0MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet_881/19e3622f4ad7daeba5f77311d26086e7.jpg"
+      "published_utc": "2026-08-27T21:47:00Z",
+      "url": "https://www.thestreet.com/investing/stocks/morgan-stanley-keeps-cisco-at-135-on-tsmc-supply-edge",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-reveals-ciscos-quiet-214700597.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/aEncaicWfQ.P.k0lmUianw--~B/aD0yNTYwO3c9Mzg0MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet_881/fadc7e07d683d0c3b3c5ff6876af2e79.jpg"
     },
     {
-      "title": "Cisco Expands Secure AI Factory: Can it Outpace PANW & FTNT?",
-      "summary": "CSCO expands its Secure AI Factory with NVIDIA, embedding security into AI infrastructure as cyber threats rise and competition intensifies.",
+      "title": "Nvidia's AI Chips Are Making Liquid Cooling the New Standard as Cisco Expands Its AI Bet",
+      "summary": "Nvidia Corp‘s next AI breakthrough may not be inside its chips—it could be in how they’re cooled. Cisco Systems, Inc‘s latest expansion of its AI infrastructure partnership with Nvidia highlights a growing industry shift toward liquid cooling. It reinforces forecasts...",
+      "publisher": "Benzinga",
+      "published_utc": "2026-08-27T21:31:03Z",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidias-ai-chips-making-liquid-213103744.html",
+      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/nvidias-ai-chips-making-liquid-213103744.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/iKx2kWmFXhn8wdsz3h5N.g--~B/aD02Njc7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/benzinga_79/f894ccacd9bcbc061827518a9f86bc0b.jpg"
+    },
+    {
+      "title": "HPE vs. CSCO: Which Stock Has an Edge in the Networking Space?",
+      "summary": "Cisco's strong hyperscaler AI orders, networking growth and expanding security portfolio give it an edge over Hewlett Packard Enterprise for long-term investors.",
       "publisher": "Zacks",
-      "published_utc": "2026-08-26T17:22:00Z",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-expands-secure-ai-factory-172200020.html",
-      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/cisco-expands-secure-ai-factory-172200020.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vROPxL_mEJnnBuAn4lJSAw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/75701a0cb7cb5c2a9a21e2ae671472f5.jpg"
+      "published_utc": "2026-08-27T15:41:00Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/hpe-vs-csco-stock-edge-154100468.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/hpe-vs-csco-stock-edge-154100468.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/PAPz0P1aP0xzqAPNf440Sw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/53d9a3fd304ab73d580828e5367313eb.jpg"
     },
     {
-      "title": "Cisco Systems Stock Ran On Orders Its Revenue Had Not Caught Up To",
-      "summary": "The AI order book was public and escalating for three straight quarters before the shares moved.",
-      "publisher": "Trefis",
-      "published_utc": "2026-08-26T16:27:05Z",
-      "url": "https://www.trefis.com/articles/613001/cisco-systems-stock-ran-on-orders-its-revenue-had-not-caught-up-to/2026-08-26",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-stock-ran-orders-162705176.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/j82OwSgVUAv.6KtckF7eFg--~B/aD05NTk7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/trefis_142/74cd6d277b6b12eba5210fda18f54197.jpg"
-    },
-    {
-      "title": "Strong Datacenter Growth Boosts TER's Prospects Against CSCO & VRT",
-      "summary": "Teradyne's AI-driven datacenter growth, strong memory demand, and strategic moves strengthen its prospects against Cisco Systems and Vertiv.",
-      "publisher": "Zacks",
-      "published_utc": "2026-08-26T16:26:00Z",
-      "url": "https://finance.yahoo.com/technology/articles/strong-datacenter-growth-boosts-ters-162600424.html",
-      "yahoo_url": "https://finance.yahoo.com/technology/articles/strong-datacenter-growth-boosts-ters-162600424.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/wUMY.TTjL0vjch2Jvd.Zmg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/d43cb7b76527c97c59494165d3dffeae.jpg"
+      "title": "Cisco Gave All 90,000 Employees Their Own AI Agent",
+      "summary": "Networking-equipment maker Cisco rolled out a personal AI agent for all of its 90,000 global employees this week.  The AI agent, called MyAgent, is personalized to each employee,  Cisco  Executive Vice President of Operations Thimaya Subaiya recently told me in an exclusive interview.  Cisco’s AI agent program is one of the first examples of a widespread agent rollout inside a large company, and one where the autonomous bots are set to accomplish a variety of tasks on behalf of their humans.",
+      "publisher": "The Wall Street Journal",
+      "published_utc": "2026-08-27T13:09:00Z",
+      "url": "https://www.wsj.com/cio-journal/cisco-gave-all-90-000-employees-their-own-ai-agent-1a4ad8bc?siteid=yhoof2&yptr=yahoo",
+      "yahoo_url": null,
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/H9XbAqPa7vtt08qEG.xrzg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/b9bfe36e489cbd492f9186d839274656.jpg"
     }
   ]
 }
