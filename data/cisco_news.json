@@ -1,9 +1,27 @@
 {
-  "generated_utc": "2026-08-28T06:55:22.243821Z",
+  "generated_utc": "2026-08-29T04:08:33.311874Z",
   "symbol": "CSCO",
   "company": "Cisco",
-  "article_count": 4,
+  "article_count": 3,
   "articles": [
+    {
+      "title": "1 Growth Stock with Explosive Upside and 2 We Question",
+      "summary": "Growth is oxygen. But when it evaporates, the consequences can be severe - ask anyone who bought Cisco in the Dot-Com Bubble or newer investors who lived through the 2020 to 2022 COVID cycle.",
+      "publisher": "StockStory",
+      "published_utc": "2026-08-28T13:28:52Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/1-growth-stock-explosive-upside-132852047.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/1-growth-stock-explosive-upside-132852047.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ekGygid_H6AFR_6xm6mclQ--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/73277d83bfb7a2bfe809a91637c9ab1c.jpg"
+    },
+    {
+      "title": "Cisco (CSCO) Unveils Sovereign And AI Infrastructure Offerings",
+      "summary": "Cisco Systems (NasdaqGS:CSCO) launched a Sovereign Critical Infrastructure portfolio in Canada, targeting sectors that require national control of data and networks. The company expanded its Secure AI Factory through partnerships with NVIDIA and Supermicro to support liquid cooled, high density AI infrastructure. The expanded offering is aimed at enterprises, neocloud providers, and sovereign cloud customers looking to run AI workloads with integrated compute, cooling, and AI focused...",
+      "publisher": "Simply Wall St.",
+      "published_utc": "2026-08-28T10:21:33Z",
+      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-csco-unveils-sovereign-ai-102133581.html",
+      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/cisco-csco-unveils-sovereign-ai-102133581.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nMgkxHlrsxC1ZlNCDNQIEg--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/04fa3ad5da96418a6614fef94d5b3a77.jpg"
+    },
     {
       "title": "Morgan Stanley reveals Cisco's quiet edge over rivals",
       "summary": "Cisco is navigating a shortage that’s squeezing the whole AI infrastructure industry.",
@@ -12,33 +30,6 @@
       "url": "https://www.thestreet.com/investing/stocks/morgan-stanley-keeps-cisco-at-135-on-tsmc-supply-edge",
       "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-reveals-ciscos-quiet-214700597.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/aEncaicWfQ.P.k0lmUianw--~B/aD0yNTYwO3c9Mzg0MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet_881/fadc7e07d683d0c3b3c5ff6876af2e79.jpg"
-    },
-    {
-      "title": "Nvidia's AI Chips Are Making Liquid Cooling the New Standard as Cisco Expands Its AI Bet",
-      "summary": "Nvidia Corp‘s next AI breakthrough may not be inside its chips—it could be in how they’re cooled. Cisco Systems, Inc‘s latest expansion of its AI infrastructure partnership with Nvidia highlights a growing industry shift toward liquid cooling. It reinforces forecasts...",
-      "publisher": "Benzinga",
-      "published_utc": "2026-08-27T21:31:03Z",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidias-ai-chips-making-liquid-213103744.html",
-      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/nvidias-ai-chips-making-liquid-213103744.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/iKx2kWmFXhn8wdsz3h5N.g--~B/aD02Njc7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/benzinga_79/f894ccacd9bcbc061827518a9f86bc0b.jpg"
-    },
-    {
-      "title": "HPE vs. CSCO: Which Stock Has an Edge in the Networking Space?",
-      "summary": "Cisco's strong hyperscaler AI orders, networking growth and expanding security portfolio give it an edge over Hewlett Packard Enterprise for long-term investors.",
-      "publisher": "Zacks",
-      "published_utc": "2026-08-27T15:41:00Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/hpe-vs-csco-stock-edge-154100468.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/hpe-vs-csco-stock-edge-154100468.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/PAPz0P1aP0xzqAPNf440Sw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/53d9a3fd304ab73d580828e5367313eb.jpg"
-    },
-    {
-      "title": "Cisco Gave All 90,000 Employees Their Own AI Agent",
-      "summary": "Networking-equipment maker Cisco rolled out a personal AI agent for all of its 90,000 global employees this week.  The AI agent, called MyAgent, is personalized to each employee,  Cisco  Executive Vice President of Operations Thimaya Subaiya recently told me in an exclusive interview.  Cisco’s AI agent program is one of the first examples of a widespread agent rollout inside a large company, and one where the autonomous bots are set to accomplish a variety of tasks on behalf of their humans.",
-      "publisher": "The Wall Street Journal",
-      "published_utc": "2026-08-27T13:09:00Z",
-      "url": "https://www.wsj.com/cio-journal/cisco-gave-all-90-000-employees-their-own-ai-agent-1a4ad8bc?siteid=yhoof2&yptr=yahoo",
-      "yahoo_url": null,
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/H9XbAqPa7vtt08qEG.xrzg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/b9bfe36e489cbd492f9186d839274656.jpg"
     }
   ]
 }
