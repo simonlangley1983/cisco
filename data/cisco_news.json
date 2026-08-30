@@ -1,9 +1,18 @@
 {
-  "generated_utc": "2026-08-29T04:08:33.311874Z",
+  "generated_utc": "2026-08-30T01:14:01.222796Z",
   "symbol": "CSCO",
   "company": "Cisco",
   "article_count": 3,
   "articles": [
+    {
+      "title": "'I Don't Know John Ternus,' Jim Cramer Says — but He Trusts Tim Cook's Word on Apple's Next CEO",
+      "summary": "On CNBC’s “Mad Money Lightning Round,” Jim Cramer recommended buying Cisco Systems Inc., noting that it had a really good quarter. “I know that they gave very conservative guidance, but that’s all it was,” he added. On Aug. 12, Cisco...",
+      "publisher": "Benzinga",
+      "published_utc": "2026-08-29T15:46:09Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dont-know-john-ternus-jim-154609628.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/dont-know-john-ternus-jim-154609628.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Jo5M7eFjgViMp2cLYrOg3A--~B/aD01NTM7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/benzinga_79/9287c88f7509e577a3dc3bab6bdb3913.jpg"
+    },
     {
       "title": "1 Growth Stock with Explosive Upside and 2 We Question",
       "summary": "Growth is oxygen. But when it evaporates, the consequences can be severe - ask anyone who bought Cisco in the Dot-Com Bubble or newer investors who lived through the 2020 to 2022 COVID cycle.",
@@ -21,15 +30,6 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/cisco-csco-unveils-sovereign-ai-102133581.html",
       "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/cisco-csco-unveils-sovereign-ai-102133581.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nMgkxHlrsxC1ZlNCDNQIEg--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/04fa3ad5da96418a6614fef94d5b3a77.jpg"
-    },
-    {
-      "title": "Morgan Stanley reveals Cisco's quiet edge over rivals",
-      "summary": "Cisco is navigating a shortage that’s squeezing the whole AI infrastructure industry.",
-      "publisher": "TheStreet",
-      "published_utc": "2026-08-27T21:47:00Z",
-      "url": "https://www.thestreet.com/investing/stocks/morgan-stanley-keeps-cisco-at-135-on-tsmc-supply-edge",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-reveals-ciscos-quiet-214700597.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/aEncaicWfQ.P.k0lmUianw--~B/aD0yNTYwO3c9Mzg0MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet_881/fadc7e07d683d0c3b3c5ff6876af2e79.jpg"
     }
   ]
 }
