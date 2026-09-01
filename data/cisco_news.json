@@ -1,35 +1,62 @@
 {
-  "generated_utc": "2026-08-31T01:22:13.176508Z",
+  "generated_utc": "2026-09-01T01:48:47.372440Z",
   "symbol": "CSCO",
   "company": "Cisco",
-  "article_count": 3,
+  "article_count": 6,
   "articles": [
     {
-      "title": "'I Don't Know John Ternus,' Jim Cramer Says — but He Trusts Tim Cook's Word on Apple's Next CEO",
-      "summary": "On CNBC’s “Mad Money Lightning Round,” Jim Cramer recommended buying Cisco Systems Inc., noting that it had a really good quarter. “I know that they gave very conservative guidance, but that’s all it was,” he added. On Aug. 12, Cisco...",
-      "publisher": "Benzinga",
-      "published_utc": "2026-08-29T15:46:09Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dont-know-john-ternus-jim-154609628.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/dont-know-john-ternus-jim-154609628.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Jo5M7eFjgViMp2cLYrOg3A--~B/aD01NTM7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/benzinga_79/9287c88f7509e577a3dc3bab6bdb3913.jpg"
+      "title": "Cisco Systems Stock Has A Second Engine The AI Story Hides",
+      "summary": "The upside case that matters now is the enterprise refresh that management calls early, not the hyperscaler AI line already inside the guide.",
+      "publisher": "Trefis",
+      "published_utc": "2026-08-31T21:58:56Z",
+      "url": "https://www.trefis.com/articles/613717/cisco-systems-stock-has-a-second-engine-the-ai-story-hides/2026-08-31",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-stock-second-engine-215856423.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/DbacNY7gyOVF8.tyD7Ys3g--~B/aD04NTM7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/trefis_142/c4903bfbeafe212739065f83a917fbc7.jpg"
     },
     {
-      "title": "1 Growth Stock with Explosive Upside and 2 We Question",
-      "summary": "Growth is oxygen. But when it evaporates, the consequences can be severe - ask anyone who bought Cisco in the Dot-Com Bubble or newer investors who lived through the 2020 to 2022 COVID cycle.",
-      "publisher": "StockStory",
-      "published_utc": "2026-08-28T13:28:52Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/1-growth-stock-explosive-upside-132852047.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/1-growth-stock-explosive-upside-132852047.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ekGygid_H6AFR_6xm6mclQ--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/73277d83bfb7a2bfe809a91637c9ab1c.jpg"
-    },
-    {
-      "title": "Cisco (CSCO) Unveils Sovereign And AI Infrastructure Offerings",
-      "summary": "Cisco Systems (NasdaqGS:CSCO) launched a Sovereign Critical Infrastructure portfolio in Canada, targeting sectors that require national control of data and networks. The company expanded its Secure AI Factory through partnerships with NVIDIA and Supermicro to support liquid cooled, high density AI infrastructure. The expanded offering is aimed at enterprises, neocloud providers, and sovereign cloud customers looking to run AI workloads with integrated compute, cooling, and AI focused...",
+      "title": "How Investors Are Reacting To Cisco Systems (CSCO) Expanding Sovereign AI Infrastructure In Saudi Arabia",
+      "summary": "In recent days, AMD, Cisco and HUMAIN detailed plans to expand their joint AI infrastructure in Saudi Arabia to as much as 1 GW by 2030, while Cisco also introduced a Sovereign Critical Infrastructure portfolio in Canada for air-gapped, on‑premises deployments across key sectors. Taken together, these moves show Cisco pushing deeper into sovereign AI and critical infrastructure, targeting customers that need high‑performance compute alongside strict data residency and control. We’ll now...",
       "publisher": "Simply Wall St.",
-      "published_utc": "2026-08-28T10:21:33Z",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-csco-unveils-sovereign-ai-102133581.html",
-      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/cisco-csco-unveils-sovereign-ai-102133581.html",
+      "published_utc": "2026-08-31T17:04:42Z",
+      "url": "https://finance.yahoo.com/technology/ai/articles/investors-reacting-cisco-systems-csco-170442803.html",
+      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/investors-reacting-cisco-systems-csco-170442803.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nMgkxHlrsxC1ZlNCDNQIEg--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/04fa3ad5da96418a6614fef94d5b3a77.jpg"
+    },
+    {
+      "title": "AMD's Saudi AI Bet Is Scaling Toward 1 Gigawatt",
+      "summary": "AMD and Cisco plan to expand HUMAIN's infrastructure to 250 MW from 2027 and as much as 1 GW by 2030.",
+      "publisher": "GuruFocus.com",
+      "published_utc": "2026-08-31T15:31:46Z",
+      "url": "https://finance.yahoo.com/technology/ai/articles/amds-saudi-ai-bet-scaling-153146397.html",
+      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/amds-saudi-ai-bet-scaling-153146397.html",
+      "thumbnail": null
+    },
+    {
+      "title": "AMD and Cisco Expand AI Infrastructure in Saudi Arabia",
+      "summary": "New Saudi AI Platform Puts AMD Chips to Work",
+      "publisher": "GuruFocus.com",
+      "published_utc": "2026-08-31T15:31:31Z",
+      "url": "https://finance.yahoo.com/technology/ai/articles/amd-cisco-expand-ai-infrastructure-153131991.html",
+      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/amd-cisco-expand-ai-infrastructure-153131991.html",
+      "thumbnail": null
+    },
+    {
+      "title": "Zacks Investment Ideas feature highlights: Salesforce, Cisco, Dell, Uber and Robinhood",
+      "summary": "Salesforce's AI momentum, stronger cash flow and raised guidance fuel its post-earnings rally, but investment gains cloud the EPS picture.",
+      "publisher": "Zacks",
+      "published_utc": "2026-08-31T15:15:00Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-151500562.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-151500562.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vjyG9zXCxx8fiAiBZkBa8w--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/a93223749b9366fe082c80e40b692962.jpg"
+    },
+    {
+      "title": "How Is Cisco Systems' Stock Performance Compared to Other Telecommunications Stocks?",
+      "summary": "Cisco Systems has outperformed the Telecommunications industry over the past year, and analysts are cautiously optimistic about the stock’s prospects.",
+      "publisher": "Barchart",
+      "published_utc": "2026-08-31T14:47:36Z",
+      "url": "https://www.barchart.com/story/news/4356483/how-is-cisco-systems-stock-performance-compared-to-other-telecommunications-stocks",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-stock-performance-compared-144736646.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ahHmLQ55wP8FbWQbwHjB9A--~B/aD04MzY7dz0xMjU0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/barchart_com_477/bec27416fdbe79bd1eb29e2bdbc3efb1.jpg"
     }
   ]
 }
