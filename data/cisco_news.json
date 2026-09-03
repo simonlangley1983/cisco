@@ -1,35 +1,62 @@
 {
-  "generated_utc": "2026-09-02T01:00:35.107536Z",
+  "generated_utc": "2026-09-03T01:06:32.558991Z",
   "symbol": "CSCO",
   "company": "Cisco",
-  "article_count": 3,
+  "article_count": 6,
   "articles": [
     {
-      "title": "What Does Cisco Systems (CSCO) Fire Ant Router Espionage Mean For Investors?",
-      "summary": "Cisco Systems (NasdaqGS:CSCO) disclosed that a China linked group known as \"Fire Ant\" has been targeting Cisco IOS XR routers in a cyber espionage campaign. The threat actor has reportedly secured persistent access to high value network infrastructure, raising concerns over the security of affected routers and customer traffic. The incident highlights elevated cyber risks around Cisco's core networking platforms, which are distinct from its recently discussed AI infrastructure and sovereign...",
+      "title": "Super Micro Computer (SMCI) Joins A Major Enterprise AI Infrastructure Build",
+      "summary": "Super Micro Computer (NasdaqGS:SMCI) announced a new partnership with Cisco to supply high density liquid and air cooled compute systems for AI infrastructure. The company’s systems will be integrated into Cisco’s Secure AI Factory architecture, which uses NVIDIA technologies for enterprise, neocloud and sovereign cloud customers. The collaboration broadens Super Micro Computer’s access to rack scale and dense GPU systems that are validated for Cisco’s AI offerings. Consider broadening your...",
       "publisher": "Simply Wall St.",
-      "published_utc": "2026-09-01T20:14:44Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/does-cisco-systems-csco-fire-201444427.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/does-cisco-systems-csco-fire-201444427.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nMgkxHlrsxC1ZlNCDNQIEg--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/04fa3ad5da96418a6614fef94d5b3a77.jpg"
+      "published_utc": "2026-09-03T00:22:25Z",
+      "url": "https://finance.yahoo.com/technology/ai/articles/super-micro-computer-smci-joins-002225556.html",
+      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/super-micro-computer-smci-joins-002225556.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7sphyXQH6mTSZBl6vfC0vQ--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/88228fadcfcf61d75ba1baf2ef33a4f7.jpg"
     },
     {
-      "title": "Here Are Tuesday’s Top Wall Street Analyst Research Calls: Akamai Technologies, Arista Networks, Booking Holdings, Cisco Systems, Dell Technologies, Duolingo, Robinhood Markets, PG&E, and More",
-      "summary": "Wall Street analysts reshuffled their ratings on September 1st with some dramatic target price swings, including one major utility stock getting its target slashed nearly in half while a red-hot language app saw its target doubled overnight.",
-      "publisher": "24/7 Wall St.",
-      "published_utc": "2026-09-01T11:57:32Z",
-      "url": "https://247wallst.com/investing/2026/09/01/here-are-tuesdays-top-wall-street-analyst-research-calls-akamai-technologies-arista-networks-booking-holdings-cisco-systems-dell-technologies-duolingo-robinhood-markets-pge-and-more/",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/tuesday-top-wall-street-analyst-115732537.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/RwIrIwkN433DoFmMS8_oQA--~B/aD03Njg7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/74bc60924e76f984dbb62a4d8faf6ff8.jpg"
-    },
-    {
-      "title": "Cisco Systems Stock Has A Second Engine The AI Story Hides",
-      "summary": "The upside case that matters now is the enterprise refresh that management calls early, not the hyperscaler AI line already inside the guide.",
+      "title": "The Real Risk Inside Cisco Stock",
+      "summary": "The company is firing on all cylinders, but its biggest success story, the networking super cycle, carries a vulnerability that could challenge its premium price.",
       "publisher": "Trefis",
-      "published_utc": "2026-08-31T21:58:56Z",
-      "url": "https://www.trefis.com/articles/613717/cisco-systems-stock-has-a-second-engine-the-ai-story-hides/2026-08-31",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-stock-second-engine-215856423.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/DbacNY7gyOVF8.tyD7Ys3g--~B/aD04NTM7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/trefis_142/c4903bfbeafe212739065f83a917fbc7.jpg"
+      "published_utc": "2026-09-02T21:20:36Z",
+      "url": "https://www.trefis.com/articles/613959/the-real-risk-inside-cisco-stock-2/2026-09-02",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/real-risk-inside-cisco-stock-212036109.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4C39RrU2X5j1_KGyjGSquw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/trefis_142/2749a55784a3299510816e76f9096740.jpg"
+    },
+    {
+      "title": "Advanced Micro Devices (AMD) Dropped, So What Is Driving Attention Now?",
+      "summary": "Advanced Micro Devices (AMD) stock is back in focus after the company and partners Cisco and HUMAIN outlined plans to deploy up to 250 MW of AI infrastructure in Saudi Arabia starting in 2027. Despite the Saudi AI announcement and other partnerships around secure AI infrastructure, Advanced Micro Devices’ recent share price has eased, with the 7-day share price return down 4.08% and the 90-day share price return down 15.28%. At the same time, the year-to-date share price return is up 105.67%...",
+      "publisher": "Simply Wall St.",
+      "published_utc": "2026-09-02T19:06:37Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-dropped-190637709.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-dropped-190637709.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Q406MQhTgZSeq92GiSWlIw--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/a882d53b581ebe737458ea1484ce4133.jpg"
+    },
+    {
+      "title": "Cisco vs. IBM: A Dividend Showdown Between 2 Tech Giants",
+      "summary": "Cisco and IBM both cut dividend checks to shareholders this month, but one company earns a grade that might surprise income investors who judge payouts by yield alone.",
+      "publisher": "24/7 Wall St.",
+      "published_utc": "2026-09-02T17:03:50Z",
+      "url": "https://247wallst.com/investing/2026/09/02/cisco-vs-ibm-a-dividend-showdown-between-2-tech-giants/",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-vs-ibm-dividend-showdown-170350210.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4fDA_f20GbRgr0sgGOv2aA--~B/aD0xNjAwO3c9MzAzNDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/bf1e326939f058708d470ac840e869e6.jpg"
+    },
+    {
+      "title": "The AI Infrastructure Stock Nobody Talks About Enough",
+      "summary": "Cisco is posting hyperscaler AI order numbers that would make pure-play networking rivals jealous, yet its valuation still reflects a company selling switches to office parks. Something in that gap deserves a closer look.",
+      "publisher": "24/7 Wall St.",
+      "published_utc": "2026-09-02T17:00:57Z",
+      "url": "https://247wallst.com/investing/2026/09/02/the-ai-infrastructure-stock-nobody-talks-about-enough/",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/ai-infrastructure-stock-nobody-talks-170057218.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/slOERLYa9z0.Uga2VIroKg--~B/aD04MDI7dz0xNDI4O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/6753bcb6e01a0fe725e893ae8ba1ee49.jpg"
+    },
+    {
+      "title": "3 Reasons CSCO is Risky and 1 Stock to Buy Instead",
+      "summary": "Cisco has had an impressive run over the past six months as its shares have beaten the S&P 500 by 26.4%. The stock now trades at $109.75, marking a 38.2% gain. This was partly due to its solid quarterly results, and the run-up might have investors contemplating their next move.",
+      "publisher": "StockStory",
+      "published_utc": "2026-09-02T13:16:23Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-csco-risky-1-131623149.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-csco-risky-1-131623149.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_m_hIGSLtjLqP242Op3I9w--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/13084f782bf37f7c367bffc0690421cd.jpg"
     }
   ]
 }
