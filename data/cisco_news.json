@@ -1,9 +1,27 @@
 {
-  "generated_utc": "2026-09-03T01:06:32.558991Z",
+  "generated_utc": "2026-09-04T00:57:52.788841Z",
   "symbol": "CSCO",
   "company": "Cisco",
-  "article_count": 6,
+  "article_count": 5,
   "articles": [
+    {
+      "title": "Ciena Tumbles 10% as In-Line Guidance Overshadows Earnings Beat, Arista Edges Higher",
+      "summary": "Ciena just posted a record quarter with earnings well above estimates, yet its stock cratered 10% while networking peers Arista and Cisco held firm or climbed. The divergence points to a specific pressure point that separates Ciena's story from the broader AI networking boom.",
+      "publisher": "24/7 Wall St.",
+      "published_utc": "2026-09-03T16:27:32Z",
+      "url": "https://247wallst.com/investing/2026/09/03/ciena-corporation-tumbles-10-as-in-line-guidance-overshadows-earnings-beat-arista-edges-higher/",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/ciena-tumbles-10-line-guidance-162732041.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8PJsvyZa6McxtXFaGq66cw--~B/aD0xNjAwO3c9Mjg0NDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/2783bb9888d9898472cd518d11fcd1d1.jpg"
+    },
+    {
+      "title": "1 Growth Stock to Add to Your Roster and 2 We Turn Down",
+      "summary": "Growth is oxygen. But when it evaporates, the consequences can be severe - ask anyone who bought Cisco in the Dot-Com Bubble or newer investors who lived through the 2020 to 2022 COVID cycle.",
+      "publisher": "StockStory",
+      "published_utc": "2026-09-03T14:31:18Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/1-growth-stock-add-roster-143118164.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/1-growth-stock-add-roster-143118164.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/h6mV.hyOSt3hFtg_mtJcBA--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/7531fbc5f3e088f3953865d289724995.png"
+    },
     {
       "title": "Super Micro Computer (SMCI) Joins A Major Enterprise AI Infrastructure Build",
       "summary": "Super Micro Computer (NasdaqGS:SMCI) announced a new partnership with Cisco to supply high density liquid and air cooled compute systems for AI infrastructure. The company’s systems will be integrated into Cisco’s Secure AI Factory architecture, which uses NVIDIA technologies for enterprise, neocloud and sovereign cloud customers. The collaboration broadens Super Micro Computer’s access to rack scale and dense GPU systems that are validated for Cisco’s AI offerings. Consider broadening your...",
@@ -30,33 +48,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-dropped-190637709.html",
       "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-dropped-190637709.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Q406MQhTgZSeq92GiSWlIw--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/a882d53b581ebe737458ea1484ce4133.jpg"
-    },
-    {
-      "title": "Cisco vs. IBM: A Dividend Showdown Between 2 Tech Giants",
-      "summary": "Cisco and IBM both cut dividend checks to shareholders this month, but one company earns a grade that might surprise income investors who judge payouts by yield alone.",
-      "publisher": "24/7 Wall St.",
-      "published_utc": "2026-09-02T17:03:50Z",
-      "url": "https://247wallst.com/investing/2026/09/02/cisco-vs-ibm-a-dividend-showdown-between-2-tech-giants/",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-vs-ibm-dividend-showdown-170350210.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4fDA_f20GbRgr0sgGOv2aA--~B/aD0xNjAwO3c9MzAzNDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/bf1e326939f058708d470ac840e869e6.jpg"
-    },
-    {
-      "title": "The AI Infrastructure Stock Nobody Talks About Enough",
-      "summary": "Cisco is posting hyperscaler AI order numbers that would make pure-play networking rivals jealous, yet its valuation still reflects a company selling switches to office parks. Something in that gap deserves a closer look.",
-      "publisher": "24/7 Wall St.",
-      "published_utc": "2026-09-02T17:00:57Z",
-      "url": "https://247wallst.com/investing/2026/09/02/the-ai-infrastructure-stock-nobody-talks-about-enough/",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/ai-infrastructure-stock-nobody-talks-170057218.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/slOERLYa9z0.Uga2VIroKg--~B/aD04MDI7dz0xNDI4O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/6753bcb6e01a0fe725e893ae8ba1ee49.jpg"
-    },
-    {
-      "title": "3 Reasons CSCO is Risky and 1 Stock to Buy Instead",
-      "summary": "Cisco has had an impressive run over the past six months as its shares have beaten the S&P 500 by 26.4%. The stock now trades at $109.75, marking a 38.2% gain. This was partly due to its solid quarterly results, and the run-up might have investors contemplating their next move.",
-      "publisher": "StockStory",
-      "published_utc": "2026-09-02T13:16:23Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-csco-risky-1-131623149.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-csco-risky-1-131623149.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_m_hIGSLtjLqP242Op3I9w--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/13084f782bf37f7c367bffc0690421cd.jpg"
     }
   ]
 }
