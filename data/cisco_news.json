@@ -1,9 +1,36 @@
 {
-  "generated_utc": "2026-09-04T00:57:52.788841Z",
+  "generated_utc": "2026-09-05T00:55:38.906442Z",
   "symbol": "CSCO",
   "company": "Cisco",
-  "article_count": 5,
+  "article_count": 4,
   "articles": [
+    {
+      "title": "Cisco Systems Stock Rose On More Than Its AI Orders",
+      "summary": "Cisco Systems (CSCO) stock has returned about 64% over the past year, against roughly 21% for the S&P 500. The easy explanation is that Cisco sells the switches and optics that hyperscalers are buying for AI. That business is real, and it is the smaller part of the story. The larger part is that the rest of Cisco started growing again, much of it as customers ready their networks for AI.",
+      "publisher": "Trefis",
+      "published_utc": "2026-09-04T20:51:33Z",
+      "url": "https://www.trefis.com/articles/614421/cisco-systems-stock-rose-on-more-than-its-ai-orders/2026-09-04",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-stock-rose-more-205133634.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/CQuVyHfSaNWRss0fLPrL9w--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/trefis_142/10c2890c16ecee8e2a801b3a46ab1981.jpg"
+    },
+    {
+      "title": "3 Growth Stocks to Add to Your Roster",
+      "summary": "Growth is oxygen. But when it evaporates, the consequences can be severe - ask anyone who bought Cisco in the Dot-Com Bubble or newer investors who lived through the 2020 to 2022 COVID cycle.",
+      "publisher": "StockStory",
+      "published_utc": "2026-09-04T15:10:10Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-add-roster-151010747.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-add-roster-151010747.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/mGLoGk8lwI8AUMQEhVoe6w--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/dcf057c27655d03a050775ca9f19c022.jpg"
+    },
+    {
+      "title": "3 Growth Stocks with All-Star Potential",
+      "summary": "Growth is oxygen. But when it evaporates, the consequences can be severe - ask anyone who bought Cisco in the Dot-Com Bubble or newer investors who lived through the 2020 to 2022 COVID cycle.",
+      "publisher": "StockStory",
+      "published_utc": "2026-09-04T13:58:10Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-star-potential-135810364.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-star-potential-135810364.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6.dH9ljB4tkr8ZTbCfoVRQ--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/78911236fb90d375dc311c3cf37430be.jpg"
+    },
     {
       "title": "Ciena Tumbles 10% as In-Line Guidance Overshadows Earnings Beat, Arista Edges Higher",
       "summary": "Ciena just posted a record quarter with earnings well above estimates, yet its stock cratered 10% while networking peers Arista and Cisco held firm or climbed. The divergence points to a specific pressure point that separates Ciena's story from the broader AI networking boom.",
@@ -12,42 +39,6 @@
       "url": "https://247wallst.com/investing/2026/09/03/ciena-corporation-tumbles-10-as-in-line-guidance-overshadows-earnings-beat-arista-edges-higher/",
       "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/ciena-tumbles-10-line-guidance-162732041.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8PJsvyZa6McxtXFaGq66cw--~B/aD0xNjAwO3c9Mjg0NDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/2783bb9888d9898472cd518d11fcd1d1.jpg"
-    },
-    {
-      "title": "1 Growth Stock to Add to Your Roster and 2 We Turn Down",
-      "summary": "Growth is oxygen. But when it evaporates, the consequences can be severe - ask anyone who bought Cisco in the Dot-Com Bubble or newer investors who lived through the 2020 to 2022 COVID cycle.",
-      "publisher": "StockStory",
-      "published_utc": "2026-09-03T14:31:18Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/1-growth-stock-add-roster-143118164.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/1-growth-stock-add-roster-143118164.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/h6mV.hyOSt3hFtg_mtJcBA--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/7531fbc5f3e088f3953865d289724995.png"
-    },
-    {
-      "title": "Super Micro Computer (SMCI) Joins A Major Enterprise AI Infrastructure Build",
-      "summary": "Super Micro Computer (NasdaqGS:SMCI) announced a new partnership with Cisco to supply high density liquid and air cooled compute systems for AI infrastructure. The company’s systems will be integrated into Cisco’s Secure AI Factory architecture, which uses NVIDIA technologies for enterprise, neocloud and sovereign cloud customers. The collaboration broadens Super Micro Computer’s access to rack scale and dense GPU systems that are validated for Cisco’s AI offerings. Consider broadening your...",
-      "publisher": "Simply Wall St.",
-      "published_utc": "2026-09-03T00:22:25Z",
-      "url": "https://finance.yahoo.com/technology/ai/articles/super-micro-computer-smci-joins-002225556.html",
-      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/super-micro-computer-smci-joins-002225556.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/7sphyXQH6mTSZBl6vfC0vQ--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/88228fadcfcf61d75ba1baf2ef33a4f7.jpg"
-    },
-    {
-      "title": "The Real Risk Inside Cisco Stock",
-      "summary": "The company is firing on all cylinders, but its biggest success story, the networking super cycle, carries a vulnerability that could challenge its premium price.",
-      "publisher": "Trefis",
-      "published_utc": "2026-09-02T21:20:36Z",
-      "url": "https://www.trefis.com/articles/613959/the-real-risk-inside-cisco-stock-2/2026-09-02",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/real-risk-inside-cisco-stock-212036109.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4C39RrU2X5j1_KGyjGSquw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/trefis_142/2749a55784a3299510816e76f9096740.jpg"
-    },
-    {
-      "title": "Advanced Micro Devices (AMD) Dropped, So What Is Driving Attention Now?",
-      "summary": "Advanced Micro Devices (AMD) stock is back in focus after the company and partners Cisco and HUMAIN outlined plans to deploy up to 250 MW of AI infrastructure in Saudi Arabia starting in 2027. Despite the Saudi AI announcement and other partnerships around secure AI infrastructure, Advanced Micro Devices’ recent share price has eased, with the 7-day share price return down 4.08% and the 90-day share price return down 15.28%. At the same time, the year-to-date share price return is up 105.67%...",
-      "publisher": "Simply Wall St.",
-      "published_utc": "2026-09-02T19:06:37Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-dropped-190637709.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-dropped-190637709.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Q406MQhTgZSeq92GiSWlIw--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/a882d53b581ebe737458ea1484ce4133.jpg"
     }
   ]
 }
