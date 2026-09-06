@@ -1,9 +1,18 @@
 {
-  "generated_utc": "2026-09-05T00:55:38.906442Z",
+  "generated_utc": "2026-09-06T00:54:22.255955Z",
   "symbol": "CSCO",
   "company": "Cisco",
   "article_count": 4,
   "articles": [
+    {
+      "title": "Cisco (CSCO) Stock Looks Cheap On Cash Flow Yet Fair On Earnings",
+      "summary": "Cisco Systems has more than doubled investors' money over the past five years, yet current valuation checks point to a stock that still screens as cheap relative to its estimated intrinsic value. Recent AI infrastructure announcements and security headlines add fresh context to a story that is increasingly about how much of Cisco's cash flow potential is already in the price. The stock has returned 116.9% over the past five years, which puts extra focus on whether recent gains already...",
+      "publisher": "Simply Wall St.",
+      "published_utc": "2026-09-05T19:05:58Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-csco-stock-looks-cheap-190558485.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-csco-stock-looks-cheap-190558485.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nMgkxHlrsxC1ZlNCDNQIEg--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/04fa3ad5da96418a6614fef94d5b3a77.jpg"
+    },
     {
       "title": "Cisco Systems Stock Rose On More Than Its AI Orders",
       "summary": "Cisco Systems (CSCO) stock has returned about 64% over the past year, against roughly 21% for the S&P 500. The easy explanation is that Cisco sells the switches and optics that hyperscalers are buying for AI. That business is real, and it is the smaller part of the story. The larger part is that the rest of Cisco started growing again, much of it as customers ready their networks for AI.",
@@ -30,15 +39,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-star-potential-135810364.html",
       "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-star-potential-135810364.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6.dH9ljB4tkr8ZTbCfoVRQ--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/78911236fb90d375dc311c3cf37430be.jpg"
-    },
-    {
-      "title": "Ciena Tumbles 10% as In-Line Guidance Overshadows Earnings Beat, Arista Edges Higher",
-      "summary": "Ciena just posted a record quarter with earnings well above estimates, yet its stock cratered 10% while networking peers Arista and Cisco held firm or climbed. The divergence points to a specific pressure point that separates Ciena's story from the broader AI networking boom.",
-      "publisher": "24/7 Wall St.",
-      "published_utc": "2026-09-03T16:27:32Z",
-      "url": "https://247wallst.com/investing/2026/09/03/ciena-corporation-tumbles-10-as-in-line-guidance-overshadows-earnings-beat-arista-edges-higher/",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/ciena-tumbles-10-line-guidance-162732041.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8PJsvyZa6McxtXFaGq66cw--~B/aD0xNjAwO3c9Mjg0NDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/2783bb9888d9898472cd518d11fcd1d1.jpg"
     }
   ]
 }
