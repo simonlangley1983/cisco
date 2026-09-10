@@ -1,9 +1,45 @@
 {
-  "generated_utc": "2026-09-09T01:14:12.547413Z",
+  "generated_utc": "2026-09-10T01:02:22.914164Z",
   "symbol": "CSCO",
   "company": "Cisco",
-  "article_count": 4,
+  "article_count": 6,
   "articles": [
+    {
+      "title": "How Far Could Cisco Stock Fall With Its Fastest Growth Riding On Hyperscalers?",
+      "summary": "Cisco Systems (CSCO) trades near $109, about 16% below its 52-week high, after falling 10.1% over the past month. It is still up 66.6% over the trailing twelve months, against 19.3% for the S&P 500. Its own record since 2007 says a stock like this falls about as hard as the market and has usually come back within months, though its deepest shock-era fall took years. What Cisco sells, and who buys it, has changed since that record was set.",
+      "publisher": "Trefis",
+      "published_utc": "2026-09-09T22:15:00Z",
+      "url": "https://www.trefis.com/articles/614730/how-far-could-cisco-stock-fall-with-its-fastest-growth-riding-on-hyperscalers/2026-09-09",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/far-could-cisco-stock-fall-221500760.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/4C39RrU2X5j1_KGyjGSquw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/trefis_142/2749a55784a3299510816e76f9096740.jpg"
+    },
+    {
+      "title": "Could Advanced Micro Devices (AMD)’s Partnership With Cisco Systems (CSCO) Unlock a Massive Middle East AI Opportunity?",
+      "summary": "On August 31, Advanced Micro Devices, Inc. (NASDAQ:AMD), Cisco Systems, Inc. (NASDAQ:CSCO), and Humain announced that their joint AI infrastructure buildout in Saudi Arabia is officially live. The deployment links AMD’s Instinct MI355X GPUs and EPYC CPUs directly with Cisco’s Silicon One-based 800G switches, giving Humain a foundation to offer GPU-as-a-service across the Middle East. […]",
+      "publisher": "Insider Monkey",
+      "published_utc": "2026-09-09T21:32:47Z",
+      "url": "https://finance.yahoo.com/technology/ai/articles/could-advanced-micro-devices-amd-213247998.html",
+      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/could-advanced-micro-devices-amd-213247998.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/T81NnUFzGdY0iBvzG_jYtA--~B/aD0zMzg3O3c9NTA4MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/insidermonkey.com/2e71847de667cfd15cf8ad12ad7902b6.jpg"
+    },
+    {
+      "title": "Cisco Says AI Agents Now Consume 60% of Global Inference",
+      "summary": "A fourteenfold token surge strengthens Cisco's network thesis while hardware-heavy growth threatens gross margins.",
+      "publisher": "GuruFocus.com",
+      "published_utc": "2026-09-09T18:55:51Z",
+      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-says-ai-agents-now-185551061.html",
+      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/cisco-says-ai-agents-now-185551061.html",
+      "thumbnail": null
+    },
+    {
+      "title": "Zacks Investment Ideas feature highlights: NVIDIA, Alphabet, AMD, Micron, Dell and Cisco",
+      "summary": "NVIDIA, Alphabet and other AI leaders may have stronger foundations than the internet boom, backed by utilization, profits and valuations.",
+      "publisher": "Zacks",
+      "published_utc": "2026-09-09T14:04:00Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-140400520.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-140400520.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/0FQHZjqX3rwiDG6..jgaGg--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/b40efcbfab527ad36d9e9706df6ddabb.jpg"
+    },
     {
       "title": "Cisco Systems Sees AI Agents Fueling a Multi-Year Networking Boom",
       "summary": "Cisco Systems (NASDAQ:CSCO) executives said demand tied to artificial intelligence, infrastructure modernization and security is supporting what the company views as a multi-year networking growth cycle. Speaking at the Goldman Sachs Communacopia + Technology Conference, President and Chief Product",
@@ -21,24 +57,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/1-growth-stock-add-roster-161518441.html",
       "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/1-growth-stock-add-roster-161518441.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/94u_t1ByzJaNi3kWA2tvfA--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/36e032937535891dfad4eb051be04f00.jpg"
-    },
-    {
-      "title": "Is Trending Stock Cisco Systems, Inc. (CSCO) a Buy Now?",
-      "summary": "Zacks.com users have recently been watching Cisco (CSCO) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
-      "publisher": "Zacks",
-      "published_utc": "2026-09-08T13:00:05Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/trending-stock-cisco-systems-inc-130005744.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/trending-stock-cisco-systems-inc-130005744.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/DkTKfCqApvZpsoBxiE2qTw--~B/aD00NzY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/ace7df31c7fcb10255abe7c990ea373a.jpg"
-    },
-    {
-      "title": "Cisco (CSCO) Stock Looks Cheap On Cash Flow Yet Fair On Earnings",
-      "summary": "Cisco Systems has more than doubled investors' money over the past five years, yet current valuation checks point to a stock that still screens as cheap relative to its estimated intrinsic value. Recent AI infrastructure announcements and security headlines add fresh context to a story that is increasingly about how much of Cisco's cash flow potential is already in the price. The stock has returned 116.9% over the past five years, which puts extra focus on whether recent gains already...",
-      "publisher": "Simply Wall St.",
-      "published_utc": "2026-09-05T19:05:58Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-csco-stock-looks-cheap-190558485.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-csco-stock-looks-cheap-190558485.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/nMgkxHlrsxC1ZlNCDNQIEg--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/04fa3ad5da96418a6614fef94d5b3a77.jpg"
     }
   ]
 }
