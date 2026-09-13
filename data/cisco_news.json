@@ -1,9 +1,18 @@
 {
-  "generated_utc": "2026-09-12T01:04:57.953281Z",
+  "generated_utc": "2026-09-13T00:58:10.287594Z",
   "symbol": "CSCO",
   "company": "Cisco",
-  "article_count": 4,
+  "article_count": 5,
   "articles": [
+    {
+      "title": "Ken Fisher Added to Cisco and Palo Alto Networks. Their AI Security Bets Face Different Tests",
+      "summary": "Ken Fisher’s latest disclosed positions put two different approaches to AI infrastructure and security in the same portfolio. Cisco Systems, Inc. (NASDAQ:CSCO) combines networking equipment with security software. Palo Alto Networks, Inc. (NASDAQ:PANW) offers more concentrated exposure to security platforms, with acquisitions adding an integration test. September coverage brought renewed attention to Fisher’s position increases. […]",
+      "publisher": "Insider Monkey",
+      "published_utc": "2026-09-12T13:22:14Z",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ken-fisher-added-cisco-palo-132214941.html",
+      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/ken-fisher-added-cisco-palo-132214941.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5tQWttTdkurBfyCFosaeqQ--~B/aD00NDg7dz0zNTk7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/d7cce78bcb94484f223bbc2ec9964641.jpg"
+    },
     {
       "title": "Cisco Jumps Over 3.7% While Huang Calls Cybersecurity AI's Next Blockbuster",
       "summary": "Nvidia's chief sees continuous AI defense following coding, placing Cisco's security and networking platforms inside the next demand contest.",
