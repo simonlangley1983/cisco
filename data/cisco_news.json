@@ -1,9 +1,18 @@
 {
-  "generated_utc": "2026-09-13T00:58:10.287594Z",
+  "generated_utc": "2026-09-14T01:01:04.111328Z",
   "symbol": "CSCO",
   "company": "Cisco",
-  "article_count": 5,
+  "article_count": 6,
   "articles": [
+    {
+      "title": "Arista Released Critical Security Advisories. Cisco Shows Why AI Network Growth Also Creates Repair Work",
+      "summary": "Arista published its batch of security advisories on September 9, turning an advance warning into an immediate customer maintenance task. The release includes critical vulnerabilities affecting EOS and VeloCloud. Cisco’s September 4 security commentary describes the broader problem: vulnerability discovery is accelerating beyond customers’ ability to remediate it. For Cisco Systems, Inc. (NASDAQ:CSCO) and Arista […]",
+      "publisher": "Insider Monkey",
+      "published_utc": "2026-09-13T16:56:52Z",
+      "url": "https://finance.yahoo.com/technology/ai/articles/arista-released-critical-security-advisories-165652596.html",
+      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/arista-released-critical-security-advisories-165652596.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.lM.U_E69GG0IR6gO146nw--~B/aD02NjY7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/cc81ba4cf0c12532137ea0a3d7204f6f.jpg"
+    },
     {
       "title": "Ken Fisher Added to Cisco and Palo Alto Networks. Their AI Security Bets Face Different Tests",
       "summary": "Ken Fisher’s latest disclosed positions put two different approaches to AI infrastructure and security in the same portfolio. Cisco Systems, Inc. (NASDAQ:CSCO) combines networking equipment with security software. Palo Alto Networks, Inc. (NASDAQ:PANW) offers more concentrated exposure to security platforms, with acquisitions adding an integration test. September coverage brought renewed attention to Fisher’s position increases. […]",
