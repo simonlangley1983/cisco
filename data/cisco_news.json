@@ -1,9 +1,18 @@
 {
-  "generated_utc": "2026-09-14T01:01:04.111328Z",
+  "generated_utc": "2026-09-15T01:25:19.396515Z",
   "symbol": "CSCO",
   "company": "Cisco",
-  "article_count": 6,
+  "article_count": 5,
   "articles": [
+    {
+      "title": "Cisco's New Splunk AI Package Targets Computing Inside the Customer's Walls",
+      "summary": "The release combines infrastructure and software while leaving customers responsible for operating their own deployment.",
+      "publisher": "GuruFocus.com",
+      "published_utc": "2026-09-14T17:10:12Z",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ciscos-splunk-ai-package-targets-171012341.html",
+      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/ciscos-splunk-ai-package-targets-171012341.html",
+      "thumbnail": null
+    },
     {
       "title": "Arista Released Critical Security Advisories. Cisco Shows Why AI Network Growth Also Creates Repair Work",
       "summary": "Arista published its batch of security advisories on September 9, turning an advance warning into an immediate customer maintenance task. The release includes critical vulnerabilities affecting EOS and VeloCloud. Cisco’s September 4 security commentary describes the broader problem: vulnerability discovery is accelerating beyond customers’ ability to remediate it. For Cisco Systems, Inc. (NASDAQ:CSCO) and Arista […]",
@@ -39,24 +48,6 @@
       "url": "https://www.trefis.com/articles/615034/how-far-could-cisco-stock-swing-on-you-as-ai-networking-orders-grow/2026-09-11",
       "yahoo_url": "https://finance.yahoo.com/markets/options/articles/far-could-cisco-stock-swing-204923429.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5HEtZmorqSXOj6Yz07mD6Q--~B/aD04NTM7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/trefis_142/aec1911f7df19eee11f9c07efd02521d.jpg"
-    },
-    {
-      "title": "Arista Networks Stock Rallied, But Is It Now A Bet On Its Suppliers?",
-      "summary": "Arista Networks (ANET) stock has gained about 51% since mid-December, against about 12% for the S&P 500. Peers Dell Technologies (DELL) rose 293% and Hewlett Packard Enterprise (HPE) 135%, while Cisco Systems (CSCO) gained about 40%. AI demand is the obvious explanation, and it is real. But management linked its latest outlook raise to a better supply position, and the CEO says the industry is still short of parts. From here, the shares are a bet on those parts arriving.",
-      "publisher": "Trefis",
-      "published_utc": "2026-09-11T19:49:03Z",
-      "url": "https://www.trefis.com/articles/615052/arista-networks-stock-rallied-but-is-it-now-a-bet-on-its-suppliers/2026-09-11",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-stock-rallied-now-194903483.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/1gzlRYFpNDilpniXimfSNw--~B/aD04NTM7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/trefis_142/3ec89fb40665726434c600288f385a83.jpg"
-    },
-    {
-      "title": "Ciena Climbs 5% as Post-Earnings Selloff Reverses; Arista Networks Rises 5%, Cisco Jumps 4%",
-      "summary": "Networking stocks are surging well beyond the broader tech sector, and no earnings report, contract award, or company announcement explains why Ciena, Arista, and Cisco are all moving together on the same Friday afternoon.",
-      "publisher": "24/7 Wall St.",
-      "published_utc": "2026-09-11T17:56:53Z",
-      "url": "https://247wallst.com/investing/2026/09/11/ciena-climbs-5-as-post-earnings-selloff-reverses-arista-networks-rises-5-cisco-jumps-4/",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/ciena-climbs-5-post-earnings-175653200.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/G_i5JQVjRnCn3aSkkpEK9Q--~B/aD0xNDQwO3c9MjU2MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/58082cf035db9034121c7eb5fdf7752d.jpg"
     }
   ]
 }
