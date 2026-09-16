@@ -1,53 +1,53 @@
 {
-  "generated_utc": "2026-09-15T01:25:19.396515Z",
+  "generated_utc": "2026-09-16T01:23:23.017974Z",
   "symbol": "CSCO",
   "company": "Cisco",
   "article_count": 5,
   "articles": [
     {
-      "title": "Cisco's New Splunk AI Package Targets Computing Inside the Customer's Walls",
-      "summary": "The release combines infrastructure and software while leaving customers responsible for operating their own deployment.",
-      "publisher": "GuruFocus.com",
-      "published_utc": "2026-09-14T17:10:12Z",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ciscos-splunk-ai-package-targets-171012341.html",
-      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/ciscos-splunk-ai-package-targets-171012341.html",
-      "thumbnail": null
+      "title": "Cisco president shares thoughts on AI debate",
+      "summary": "Cisco President Jeetu Patel says AI guardrails must move at the same pace as the technology.",
+      "publisher": "CNN Business",
+      "published_utc": "2026-09-15T22:18:07Z",
+      "url": "https://www.cnn.com/2026/09/15/business/video/cisco-artificial-intelligence-regulation-patel-live-091504pseg1-cnni-business-fast?cid=external-feeds_iluminar_yahoo",
+      "yahoo_url": "https://finance.yahoo.com/video/cisco-president-shares-thoughts-ai-221807236.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/UxNdc8P8B2aC6jvrYpbqWg--~B/aD01NDA7dz05NjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cnn_business_videos_909/03a151df1d86837e792219c479b164da.jpg"
     },
     {
-      "title": "Arista Released Critical Security Advisories. Cisco Shows Why AI Network Growth Also Creates Repair Work",
-      "summary": "Arista published its batch of security advisories on September 9, turning an advance warning into an immediate customer maintenance task. The release includes critical vulnerabilities affecting EOS and VeloCloud. Cisco’s September 4 security commentary describes the broader problem: vulnerability discovery is accelerating beyond customers’ ability to remediate it. For Cisco Systems, Inc. (NASDAQ:CSCO) and Arista […]",
-      "publisher": "Insider Monkey",
-      "published_utc": "2026-09-13T16:56:52Z",
-      "url": "https://finance.yahoo.com/technology/ai/articles/arista-released-critical-security-advisories-165652596.html",
-      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/arista-released-critical-security-advisories-165652596.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.lM.U_E69GG0IR6gO146nw--~B/aD02NjY7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/cc81ba4cf0c12532137ea0a3d7204f6f.jpg"
-    },
-    {
-      "title": "Ken Fisher Added to Cisco and Palo Alto Networks. Their AI Security Bets Face Different Tests",
-      "summary": "Ken Fisher’s latest disclosed positions put two different approaches to AI infrastructure and security in the same portfolio. Cisco Systems, Inc. (NASDAQ:CSCO) combines networking equipment with security software. Palo Alto Networks, Inc. (NASDAQ:PANW) offers more concentrated exposure to security platforms, with acquisitions adding an integration test. September coverage brought renewed attention to Fisher’s position increases. […]",
-      "publisher": "Insider Monkey",
-      "published_utc": "2026-09-12T13:22:14Z",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ken-fisher-added-cisco-palo-132214941.html",
-      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/ken-fisher-added-cisco-palo-132214941.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5tQWttTdkurBfyCFosaeqQ--~B/aD00NDg7dz0zNTk7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/d7cce78bcb94484f223bbc2ec9964641.jpg"
-    },
-    {
-      "title": "Cisco Jumps Over 3.7% While Huang Calls Cybersecurity AI's Next Blockbuster",
-      "summary": "Nvidia's chief sees continuous AI defense following coding, placing Cisco's security and networking platforms inside the next demand contest.",
-      "publisher": "GuruFocus.com",
-      "published_utc": "2026-09-11T21:11:27Z",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-jumps-over-3-7-211127351.html",
-      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/cisco-jumps-over-3-7-211127351.html",
-      "thumbnail": null
-    },
-    {
-      "title": "How Far Could Cisco Stock Swing On You As AI Networking Orders Grow?",
-      "summary": "Cisco Systems (CSCO) stock trades at $107.44, and its options price a range over the next twelve months from near $74 to near $156. The market gives the shares about a two-in-three chance of finishing inside that band, and the band carries no view on direction. It measures size, and for Cisco that is about as much movement as the stock has shown over the past year.",
+      "title": "Why Did Cisco Stop Leading With Its Campus Refresh?",
+      "summary": "Cisco Systems (CSCO) closed fiscal 2026 with record revenue of $63.3 billion, and the stock has returned 66% over the past year. Read its last two August earnings calls, though, and the pitch changed. In August 2025 the CEO pitched a refresh of the installed campus switching base. In August 2026 the lead was a networking super cycle, with hyperscaler AI orders up triple digits. How much of the business actually moved.",
       "publisher": "Trefis",
-      "published_utc": "2026-09-11T20:49:23Z",
-      "url": "https://www.trefis.com/articles/615034/how-far-could-cisco-stock-swing-on-you-as-ai-networking-orders-grow/2026-09-11",
-      "yahoo_url": "https://finance.yahoo.com/markets/options/articles/far-could-cisco-stock-swing-204923429.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5HEtZmorqSXOj6Yz07mD6Q--~B/aD04NTM7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/trefis_142/aec1911f7df19eee11f9c07efd02521d.jpg"
+      "published_utc": "2026-09-15T21:32:00Z",
+      "url": "https://www.trefis.com/articles/615393/why-did-cisco-stop-leading-with-its-campus-refresh/2026-09-15",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/why-did-cisco-stop-leading-213200107.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5AEDu2H_HCOc1vWsYMAzuw--~B/aD04NTM7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/trefis_142/57d5b38a94094cc7d4698dd2cdda7e43.jpg"
+    },
+    {
+      "title": "Cisco Gains as Its $7.5 Billion AI Target Moves On-Premises",
+      "summary": "Splunk's new deployment gives customers local control while Cisco chases an 87.5% AI-revenue increase.",
+      "publisher": "GuruFocus.com",
+      "published_utc": "2026-09-15T21:05:06Z",
+      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-gains-7-5-billion-210506651.html",
+      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/cisco-gains-7-5-billion-210506651.html",
+      "thumbnail": null
+    },
+    {
+      "title": "CSCO, NVDA Stock Inch Higher — Cisco And Nvidia Expand Partnership To Bring Agentic AI To Splunk Customers",
+      "summary": "Cisco has introduced advanced Splunk integrations and an extended partnership with Nvidia to give enterprises real-time spend tracking and AI-driven security automation.",
+      "publisher": "Stocktwits",
+      "published_utc": "2026-09-15T17:09:29Z",
+      "url": "https://stocktwits.com/news-articles/markets/equity/cisco-and-nvidia-expand-partnership/cZtn0CkRBcm",
+      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/csco-nvda-stock-inch-higher-170929744.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/5CvR5EsVyW7WmonBucXqkA--~B/aD04NTM7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stocktwits_383/b6fbe9b87cda1be224871556fb6a47b5.jpg"
+    },
+    {
+      "title": "Cisco (CSCO) Takes A Formal Role In 6G And Quantum Networking",
+      "summary": "Cisco Systems (NasdaqGS: CSCO) joined Verizon's 6G Innovation Forum, taking part in work on AI native wireless and sensing architectures. The firm is collaborating with quantum company Infleqtion on distributed quantum networking research that uses the Cisco Universal Quantum Switch. Cisco and Infleqtion plan to explore scalable quantum network designs aimed at connecting multiple quantum processing nodes across wider telecom infrastructure. Cisco's move into Verizon's 6G forum and its...",
+      "publisher": "Simply Wall St.",
+      "published_utc": "2026-09-15T11:14:34Z",
+      "url": "https://finance.yahoo.com/technology/articles/cisco-csco-takes-formal-role-111434107.html",
+      "yahoo_url": "https://finance.yahoo.com/technology/articles/cisco-csco-takes-formal-role-111434107.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hpRABVIc_5Kd9sC6.p2_qQ--~B/aD05MDA7dz0xNjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/1c255d20731295daa30f844fecdb8657.jpg"
     }
   ]
 }
