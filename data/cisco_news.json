@@ -1,17 +1,44 @@
 {
-  "generated_utc": "2026-09-17T01:22:33.673920Z",
+  "generated_utc": "2026-09-18T01:16:21.092753Z",
   "symbol": "CSCO",
   "company": "Cisco",
   "article_count": 6,
   "articles": [
     {
-      "title": "'Agents are like teenagers': Security must keep pace with AI, Cisco president says",
-      "summary": "Cisco (CSCO) President and Chief Product Officer Jeetu Patel joins Yahoo Finance Executive Editor Brian Sozzi to discuss how cybersecurity needs to keep pace with AI threats and will require industrywide collaboration.",
-      "publisher": "Yahoo Finance Video",
-      "published_utc": "2026-09-16T15:10:20Z",
-      "url": "https://finance.yahoo.com/video/agents-teenagers-security-must-keep-151020159.html",
-      "yahoo_url": "https://finance.yahoo.com/video/agents-teenagers-security-must-keep-151020159.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/ggEIvDTuP_P0KXbf5XWBTQ--~B/aD0yMDY5O3c9MzEwMzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-09/6d310043-e0ed-4f97-855e-98c83629c6eb"
+      "title": "How Verizon’s Expanded 6G Innovation Forum Could Reshape the Network Platform Story for VZ Investors",
+      "summary": "Earlier this month, Verizon expanded its 6G Innovation Forum by adding nine major partners, including AWS, Cisco, Intel, MediaTek, NVIDIA and others, and showcased ISAC-based crowd sensing, drone and vehicle tracking, and AI-powered fan experiences that use 5G Advanced and edge computing as a stepping stone toward future 6G capabilities. This broad, multi-partner push into 6G architectures and network-native sensing underscores how Verizon is working to position its network as a platform for...",
+      "publisher": "Simply Wall St.",
+      "published_utc": "2026-09-17T19:15:52Z",
+      "url": "https://finance.yahoo.com/technology/articles/verizon-expanded-6g-innovation-forum-191552293.html",
+      "yahoo_url": "https://finance.yahoo.com/technology/articles/verizon-expanded-6g-innovation-forum-191552293.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/i0rHh2.exVqo5maDMkodLg--~B/aD05MDA7dz0xNjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/4edd46307db99786f6bc09f625af9cd1.jpg"
+    },
+    {
+      "title": "Cisco Climbs 3.3% as Splunk Takes AI Behind the Firewall",
+      "summary": "Self-hosted agents widen Cisco's addressable market while pricing and customer commitments remain undisclosed.",
+      "publisher": "GuruFocus.com",
+      "published_utc": "2026-09-17T18:25:29Z",
+      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-climbs-3-3-splunk-182529645.html",
+      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/cisco-climbs-3-3-splunk-182529645.html",
+      "thumbnail": null
+    },
+    {
+      "title": "Is Cisco Stock Priced For Orders That Are Not Yet Revenue?",
+      "summary": "Cisco Systems (CSCO) grew revenue more slowly over the last twelve months than any other company in its peer group. Yet it trades on almost the same earnings multiple as Dell Technologies, the fastest grower of the five. Trailing growth does not explain that price on its own. Cisco's last quarter grew 18%, well ahead of its 11.8% twelve-month figure. The rest of the case rests on AI networking orders that are running well ahead of the revenue Cisco has booked from them.",
+      "publisher": "Trefis",
+      "published_utc": "2026-09-17T18:22:58Z",
+      "url": "https://www.trefis.com/articles/615687/is-cisco-stock-priced-for-orders-that-are-not-yet-revenue/2026-09-17",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-stock-priced-orders-not-182258001.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/QGrle2HXm5pQP290QWFNpQ--~B/aD04NTM7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/trefis_142/2c6894e9b1f31fd3ead7fb164f67793e.jpg"
+    },
+    {
+      "title": "The Zacks Analyst Blog Highlights Cisco, Lam, Thermo Fisher Scientific, Ampco-Pittsburgh and Catalyst",
+      "summary": "Cisco, Lam Research and Thermo Fisher highlight AI, networking and life-science demand, while microcaps Ampco-Pittsburgh and Catalyst Bancorp offer added depth.",
+      "publisher": "Zacks",
+      "published_utc": "2026-09-17T07:45:00Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-cisco-074500027.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-cisco-074500027.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/TNepVKOb2Jr3TvKQPxEOEQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/77a053cf2d2dc44c2e658d9c7a167193.jpg"
     },
     {
       "title": "Top Stock Reports for Cisco, Lam Research & Thermo Fisher",
@@ -30,33 +57,6 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/cisco-gains-splunk-starts-tracking-202847357.html",
       "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/cisco-gains-splunk-starts-tracking-202847357.html",
       "thumbnail": null
-    },
-    {
-      "title": "CSCO's Splunk AI Push Gains Momentum: Can It Outpace DDOG & CRWD?",
-      "summary": "Cisco Systems is gaining Splunk momentum with new AI security and observability tools as Datadog and CrowdStrike expand rival capabilities.",
-      "publisher": "Zacks",
-      "published_utc": "2026-09-16T14:48:00Z",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cscos-splunk-ai-push-gains-144800670.html",
-      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/cscos-splunk-ai-push-gains-144800670.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/S84JeXkim09QKFKEK3eWJg--~B/aD0xODU7dz02MTk7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/054b467a3872a66da3db3f6c9b35a161.jpg"
-    },
-    {
-      "title": "Ciena Climbs 4% as $10B Backlog Outlook Outweighs Month-Long Slide; Arista and Cisco Edge Higher",
-      "summary": "Ciena just bounced hard off a brutal month-long slide, and the buying looks less like optimism and more like investors finally catching up to a number management dropped weeks ago.",
-      "publisher": "24/7 Wall St.",
-      "published_utc": "2026-09-16T13:45:18Z",
-      "url": "https://247wallst.com/investing/2026/09/16/ciena-climbs-4-as-10b-backlog-outlook-outweighs-month-long-slide-arista-and-cisco-edge-higher/",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/ciena-climbs-4-10b-backlog-134518479.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/8PJsvyZa6McxtXFaGq66cw--~B/aD0xNjAwO3c9Mjg0NDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/2783bb9888d9898472cd518d11fcd1d1.jpg"
-    },
-    {
-      "title": "The Bull Case For Cisco Systems (CSCO) Could Change Following New Splunk AI POD And Cloud Alliances",
-      "summary": "Cisco Systems recently expanded its Splunk AI portfolio through new on-premises offerings such as Cisco AI POD for Splunk, deepened its partnership with NVIDIA, and formalized a multi-year co-development agreement with AWS to build AI-driven security and observability solutions across hybrid environments. By combining real-time AI cost tracking, agentic security operations, and flexible model hosting that keeps data within customer-controlled infrastructure, Cisco is positioning Splunk as a...",
-      "publisher": "Simply Wall St.",
-      "published_utc": "2026-09-16T10:11:36Z",
-      "url": "https://finance.yahoo.com/technology/ai/articles/bull-case-cisco-systems-csco-101136709.html",
-      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/bull-case-cisco-systems-csco-101136709.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hpRABVIc_5Kd9sC6.p2_qQ--~B/aD05MDA7dz0xNjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/1c255d20731295daa30f844fecdb8657.jpg"
     }
   ]
 }
