@@ -1,9 +1,18 @@
 {
-  "generated_utc": "2026-09-18T01:16:21.092753Z",
+  "generated_utc": "2026-09-19T01:09:05.980215Z",
   "symbol": "CSCO",
   "company": "Cisco",
-  "article_count": 6,
+  "article_count": 5,
   "articles": [
+    {
+      "title": "Cisco Drops 8% in 3 Months: Should You Buy the Stock on the Dip?",
+      "summary": "CSCO's 8% three-month drop reflects margin and recurring-growth concerns, but surging AI demand and networking refresh opportunities support its outlook.",
+      "publisher": "Zacks",
+      "published_utc": "2026-09-18T16:55:00Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-drops-8-3-months-165500656.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-drops-8-3-months-165500656.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/TNepVKOb2Jr3TvKQPxEOEQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/77a053cf2d2dc44c2e658d9c7a167193.jpg"
+    },
     {
       "title": "How Verizon’s Expanded 6G Innovation Forum Could Reshape the Network Platform Story for VZ Investors",
       "summary": "Earlier this month, Verizon expanded its 6G Innovation Forum by adding nine major partners, including AWS, Cisco, Intel, MediaTek, NVIDIA and others, and showcased ISAC-based crowd sensing, drone and vehicle tracking, and AI-powered fan experiences that use 5G Advanced and edge computing as a stepping stone toward future 6G capabilities. This broad, multi-partner push into 6G architectures and network-native sensing underscores how Verizon is working to position its network as a platform for...",
@@ -39,24 +48,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-cisco-074500027.html",
       "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-cisco-074500027.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/TNepVKOb2Jr3TvKQPxEOEQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/77a053cf2d2dc44c2e658d9c7a167193.jpg"
-    },
-    {
-      "title": "Top Stock Reports for Cisco, Lam Research & Thermo Fisher",
-      "summary": "Cisco, Lam Research and Thermo Fisher headline today's research reports, with AI demand, customer activity and growth strategies in focus.",
-      "publisher": "Zacks",
-      "published_utc": "2026-09-16T20:41:00Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/top-stock-reports-cisco-lam-204100028.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/top-stock-reports-cisco-lam-204100028.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/OY_xirGTMSQuFsd_Si4._Q--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/5b0a70110c7ea58e29e9651caf429484.jpg"
-    },
-    {
-      "title": "Cisco Gains as Splunk Starts Tracking AI's Token Bill",
-      "summary": "On-premises deployment widens Splunk's market while real-time cost monitoring attacks a major obstacle to enterprise adoption.",
-      "publisher": "GuruFocus.com",
-      "published_utc": "2026-09-16T20:28:47Z",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-gains-splunk-starts-tracking-202847357.html",
-      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/cisco-gains-splunk-starts-tracking-202847357.html",
-      "thumbnail": null
     }
   ]
 }
