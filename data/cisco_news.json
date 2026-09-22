@@ -1,9 +1,54 @@
 {
-  "generated_utc": "2026-09-21T01:03:13.618224Z",
+  "generated_utc": "2026-09-22T01:35:44.987544Z",
   "symbol": "CSCO",
   "company": "Cisco",
-  "article_count": 4,
+  "article_count": 6,
   "articles": [
+    {
+      "title": "Cisco Moves Higher as Splunk Takes Agents Behind the Firewall",
+      "summary": "Self-managed AI widens Cisco's market while token tracking creates a separate governance opportunity.",
+      "publisher": "GuruFocus.com",
+      "published_utc": "2026-09-21T18:45:16Z",
+      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-moves-higher-splunk-takes-184516001.html",
+      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/cisco-moves-higher-splunk-takes-184516001.html",
+      "thumbnail": null
+    },
+    {
+      "title": "DELL Rides on Growing AI Clientele: Can the Stock Outpace SMCI & CSCO?",
+      "summary": "Dell Technologies' AI customer base tops 6,500 as enterprise, sovereign and Neocloud demand fuels record orders and a $95B backlog amid tough competition.",
+      "publisher": "Zacks",
+      "published_utc": "2026-09-21T15:22:00Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dell-rides-growing-ai-clientele-152200998.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/dell-rides-growing-ai-clientele-152200998.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/v9XeGn5oKw4KyhR24rFsBA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/c1cd358e97afad5e5afc22d86c6e3093.jpg"
+    },
+    {
+      "title": "2 Growth Stocks with All-Star Potential and 1 We Avoid",
+      "summary": "Growth is oxygen. But when it evaporates, the consequences can be severe - ask anyone who bought Cisco in the Dot-Com Bubble or newer investors who lived through the 2020 to 2022 COVID cycle.",
+      "publisher": "StockStory",
+      "published_utc": "2026-09-21T14:46:25Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/2-growth-stocks-star-potential-144625514.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/2-growth-stocks-star-potential-144625514.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/MuoF0.gw_.3.7E6ri3TuJw--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/847e227a3327c3aa382aeee86983bd2e.jpg"
+    },
+    {
+      "title": "Here is What to Know Beyond Why Cisco Systems, Inc. (CSCO) is a Trending Stock",
+      "summary": "Cisco (CSCO) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
+      "publisher": "Zacks",
+      "published_utc": "2026-09-21T13:00:05Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/know-beyond-why-cisco-systems-130005157.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/know-beyond-why-cisco-systems-130005157.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/78VGihmSrwZv8Y_EK9X4oQ--~B/aD02MDE7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/48ad4265c55e3ba7a1fb9148d6e717d9.jpg"
+    },
+    {
+      "title": "These 3 Stocks Sit at the Center of NVIDIA’s Cybersecurity Push",
+      "summary": "NVIDIA CEO Jensen Huang calls cybersecurity a major growth market, as the company deepens AI security partnerships with CrowdStrike, Cisco, and Palantir, all of which show strong results and analyst optimism.",
+      "publisher": "MarketBeat",
+      "published_utc": "2026-09-20T11:35:00Z",
+      "url": "https://www.marketbeat.com/articles/these-3-stocks-sit-at-the-center-of-nvidias-cybersecurity-push/?utm_source=yahoofinance&utm_medium=yahoofinance",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-sit-center-nvidia-113500805.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/j_i3FrM1r.jtYoRSXVS5aw--~B/aD01MTQ7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketbeat_955/4788a68634f7c197e107c91c02b6834d.png"
+    },
     {
       "title": "Cisco (CSCO) Leans on Splunk to Broaden Its Share of Enterprise AI Spending. It Faces a Big Test",
       "summary": "Cisco Systems, Inc. (NASDAQ:CSCO) is seeking to expand Splunk’s role in enterprise AI. That matters because it could give the networking giant another avenue to monetize the AI infrastructure buildout beyond hardware sales. At the 2026 Splunk conference in Denver this week (Sept. 14-17), Cisco introduced the Cisco AI POD for Splunk. This solution brings […]",
@@ -12,33 +57,6 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/cisco-csco-leans-splunk-broaden-171200277.html",
       "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/cisco-csco-leans-splunk-broaden-171200277.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/gk8rTh4GTrB6QQAJt7Lx_Q--~B/aD00MTM7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/d87ed4368ba28285bd840da340bf3933.jpg"
-    },
-    {
-      "title": "Cisco Drops 8% in 3 Months: Should You Buy the Stock on the Dip?",
-      "summary": "CSCO's 8% three-month drop reflects margin and recurring-growth concerns, but surging AI demand and networking refresh opportunities support its outlook.",
-      "publisher": "Zacks",
-      "published_utc": "2026-09-18T16:55:00Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-drops-8-3-months-165500656.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-drops-8-3-months-165500656.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/TNepVKOb2Jr3TvKQPxEOEQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/77a053cf2d2dc44c2e658d9c7a167193.jpg"
-    },
-    {
-      "title": "How Verizon’s Expanded 6G Innovation Forum Could Reshape the Network Platform Story for VZ Investors",
-      "summary": "Earlier this month, Verizon expanded its 6G Innovation Forum by adding nine major partners, including AWS, Cisco, Intel, MediaTek, NVIDIA and others, and showcased ISAC-based crowd sensing, drone and vehicle tracking, and AI-powered fan experiences that use 5G Advanced and edge computing as a stepping stone toward future 6G capabilities. This broad, multi-partner push into 6G architectures and network-native sensing underscores how Verizon is working to position its network as a platform for...",
-      "publisher": "Simply Wall St.",
-      "published_utc": "2026-09-17T19:15:52Z",
-      "url": "https://finance.yahoo.com/technology/articles/verizon-expanded-6g-innovation-forum-191552293.html",
-      "yahoo_url": "https://finance.yahoo.com/technology/articles/verizon-expanded-6g-innovation-forum-191552293.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/i0rHh2.exVqo5maDMkodLg--~B/aD05MDA7dz0xNjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/4edd46307db99786f6bc09f625af9cd1.jpg"
-    },
-    {
-      "title": "Cisco Climbs 3.3% as Splunk Takes AI Behind the Firewall",
-      "summary": "Self-hosted agents widen Cisco's addressable market while pricing and customer commitments remain undisclosed.",
-      "publisher": "GuruFocus.com",
-      "published_utc": "2026-09-17T18:25:29Z",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-climbs-3-3-splunk-182529645.html",
-      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/cisco-climbs-3-3-splunk-182529645.html",
-      "thumbnail": null
     }
   ]
 }
