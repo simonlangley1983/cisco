@@ -1,9 +1,63 @@
 {
-  "generated_utc": "2026-09-23T01:28:41.170487Z",
+  "generated_utc": "2026-09-24T01:21:46.268837Z",
   "symbol": "CSCO",
   "company": "Cisco",
-  "article_count": 3,
+  "article_count": 7,
   "articles": [
+    {
+      "title": "Cisco Slips 0.3% as 1,000 Switches Build an AI-Ready Campus",
+      "summary": "Notre Dame bundles hardware, automation, observability and services without disclosing the contract's financial value.",
+      "publisher": "GuruFocus.com",
+      "published_utc": "2026-09-23T19:17:35Z",
+      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-slips-0-3-1-191735319.html",
+      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/cisco-slips-0-3-1-191735319.html",
+      "thumbnail": null
+    },
+    {
+      "title": "Cisco Stock Looks Expensive Until You Price The Year It Already Guided",
+      "summary": "Cisco Systems (CSCO) trades near $106 a share, about 24.6 times the $4.33 of non-GAAP earnings per share it reported for fiscal 2026. That is the same basis Cisco uses for its guidance and analysts use for their forecasts. For a networking supplier with $63.33 billion of revenue behind it, that is rich. And it ignores the two years analysts have already forecast.",
+      "publisher": "Trefis",
+      "published_utc": "2026-09-23T19:16:55Z",
+      "url": "https://www.trefis.com/articles/616282/cisco-stock-looks-expensive-until-you-price-the-year-it-already-guided/2026-09-23",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-stock-looks-expensive-until-191655537.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/QGrle2HXm5pQP290QWFNpQ--~B/aD04NTM7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/trefis_142/2c6894e9b1f31fd3ead7fb164f67793e.jpg"
+    },
+    {
+      "title": "Piper Sandler cuts Cisco price target to $125 on growth peak fears",
+      "summary": "Analyst James Fish maintained a Neutral rating while trimming the target from $132, citing lower price-to-earnings multiple expectations",
+      "publisher": "Quartz",
+      "published_utc": "2026-09-23T13:53:54Z",
+      "url": "https://qz.com/cisco-stock-piper-sandler-price-target-cut-092326",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/piper-sandler-cuts-cisco-price-135354486.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/cUP2rFiQqdK209mjLYsfMg--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/quartz_855/9849b948754f48860c9da7f22676f932.jpg"
+    },
+    {
+      "title": "Zscaler vs. Cisco: Which Cybersecurity Stock Is the Better Buy?",
+      "summary": "CSCO pairs cybersecurity growth, AI infrastructure momentum and strong cash generation with a lower P/S multiple than ZS.",
+      "publisher": "Zacks",
+      "published_utc": "2026-09-23T13:37:00Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zscaler-vs-cisco-cybersecurity-stock-133700928.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/zscaler-vs-cisco-cybersecurity-stock-133700928.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/vROPxL_mEJnnBuAn4lJSAw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/75701a0cb7cb5c2a9a21e2ae671472f5.jpg"
+    },
+    {
+      "title": "Cisco Stock Falls as Piper Sandler Cuts Price Target Over Growth Concerns",
+      "summary": "Key Stats for Cisco StockPrice change for Cisco stock in last 6 months: 35%$CSCO Stock Price as of Sep. 22: $10652-Week High: $130$CSCO Stock Price Target: $137What Happened?Cisco (CSCO) stock dropped almost 5% on Tuesday after Piper Sandler cut its price target on the networking company to $125 from $132.",
+      "publisher": "TIKR",
+      "published_utc": "2026-09-23T12:37:18Z",
+      "url": "https://www.tikr.com/blog/cisco-stock-falls-piper-sandler-price-target-cut?ref=yahoofinance",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-stock-falls-piper-sandler-123718187.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/X1y2ilnzP314e5NI7av.pg--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/tikr_258/2bf24ac47c03a1e5b049f3cee026ea63"
+    },
+    {
+      "title": "Cisco (CSCO) Unveils Quantum Networking Push With New Distributed Systems Collaboration",
+      "summary": "Cisco Systems (NasdaqGS:CSCO) announced a collaboration with quantum technology firm Infleqtion to advance distributed quantum networking architectures. The partners plan to work on quantum memory to optical transduction and networked quantum devices for long distance connectivity. Cisco highlighted a prototype Universal Quantum Switch as part of its push to connect, operate, and scale quantum systems. The Infleqtion partnership and Universal Quantum Switch prototype only capture one part of...",
+      "publisher": "Simply Wall St.",
+      "published_utc": "2026-09-23T10:14:26Z",
+      "url": "https://finance.yahoo.com/technology/articles/cisco-csco-unveils-quantum-networking-101426614.html",
+      "yahoo_url": "https://finance.yahoo.com/technology/articles/cisco-csco-unveils-quantum-networking-101426614.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hpRABVIc_5Kd9sC6.p2_qQ--~B/aD05MDA7dz0xNjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/1c255d20731295daa30f844fecdb8657.jpg"
+    },
     {
       "title": "Cisco Sinks 6% While the Tech Sector Rises; Arista and Ciena Hold Flat",
       "summary": "Cisco is sliding 6% while its closest networking rivals barely flinch and the broader tech sector actually gains ground, and no company announcement explains why the stock is moving alone.",
@@ -12,24 +66,6 @@
       "url": "https://247wallst.com/investing/2026/09/22/cisco-sinks-6-while-the-tech-sector-rises-arista-and-ciena-hold-flat/",
       "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-sinks-6-while-tech-170644008.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/m6bRK8qozMzzLbEcUfVr9w--~B/aD0xNzA3O3c9MjU2MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/7584fd9b9c962aeaacac372014350aaa.jpg"
-    },
-    {
-      "title": "Cisco Moves Higher as Splunk Takes Agents Behind the Firewall",
-      "summary": "Self-managed AI widens Cisco's market while token tracking creates a separate governance opportunity.",
-      "publisher": "GuruFocus.com",
-      "published_utc": "2026-09-21T18:45:16Z",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-moves-higher-splunk-takes-184516001.html",
-      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/cisco-moves-higher-splunk-takes-184516001.html",
-      "thumbnail": null
-    },
-    {
-      "title": "DELL Rides on Growing AI Clientele: Can the Stock Outpace SMCI & CSCO?",
-      "summary": "Dell Technologies' AI customer base tops 6,500 as enterprise, sovereign and Neocloud demand fuels record orders and a $95B backlog amid tough competition.",
-      "publisher": "Zacks",
-      "published_utc": "2026-09-21T15:22:00Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dell-rides-growing-ai-clientele-152200998.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/dell-rides-growing-ai-clientele-152200998.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/v9XeGn5oKw4KyhR24rFsBA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/c1cd358e97afad5e5afc22d86c6e3093.jpg"
     }
   ]
 }
