@@ -1,9 +1,36 @@
 {
-  "generated_utc": "2026-09-25T01:27:24.745717Z",
+  "generated_utc": "2026-09-26T01:30:45.991358Z",
   "symbol": "CSCO",
   "company": "Cisco",
-  "article_count": 8,
+  "article_count": 6,
   "articles": [
+    {
+      "title": "What Was Cisco Telling You Before Its Stock Ran?",
+      "summary": "Cisco Systems (CSCO) stock returned 62% in the twelve months to September 24, 2026, against 16% for the S&P 500. A $10,000 holding at the start was worth about $16,220 at the end. The run was about AI data center orders from hyperscalers, the largest cloud companies. You could have read the run early only if two things held: Cisco was saying it, and its results were showing it.",
+      "publisher": "Trefis",
+      "published_utc": "2026-09-25T20:25:53Z",
+      "url": "https://www.trefis.com/articles/616644/what-was-cisco-telling-you-before-its-stock-ran/2026-09-25",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-telling-stock-ran-202553745.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/QGrle2HXm5pQP290QWFNpQ--~B/aD04NTM7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/trefis_142/2c6894e9b1f31fd3ead7fb164f67793e.jpg"
+    },
+    {
+      "title": "Cisco Stock: One Number Could Tell Investors Where It’s Headed Next",
+      "summary": "Cisco shares have surged nearly 40% this year on an AI-driven networking boom, but one valuation figure will determine whether the rally has room to run or has already priced in the good news.",
+      "publisher": "24/7 Wall St.",
+      "published_utc": "2026-09-25T15:30:06Z",
+      "url": "https://247wallst.com/investing/2026/09/25/cisco-stock-one-number-could-tell-investors-where-its-headed-next/",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-stock-one-number-could-153006490.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/KnJ..hmBRhBPTn7T4.2OjA--~B/aD0xNjAwO3c9Mjc2NTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/2735f2220d54d5fc5123c2555af0ab20.jpg"
+    },
+    {
+      "title": "Arista vs. Cisco: Is Faster AI Growth Worth Twice the Earnings Multiple?",
+      "summary": "Arista Networks, Inc. (NYSE:ANET) and Cisco Systems, Inc. (NASDAQ:CSCO) are both benefiting as AI clusters turn networking into a larger part of the data-center bill. Arista is growing much faster, but investors are paying about 43.8 times forward earnings for that growth versus roughly 20.7 times for Cisco. That valuation gap makes the pair more […]",
+      "publisher": "Insider Monkey",
+      "published_utc": "2026-09-25T04:24:50Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/arista-vs-cisco-faster-ai-042450079.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/arista-vs-cisco-faster-ai-042450079.html",
+      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.lM.U_E69GG0IR6gO146nw--~B/aD02NjY7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/cc81ba4cf0c12532137ea0a3d7204f6f.jpg"
+    },
     {
       "title": "Could Cisco (CSCO)’s Networking Power Give Infleqtion (INFQ) a Major Edge in Quantum Computing?",
       "summary": "Infleqtion, Inc. (NYSE:INFQ) announced a joint research and development collaboration with Cisco Systems, Inc. (NASDAQ:CSCO) on September 10, 2026, to connect, operate, and scale quantum systems into distributed networks. By linking Infleqtion’s neutral-atom quantum processors and sensors with Cisco’s quantum networking stack, the companies aim to transition standalone quantum hardware into scalable, interconnected networks. As […]",
@@ -30,51 +57,6 @@
       "url": "https://finance.yahoo.com/technology/articles/cisco-drops-1-000-switches-181058737.html",
       "yahoo_url": "https://finance.yahoo.com/technology/articles/cisco-drops-1-000-switches-181058737.html",
       "thumbnail": null
-    },
-    {
-      "title": "Cisco CEO warns workers who worry about change that ‘nothing’s going to feel good right now’ with AI",
-      "summary": "Chuck Robbins, the CEO of $415 billion tech company Cisco, urges leaders to not use AI as a “cost-reduction efficiency play” and cut staffers.",
-      "publisher": "Fortune",
-      "published_utc": "2026-09-24T16:02:39Z",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-ceo-warns-workers-worry-160239163.html",
-      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/cisco-ceo-warns-workers-worry-160239163.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/Mf7tT7pvnj_v.W7FUWCxVw--~B/aD0xMzY1O3c9MjA0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fortune_175/bdc61a371196b22c9bf1a348c00a97e3.jpg"
-    },
-    {
-      "title": "Qualcomm or Cisco: One Dividend Will Outpace the Other From Here",
-      "summary": "Qualcomm and Cisco both raise their dividends every year and both are racing into AI infrastructure, but their capital allocation priorities point in completely different directions for a retiree who needs the income to be reliable.",
-      "publisher": "24/7 Wall St.",
-      "published_utc": "2026-09-24T14:05:05Z",
-      "url": "https://247wallst.com/investing/2026/09/24/qualcomm-or-cisco-one-dividend-will-outpace-the-other-from-here/",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-cisco-one-dividend-outpace-140505671.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/6hcUdGjr5wlO3Thh93zMag--~B/aD02MDA7dz0xNTAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/a2ab6bacb8b92ea67ec2e3712322f2e0.jpg"
-    },
-    {
-      "title": "1 Growth Stock with All-Star Potential and 2 We Find Risky",
-      "summary": "Growth is oxygen. But when it evaporates, the consequences can be severe - ask anyone who bought Cisco in the Dot-Com Bubble or newer investors who lived through the 2020 to 2022 COVID cycle.",
-      "publisher": "StockStory",
-      "published_utc": "2026-09-24T11:20:54Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/1-growth-stock-star-potential-112054637.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/1-growth-stock-star-potential-112054637.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/yZS74wKlXf6_dHuwkIN9mQ--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/a0e89351b440a58b92bd4a822bb27222.jpg"
-    },
-    {
-      "title": "Cisco Slips 0.3% as 1,000 Switches Build an AI-Ready Campus",
-      "summary": "Notre Dame bundles hardware, automation, observability and services without disclosing the contract's financial value.",
-      "publisher": "GuruFocus.com",
-      "published_utc": "2026-09-23T19:17:35Z",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-slips-0-3-1-191735319.html",
-      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/cisco-slips-0-3-1-191735319.html",
-      "thumbnail": null
-    },
-    {
-      "title": "Cisco Stock Looks Expensive Until You Price The Year It Already Guided",
-      "summary": "Cisco Systems (CSCO) trades near $106 a share, about 24.6 times the $4.33 of non-GAAP earnings per share it reported for fiscal 2026. That is the same basis Cisco uses for its guidance and analysts use for their forecasts. For a networking supplier with $63.33 billion of revenue behind it, that is rich. And it ignores the two years analysts have already forecast.",
-      "publisher": "Trefis",
-      "published_utc": "2026-09-23T19:16:55Z",
-      "url": "https://www.trefis.com/articles/616282/cisco-stock-looks-expensive-until-you-price-the-year-it-already-guided/2026-09-23",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-stock-looks-expensive-until-191655537.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/QGrle2HXm5pQP290QWFNpQ--~B/aD04NTM7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/trefis_142/2c6894e9b1f31fd3ead7fb164f67793e.jpg"
     }
   ]
 }
