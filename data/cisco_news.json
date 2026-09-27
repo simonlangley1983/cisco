@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-09-26T01:30:45.991358Z",
+  "generated_utc": "2026-09-27T01:24:12.158604Z",
   "symbol": "CSCO",
   "company": "Cisco",
-  "article_count": 6,
+  "article_count": 5,
   "articles": [
     {
       "title": "What Was Cisco Telling You Before Its Stock Ran?",
@@ -48,15 +48,6 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/cisco-systems-csco-ai-security-191110482.html",
       "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/cisco-systems-csco-ai-security-191110482.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hpRABVIc_5Kd9sC6.p2_qQ--~B/aD05MDA7dz0xNjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/1c255d20731295daa30f844fecdb8657.jpg"
-    },
-    {
-      "title": "Cisco Drops as 1,000 Switches Build an AI Campus",
-      "summary": "Notre Dame's modernization showcases networking depth, although Cisco disclosed no contract value.",
-      "publisher": "GuruFocus.com",
-      "published_utc": "2026-09-24T18:10:58Z",
-      "url": "https://finance.yahoo.com/technology/articles/cisco-drops-1-000-switches-181058737.html",
-      "yahoo_url": "https://finance.yahoo.com/technology/articles/cisco-drops-1-000-switches-181058737.html",
-      "thumbnail": null
     }
   ]
 }
