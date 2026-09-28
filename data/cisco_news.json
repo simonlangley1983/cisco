@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-09-27T01:24:12.158604Z",
+  "generated_utc": "2026-09-28T01:37:50.972629Z",
   "symbol": "CSCO",
   "company": "Cisco",
-  "article_count": 5,
+  "article_count": 3,
   "articles": [
     {
       "title": "What Was Cisco Telling You Before Its Stock Ran?",
@@ -30,24 +30,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/arista-vs-cisco-faster-ai-042450079.html",
       "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/arista-vs-cisco-faster-ai-042450079.html",
       "thumbnail": "https://s.yimg.com/uu/api/res/1.2/.lM.U_E69GG0IR6gO146nw--~B/aD02NjY7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/cc81ba4cf0c12532137ea0a3d7204f6f.jpg"
-    },
-    {
-      "title": "Could Cisco (CSCO)’s Networking Power Give Infleqtion (INFQ) a Major Edge in Quantum Computing?",
-      "summary": "Infleqtion, Inc. (NYSE:INFQ) announced a joint research and development collaboration with Cisco Systems, Inc. (NASDAQ:CSCO) on September 10, 2026, to connect, operate, and scale quantum systems into distributed networks. By linking Infleqtion’s neutral-atom quantum processors and sensors with Cisco’s quantum networking stack, the companies aim to transition standalone quantum hardware into scalable, interconnected networks. As […]",
-      "publisher": "Insider Monkey",
-      "published_utc": "2026-09-24T21:59:41Z",
-      "url": "https://finance.yahoo.com/technology/articles/could-cisco-csco-networking-power-215941953.html",
-      "yahoo_url": "https://finance.yahoo.com/technology/articles/could-cisco-csco-networking-power-215941953.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/T81NnUFzGdY0iBvzG_jYtA--~B/aD0zMzg3O3c9NTA4MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/insidermonkey.com/2e71847de667cfd15cf8ad12ad7902b6.jpg"
-    },
-    {
-      "title": "Cisco Systems (CSCO) And Its AI Security Story Still Look Slightly Undervalued",
-      "summary": "Cisco Systems (CSCO) is back in focus after a fresh wave of AI and security product news around Splunk, including new on-premises AI infrastructure and tools to monitor token usage and agent performance. Investors have seen mixed signals around Cisco Systems in recent weeks, with fresh Splunk AI products, new quantum networking work with Infleqtion and a Notre Dame campus upgrade arriving just as an analyst downgrade and profit taking pulled the stock back from recent highs. Despite a 90 day...",
-      "publisher": "Simply Wall St.",
-      "published_utc": "2026-09-24T19:11:10Z",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-systems-csco-ai-security-191110482.html",
-      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/cisco-systems-csco-ai-security-191110482.html",
-      "thumbnail": "https://s.yimg.com/uu/api/res/1.2/hpRABVIc_5Kd9sC6.p2_qQ--~B/aD05MDA7dz0xNjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/1c255d20731295daa30f844fecdb8657.jpg"
     }
   ]
 }
