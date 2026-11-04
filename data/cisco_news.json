@@ -1,7 +1,53 @@
 {
-  "generated_utc": "2026-11-02T02:28:03.978833Z",
+  "generated_utc": "2026-11-04T02:59:52.181763Z",
   "symbol": "CSCO",
   "company": "Cisco",
-  "article_count": 0,
-  "articles": []
+  "article_count": 5,
+  "articles": [
+    {
+      "title": "Top Analyst Reports for Eli Lilly, Cisco & KLA",
+      "summary": "Eli Lilly, Cisco and KLA lead today's featured research reports, with strong demand, AI-driven growth and expanding product opportunities supporting their prospects.",
+      "publisher": "Zacks",
+      "published_utc": "2026-11-03T20:12:00Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-eli-lilly-201200869.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-eli-lilly-201200869.html",
+      "thumbnail": null
+    },
+    {
+      "title": "Cisco AI backlog and core demand underpin Bank of America’s bullish outlook",
+      "summary": "Cisco Systems Inc (NASDAQ:CSCO, XETRA:CIS) strong demand supports Bank of America’s maintained \"buy\" rating and $150 price target, despite expected gross margin pressure from increased hardware and cloud sales. Ahead of fiscal first-quarter 2027 results on November 12, the bank expects...",
+      "publisher": "Proactive",
+      "published_utc": "2026-11-03T18:11:00Z",
+      "url": "https://www.proactiveinvestors.com/companies/news/1101169/cisco-ai-backlog-and-core-demand-underpin-bank-of-america-s-bullish-outlook-1101169.html",
+      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/cisco-ai-backlog-core-demand-181100832.html",
+      "thumbnail": "https://media.zenfs.com/en/proactive_us_504/53a1ae2abb1c8d78cb28ee76a5137e6e.jpg"
+    },
+    {
+      "title": "ServiceNow (NOW) Rolls Out Control Tower Alliance In Big Enterprise AI Push",
+      "summary": "ServiceNow (NYSE: NOW) unveiled its Control Tower Alliance, targeting enterprise AI governance and control for large customers. Founding partners in the new alliance include OpenAI, NVIDIA, Amazon Web Services, Kong, Cisco, Anthropic, and others. ServiceNow also disclosed expanded collaborations with OpenAI, Google Cloud, and Hewlett Packard Enterprise focused on AI workflows, security, and support. The launch of the Control Tower Alliance and its AI governance push is important, but it...",
+      "publisher": "Simply Wall St.",
+      "published_utc": "2026-11-02T23:19:07Z",
+      "url": "https://finance.yahoo.com/technology/ai/articles/servicenow-now-rolls-control-tower-231907090.html",
+      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/servicenow-now-rolls-control-tower-231907090.html",
+      "thumbnail": "https://media.zenfs.com/en/simply_wall_st__316/f3939e1c17355e7702a70a7d2e5ac2e0.jpg"
+    },
+    {
+      "title": "Anthropic's long-term leadership in AI looks 'extremely strong': Fmr. Cisco CEO",
+      "summary": "JC2 Ventures founder and CEO John Chambers sits down with Yahoo Finance Executive Editor Brian Sozzi to discuss Anthropic's (ANTH.PVT) amended prospectus and what that could indicate about the company's leadership in the space, while also commenting on what a \"trainwreck\" company in the AI ecosystem looks like.\n\nChambers was executive chairman and CEO of Cisco Systems (CSCO).",
+      "publisher": "Yahoo Finance Video",
+      "published_utc": "2026-11-02T15:25:29Z",
+      "url": "https://finance.yahoo.com/video/anthropics-long-term-leadership-in-ai-looks-extremely-strong-fmr-cisco-ceo-152529386.html",
+      "yahoo_url": "https://finance.yahoo.com/video/anthropics-long-term-leadership-in-ai-looks-extremely-strong-fmr-cisco-ceo-152529386.html",
+      "thumbnail": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/498eb675-16af-473d-a5cf-30cf8e649c01_2f5fb903aa8e9cfc8880761028d0e1366efd800dae645a62f413e991e8e99fd5.jpg"
+    },
+    {
+      "title": "JPMorgan's shocking capital expenditures estimates for Amazon, and worries for McDonald's ahead",
+      "summary": "Yahoo Finance Executive Editor Brian Sozzi breaks down all the top headlines of the trading day, including how hyperscalers have gotten \"silly cheap,\" Nvidia's (NVDA) \"unbelievable\" valuation, and why McDonald's (MCD) earnings should have investors worried.\n\nSozzi also sits down with the Founder &amp; CEO of JC2 Ventures and Former Cisco Executive Chairman &amp; CEO John Chambers to discuss the current state of the tech market.",
+      "publisher": "Yahoo Finance Video",
+      "published_utc": "2026-11-02T15:12:40Z",
+      "url": "https://finance.yahoo.com/video/jpmorgans-shocking-capital-expenditures-estimates-for-amazon-and-worries-for-mcdonalds-ahead-151240797.html",
+      "yahoo_url": "https://finance.yahoo.com/video/jpmorgans-shocking-capital-expenditures-estimates-for-amazon-and-worries-for-mcdonalds-ahead-151240797.html",
+      "thumbnail": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/video-frame-1793632326169_1658.jpg_d516b85b2e1b9b237b23908fb8d5f329dc26d9488bb26e7e5f84d8c0328c8438.jpg"
+    }
+  ]
 }
