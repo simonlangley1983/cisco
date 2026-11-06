@@ -1,26 +1,53 @@
 {
-  "generated_utc": "2026-11-05T03:28:35.380074Z",
+  "generated_utc": "2026-11-06T03:24:08.998202Z",
   "symbol": "CSCO",
   "company": "Cisco",
-  "article_count": 2,
+  "article_count": 5,
   "articles": [
     {
-      "title": "Cisco Systems Stock Outlook: Is Wall Street Bullish or Bearish?",
-      "summary": "Are analysts bullish or bearish on Cisco as it is set to report its quarterly results?",
-      "publisher": "Barchart",
-      "published_utc": "2026-11-04T15:10:33Z",
-      "url": "https://www.barchart.com/story/news/8648170/cisco-systems-stock-outlook-is-wall-street-bullish-or-bearish",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-stock-outlook-wall-151033947.html",
-      "thumbnail": "https://media.zenfs.com/en/barchart_com_477/bec27416fdbe79bd1eb29e2bdbc3efb1.jpg"
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "summary": "Find insight on Ziply, Cisco, Expedia and more in the latest Market Talks covering Technology, Media and Telecom.",
+      "publisher": "The Wall Street Journal",
+      "published_utc": "2026-11-05T22:08:00Z",
+      "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-301747e9?siteid=yhoof2&yptr=yahoo",
+      "yahoo_url": null,
+      "thumbnail": "https://media.zenfs.com/en/wsj.com/f574db6a30d0bcbdbb1178c7732e55eb.jpg"
     },
     {
-      "title": "How Low Can Cisco Stock Go?",
-      "summary": "For questions about this article or underlying research, email help@trefis.com.",
-      "publisher": "Trefis",
-      "published_utc": "2026-11-04T09:43:06Z",
-      "url": "https://www.trefis.com/stock/csco/articles/622499/how-low-can-cisco-stock-go/2026-11-04",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/low-cisco-stock-094306529.html",
-      "thumbnail": "https://media.zenfs.com/en/trefis_142/2c6894e9b1f31fd3ead7fb164f67793e.jpg"
+      "title": "Cisco Systems (CSCO) Dips More Than Broader Market: What You Should Know",
+      "summary": "Cisco Systems (CSCO) closed the most recent trading day at $95.72, moving 7.62% from the previous trading session.",
+      "publisher": "Zacks",
+      "published_utc": "2026-11-05T21:45:04Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-csco-dips-more-214504739.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-csco-dips-more-214504739.html",
+      "thumbnail": "https://media.zenfs.com/en/zacks.com/b9775f315e7b6c4ada6e36d0048a929a.jpg"
+    },
+    {
+      "title": "Cisco Stocks Fall 6.2% as Rating Cut Targets AI Margin Risk",
+      "summary": "Faster infrastructure revenue growth could bring a less favorable profit mix.",
+      "publisher": "GuruFocus.com",
+      "published_utc": "2026-11-05T19:31:26Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-stocks-fall-6-2-193126188.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-stocks-fall-6-2-193126188.html",
+      "thumbnail": null
+    },
+    {
+      "title": "Cisco Falls 7% on Morgan Stanley Downgrade; Ciena Plunges 15%, Arista Networks Tumbles 10%",
+      "summary": "Morgan Stanley just cooled on a stock that has beaten the market by a wide margin, and AI-heavy rivals are falling even harder. What does Cisco's own business mix reveal about why it bends while its peers break?",
+      "publisher": "24/7 Wall St.",
+      "published_utc": "2026-11-05T19:03:05Z",
+      "url": "https://247wallst.com/investing/2026/11/05/cisco-falls-7-on-morgan-stanley-downgrade-ciena-plunges-15-arista-networks-tumbles-10/",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-falls-7-morgan-stanley-190305150.html",
+      "thumbnail": "https://media.zenfs.com/en/24_7_wall_st__718/9131f06bb62a81425dcbcbc7fab970dd.jpg"
+    },
+    {
+      "title": "Charter Communications (CHTR) Rolls Out Managed Secure Networking For AI Heavy Enterprises",
+      "summary": "Charter Communications (NasdaqGS:CHTR) has introduced Spectrum Business's Managed Cisco Secure Networking Solution, built around Cisco's 8000 Series Secure Routers. The service integrates advanced security features, including readiness for post-quantum cryptography, aimed at high-security and AI-driven enterprise environments. Spectrum Business is offering the product as a subscription-based managed networking and security service for business customers. The launch of this managed Cisco...",
+      "publisher": "Simply Wall St.",
+      "published_utc": "2026-11-05T18:13:34Z",
+      "url": "https://finance.yahoo.com/technology/ai/articles/charter-communications-chtr-rolls-managed-181334302.html",
+      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/charter-communications-chtr-rolls-managed-181334302.html",
+      "thumbnail": "https://media.zenfs.com/en/simply_wall_st__316/1d3360ebb7e1e0298daabc44df22cda0.jpg"
     }
   ]
 }
