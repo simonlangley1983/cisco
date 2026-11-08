@@ -1,9 +1,18 @@
 {
-  "generated_utc": "2026-11-07T02:46:14.790120Z",
+  "generated_utc": "2026-11-08T02:24:16.448893Z",
   "symbol": "CSCO",
   "company": "Cisco",
-  "article_count": 3,
+  "article_count": 5,
   "articles": [
+    {
+      "title": "Here’s Why Morgan Stanley Analyst Meta Marshall Trimmed Cisco (CSCO) to Equal-weight",
+      "summary": "We just published a list of the Analysts Just Sounded the Alarm on These 10 Overhyped Stocks and Cisco Systems (NASDAQ:CSCO) ranked 7th on this list. Wall Street had a rough week, and the damage came fast. Thursday’s sell-off erased $2.3 trillion in market value, pushed the Nasdaq into a correction and sent the VIX, […]",
+      "publisher": "Insider Monkey",
+      "published_utc": "2026-11-07T18:42:15Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-morgan-stanley-analyst-meta-184215687.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/why-morgan-stanley-analyst-meta-184215687.html",
+      "thumbnail": "https://media.zenfs.com/en/insidermonkey.com/a061cb31e0e4a88c7b56d9333ed06866.jpg"
+    },
     {
       "title": "Morgan Stanley resets Cisco stock price target before earnings",
       "summary": "AI is boosting sales, but cheaper hyperscaler hardware is squeezing margins. Here’s the second worry.",
@@ -12,6 +21,15 @@
       "url": "https://www.thestreet.com/investing/csco-cisco-stock-morgan-stanley-downgrades-price-target-by-11-before-earnings",
       "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-resets-cisco-stock-233300698.html",
       "thumbnail": "https://media.zenfs.com/en/thestreet_881/c41524acae3df471f7216c166dc97754.jpg"
+    },
+    {
+      "title": "Better Dividend Stock: Texas Instruments vs. Cisco",
+      "summary": "Key TakeawaysTexas Instruments raised its quarterly dividend 7% to $1. 52 a share in September, and Cisco raised its dividend for the 15th straight year in fiscal 2026.",
+      "publisher": "TIKR",
+      "published_utc": "2026-11-06T21:52:39Z",
+      "url": "https://www.tikr.com/blog/better-dividend-stock-texas-instruments-vs-cisco?ref=yahoofinancedividend&tlnk=yf-261107-frm3vjw5",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/better-dividend-stock-texas-instruments-215239427.html",
+      "thumbnail": "https://media.zenfs.com/en/tikr_258/24005b53d3b695580aee2ec9519e5a5a"
     },
     {
       "title": "Investor Warns Nvidia Is Repeating Cisco's Fatal Mistake",
