@@ -1,9 +1,36 @@
 {
-  "generated_utc": "2026-11-08T02:24:16.448893Z",
+  "generated_utc": "2026-11-09T02:38:34.838583Z",
   "symbol": "CSCO",
   "company": "Cisco",
-  "article_count": 5,
+  "article_count": 4,
   "articles": [
+    {
+      "title": "In March 2000, Cisco Briefly Became The World’s Most Valuable Company As Its Stock Closed At $80.06. Buyers That Day Waited More Than 25 Years For It To Close Higher. Here’s What AI Investors Need To Know",
+      "summary": "Cisco was the best business in the world at its peak, and its company kept growing for decades. So why did some of its shareholders lose a generation? The answer could decide how today's AI leaders treat your portfolio.",
+      "publisher": "24/7 Wall St.",
+      "published_utc": "2026-11-08T19:54:08Z",
+      "url": "https://247wallst.com/investing/2026/11/08/in-march-2000-cisco-briefly-became-the-worlds-most-valuable-company-as-its-stock-closed-at-80-06-buyers-that-day-waited-more-than-25-years-for-it-to-close-higher-heres-what-ai-investors-need-t/",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/march-2000-cisco-briefly-became-195408511.html",
+      "thumbnail": "https://media.zenfs.com/en/24_7_wall_st__718/a78f9523c691475a44872e25e64399c4.jpg"
+    },
+    {
+      "title": "Cisco Systems (CSCO) Named A Leader In ABI Research Open Line Systems Ranking",
+      "summary": "Cisco Systems (NasdaqGS:CSCO) has been ranked a leader in ABI Research’s Open Line Systems for Data Center Interconnect Scale-Across assessment. The ABI Research ranking highlights Cisco’s role in optical networking for distributed AI infrastructure used by large data center operators. ABI Research’s recognition focuses on Cisco’s open line systems portfolio that targets data center interconnect demands linked to AI workloads. The ABI award for open line systems leadership frames Cisco’s...",
+      "publisher": "Simply Wall St.",
+      "published_utc": "2026-11-08T18:06:51Z",
+      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-systems-csco-named-leader-180651326.html",
+      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/cisco-systems-csco-named-leader-180651326.html",
+      "thumbnail": "https://media.zenfs.com/en/simply_wall_st__316/1c255d20731295daa30f844fecdb8657.jpg"
+    },
+    {
+      "title": "What To Expect In Markets This Week: CRWV, CSCO, NBIS, LUNR, ONDS, CBRS Earnings, CPI, Fed Speeches And More",
+      "summary": "Several companies are preparing to report quarterly results later this week, while key economic data releases will give investors fresh clues about inflation.",
+      "publisher": "Stocktwits",
+      "published_utc": "2026-11-08T10:59:42Z",
+      "url": "https://stocktwits.com/news-articles/markets/equity/what-to-expect-markets-this-week-nov-8-2026/cNGYG4ZR9Iu",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/expect-markets-week-crwv-csco-105942813.html",
+      "thumbnail": "https://media.zenfs.com/en/stocktwits_383/93cdd1353bfcbc707327c3e2c643fc61"
+    },
     {
       "title": "Here’s Why Morgan Stanley Analyst Meta Marshall Trimmed Cisco (CSCO) to Equal-weight",
       "summary": "We just published a list of the Analysts Just Sounded the Alarm on These 10 Overhyped Stocks and Cisco Systems (NASDAQ:CSCO) ranked 7th on this list. Wall Street had a rough week, and the damage came fast. Thursday’s sell-off erased $2.3 trillion in market value, pushed the Nasdaq into a correction and sent the VIX, […]",
@@ -12,42 +39,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-morgan-stanley-analyst-meta-184215687.html",
       "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/why-morgan-stanley-analyst-meta-184215687.html",
       "thumbnail": "https://media.zenfs.com/en/insidermonkey.com/a061cb31e0e4a88c7b56d9333ed06866.jpg"
-    },
-    {
-      "title": "Morgan Stanley resets Cisco stock price target before earnings",
-      "summary": "AI is boosting sales, but cheaper hyperscaler hardware is squeezing margins. Here’s the second worry.",
-      "publisher": "TheStreet",
-      "published_utc": "2026-11-06T23:33:00Z",
-      "url": "https://www.thestreet.com/investing/csco-cisco-stock-morgan-stanley-downgrades-price-target-by-11-before-earnings",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-resets-cisco-stock-233300698.html",
-      "thumbnail": "https://media.zenfs.com/en/thestreet_881/c41524acae3df471f7216c166dc97754.jpg"
-    },
-    {
-      "title": "Better Dividend Stock: Texas Instruments vs. Cisco",
-      "summary": "Key TakeawaysTexas Instruments raised its quarterly dividend 7% to $1. 52 a share in September, and Cisco raised its dividend for the 15th straight year in fiscal 2026.",
-      "publisher": "TIKR",
-      "published_utc": "2026-11-06T21:52:39Z",
-      "url": "https://www.tikr.com/blog/better-dividend-stock-texas-instruments-vs-cisco?ref=yahoofinancedividend&tlnk=yf-261107-frm3vjw5",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/better-dividend-stock-texas-instruments-215239427.html",
-      "thumbnail": "https://media.zenfs.com/en/tikr_258/24005b53d3b695580aee2ec9519e5a5a"
-    },
-    {
-      "title": "Investor Warns Nvidia Is Repeating Cisco's Fatal Mistake",
-      "summary": "The warning centers on whether AI demand is becoming too dependent on ecosystem financing.",
-      "publisher": "GuruFocus.com",
-      "published_utc": "2026-11-06T18:18:00Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/investor-warns-nvidia-repeating-ciscos-181800315.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/investor-warns-nvidia-repeating-ciscos-181800315.html",
-      "thumbnail": null
-    },
-    {
-      "title": "How Investors Are Reacting To Cisco Stock After Analyst Downgrade",
-      "summary": "Cisco Systems is rolling out a broad refresh of its partner and cloud portfolios, including Cisco IQ for Partners, expanded Cisco 360 Partner Program incentives, and new AI centric tools like Model Foundry and MCP servers to tie networking, security, and AI operations together. The updates shift more value creation toward telemetry, recurring software, and partner driven lifecycle work, which interacts directly with current concerns about hardware mix, gross margin pressure, and how Cisco...",
-      "publisher": "Simply Wall St.",
-      "published_utc": "2026-11-06T18:14:05Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-reacting-cisco-stock-analyst-181405768.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/investors-reacting-cisco-stock-analyst-181405768.html",
-      "thumbnail": "https://media.zenfs.com/en/simply_wall_st__316/1c255d20731295daa30f844fecdb8657.jpg"
     }
   ]
 }
