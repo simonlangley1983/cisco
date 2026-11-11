@@ -1,52 +1,34 @@
 {
-  "generated_utc": "2026-11-10T04:36:43.678019Z",
+  "generated_utc": "2026-11-11T02:45:40.703469Z",
   "symbol": "CSCO",
   "company": "Cisco",
-  "article_count": 5,
+  "article_count": 3,
   "articles": [
     {
-      "title": "Will Cisco Systems (CSCO) Deliver the Strong Results the Market Needs to See?",
-      "summary": "Cisco Systems (CSCO) is set to report earnings this week as investors look for reassurance about AI infrastructure spending amid the recent tech selloff.",
-      "publisher": "Zacks",
-      "published_utc": "2026-11-09T22:19:00Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-csco-deliver-strong-221900491.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-csco-deliver-strong-221900491.html",
-      "thumbnail": "https://media.zenfs.com/en/zacks.com/75701a0cb7cb5c2a9a21e2ae671472f5.jpg"
-    },
-    {
-      "title": "Cisco Q1 Earnings – Here’s What Analysts Expect from CSCO Stock amid AI Trade Concerns",
-      "summary": "Networking giant Cisco Systems (CSCO) will announce its fiscal first-quarter earnings on November 12. While CSCO stock has declined 20% over the past month amid AI trade concerns and broader market pressures, it is still up 22% year-to-date. Cisco bulls remain optimistic due to AI-led demand for its products, with the company guiding for AI infrastructure revenue of $7.5 billion in FY27, up from $4 billion in the previous year. However, some analysts remain cautious about margins and contend tha",
-      "publisher": "TipRanks",
-      "published_utc": "2026-11-09T20:47:03Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-q1-earnings-analysts-expect-204703273.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-q1-earnings-analysts-expect-204703273.html",
-      "thumbnail": "https://media.zenfs.com/en/tipranks_452/e563e6130ca145a703a1e42fd8af7065.png"
-    },
-    {
-      "title": "$300,000 in Cisco, IBM and Microsoft Could Pay You $5,150 a Year",
-      "summary": "The tech stocks your portfolio treats as growth bets also mail checks every quarter. One pays the least yet raises fastest, another has paid since 1916, and each carries a hidden risk that could squeeze that income.",
-      "publisher": "24/7 Wall St.",
-      "published_utc": "2026-11-09T19:17:55Z",
-      "url": "https://247wallst.com/investing/2026/11/09/300000-in-cisco-ibm-and-microsoft-could-pay-you-5150-a-year/",
-      "yahoo_url": "https://finance.yahoo.com/news/300-000-cisco-ibm-microsoft-191755626.html",
-      "thumbnail": "https://media.zenfs.com/en/24_7_wall_st__718/930c885ec0fb49664fddb04f2625896a.jpg"
-    },
-    {
-      "title": "1 Options Trade to Bet on Cisco Stock Ahead of Earnings on November 12 — and Get a Shot at a 128.57% Maximum Payout",
-      "summary": "While mean reversion may be a legitimate theory for CSCO stock, you’ll want to consider the nuances of this trade.",
-      "publisher": "Barchart",
-      "published_utc": "2026-11-09T15:31:03Z",
-      "url": "https://www.barchart.com/story/news/8737053/1-options-trade-to-bet-on-cisco-stock-ahead-of-earnings-on-november-12-and-get-a-shot-at-a-128-57-maximum-payout",
-      "yahoo_url": "https://finance.yahoo.com/markets/options/articles/1-options-trade-bet-cisco-153103151.html",
-      "thumbnail": "https://media.zenfs.com/en/barchart_com_477/bec27416fdbe79bd1eb29e2bdbc3efb1.jpg"
-    },
-    {
-      "title": "Cisco Systems (CSCO) Could Be 15% Undervalued As AI Earnings Focus Builds",
-      "summary": "Cisco Systems (CSCO) heads into this week’s earnings report with attention firmly on AI infrastructure demand, data center networking orders, and how those trends show up in profit margins and guidance. Recent trading has turned rough for Cisco Systems, with the share price down 7.6% over the past week and 20.7% over the last month, even as investors position around this week’s earnings and fresh AI-related announcements. Despite that short-term slide, the 1-year total shareholder return of...",
+      "title": "Cloudflare (NET) Names Christian Smith President Of Revenue In $5 Billion ARR Push",
+      "summary": "Cloudflare (NYSE:NET) has appointed Christian Smith as President of Revenue, tasking him with overseeing global commercial operations. Smith brings experience from senior roles at Splunk and Cisco, including work on large scale business model changes and enterprise sales. The new leadership role is tied to Cloudflare's ambition to reach US$5b in annual recurring revenue through go to market execution. Cloudflare's decision to hire Christian Smith as President of Revenue is important, but it...",
       "publisher": "Simply Wall St.",
-      "published_utc": "2026-11-09T15:09:28Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-csco-could-15-150928783.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-csco-could-15-150928783.html",
+      "published_utc": "2026-11-10T22:10:05Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-net-names-christian-smith-221005689.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-net-names-christian-smith-221005689.html",
+      "thumbnail": "https://media.zenfs.com/en/simply_wall_st__316/1483dc6f19a26cc4775cbcb0606c0b9d.jpg"
+    },
+    {
+      "title": "Should You Buy, Sell, or Hold Cisco Systems Stock Before Q1 Earnings?",
+      "summary": "CSCO's Q1 results are likely to benefit from robust AI infrastructure demand, hyperscaler investments and networking growth, despite rising costs and competition.",
+      "publisher": "Zacks",
+      "published_utc": "2026-11-10T19:22:00Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-sell-hold-cisco-systems-192200624.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/buy-sell-hold-cisco-systems-192200624.html",
+      "thumbnail": "https://media.zenfs.com/en/zacks.com/77a053cf2d2dc44c2e658d9c7a167193.jpg"
+    },
+    {
+      "title": "Is Cisco Systems (CSCO) Fully Priced After Its 104% Run?",
+      "summary": "Cisco Systems has delivered a powerful share price run over the past few years. The sharper question for investors now is whether that recent market enthusiasm lines up with the cash the business can generate. After a pullback in recent weeks and a steady stream of AI focused headlines, the issue is whether the current US$98.65 tag reflects Cisco Systems' underlying cash flow profile or stretches it. Over the past 3 years the stock has returned 103.8%. This puts a lot of weight on the idea...",
+      "publisher": "Simply Wall St.",
+      "published_utc": "2026-11-10T17:16:31Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-csco-fully-priced-171631260.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-csco-fully-priced-171631260.html",
       "thumbnail": "https://media.zenfs.com/en/simply_wall_st__316/1c255d20731295daa30f844fecdb8657.jpg"
     }
   ]
