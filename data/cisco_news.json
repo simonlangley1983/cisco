@@ -1,35 +1,53 @@
 {
-  "generated_utc": "2026-11-11T02:45:40.703469Z",
+  "generated_utc": "2026-11-12T03:47:29.504254Z",
   "symbol": "CSCO",
   "company": "Cisco",
-  "article_count": 3,
+  "article_count": 5,
   "articles": [
     {
-      "title": "Cloudflare (NET) Names Christian Smith President Of Revenue In $5 Billion ARR Push",
-      "summary": "Cloudflare (NYSE:NET) has appointed Christian Smith as President of Revenue, tasking him with overseeing global commercial operations. Smith brings experience from senior roles at Splunk and Cisco, including work on large scale business model changes and enterprise sales. The new leadership role is tied to Cloudflare's ambition to reach US$5b in annual recurring revenue through go to market execution. Cloudflare's decision to hire Christian Smith as President of Revenue is important, but it...",
-      "publisher": "Simply Wall St.",
-      "published_utc": "2026-11-10T22:10:05Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-net-names-christian-smith-221005689.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-net-names-christian-smith-221005689.html",
-      "thumbnail": "https://media.zenfs.com/en/simply_wall_st__316/1483dc6f19a26cc4775cbcb0606c0b9d.jpg"
+      "title": "Dow, S&P 500, Nasdaq Futures Mixed As Tech Rebounds Despite Nvidia CEO Crisis: AMD, CSCO, AMAT In Focus",
+      "summary": "Media reports suggest that Nvidia’s board is looking to replace CEO Jensen Huang after additional news indicated that he had an affair with a company executive.",
+      "publisher": "Stocktwits",
+      "published_utc": "2026-11-12T03:15:12Z",
+      "url": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-mixed-as-tech-rebounds-despite-nvidia-ceo-crisis-amd-csco-amat-in-focus/cNGzKh7R99W",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/dow-p-500-nasdaq-futures-031512683.html",
+      "thumbnail": "https://media.zenfs.com/en/stocktwits_383/0066ddc44bd2be5670cf077d47266911.jpg"
     },
     {
-      "title": "Should You Buy, Sell, or Hold Cisco Systems Stock Before Q1 Earnings?",
-      "summary": "CSCO's Q1 results are likely to benefit from robust AI infrastructure demand, hyperscaler investments and networking growth, despite rising costs and competition.",
+      "title": "Cisco (CSCO) Is Considered a Good Investment by Brokers: Is That True?",
+      "summary": "Based on the average brokerage recommendation (ABR), Cisco (CSCO) should be added to one's portfolio. Wall Street analysts' overly optimistic recommendations cast doubt on the effectiveness of this highly sought-after metric. So, is the stock worth buying?",
       "publisher": "Zacks",
-      "published_utc": "2026-11-10T19:22:00Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-sell-hold-cisco-systems-192200624.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/buy-sell-hold-cisco-systems-192200624.html",
-      "thumbnail": "https://media.zenfs.com/en/zacks.com/77a053cf2d2dc44c2e658d9c7a167193.jpg"
+      "published_utc": "2026-11-11T20:22:43Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-csco-considered-good-investment-202243792.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-csco-considered-good-investment-202243792.html",
+      "thumbnail": "https://media.zenfs.com/en/zacks.com/5ecaf2a9bf082a5f3a554e6526b34be0.jpg"
     },
     {
-      "title": "Is Cisco Systems (CSCO) Fully Priced After Its 104% Run?",
-      "summary": "Cisco Systems has delivered a powerful share price run over the past few years. The sharper question for investors now is whether that recent market enthusiasm lines up with the cash the business can generate. After a pullback in recent weeks and a steady stream of AI focused headlines, the issue is whether the current US$98.65 tag reflects Cisco Systems' underlying cash flow profile or stretches it. Over the past 3 years the stock has returned 103.8%. This puts a lot of weight on the idea...",
+      "title": "What Is Cisco Systems (CSCO) Building With Its New AI Defense Push?",
+      "summary": "Cisco Systems (NasdaqGS:CSCO) has integrated Anthropic’s Claude Mythos into its AI Defense framework for enterprise AI security and control. The rollout adds adaptive red teaming capabilities aimed at stress testing AI agents against adversarial prompts and misuse scenarios. Cisco introduced Tokenomics tools for monitoring AI spend, along with Cisco IQ and Splunk hooks for faster issue remediation and ROI tracking. The Claude Mythos integration and AI Defense upgrades create a new pillar in...",
       "publisher": "Simply Wall St.",
-      "published_utc": "2026-11-10T17:16:31Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-csco-fully-priced-171631260.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-csco-fully-priced-171631260.html",
+      "published_utc": "2026-11-11T20:08:12Z",
+      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-systems-csco-building-ai-200812215.html",
+      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/cisco-systems-csco-building-ai-200812215.html",
       "thumbnail": "https://media.zenfs.com/en/simply_wall_st__316/1c255d20731295daa30f844fecdb8657.jpg"
+    },
+    {
+      "title": "Cisco earnings preview: EPS, margins, and guidance in focus",
+      "summary": "Investing.com -- Cisco Cisco Systems Inc (CSCO) reports Thursday, Nov 12, 2026, after the close (fiscal Q1 2027). Consensus is EPS $1.32 on revenue of $18.11B, per the earnings tool. That would be about 32% EPS growth and 21.7% revenue growth year over year, according to this Investing.com preview (Nov 9, 2026).",
+      "publisher": "Investing.com",
+      "published_utc": "2026-11-11T18:07:25Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-earnings-preview-eps-margins-180725950.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-earnings-preview-eps-margins-180725950.html",
+      "thumbnail": null
+    },
+    {
+      "title": "Ahead of Cisco Earnings, Here's What Barchart Data Says Comes Next for CSCO Stock",
+      "summary": "Cisco is set to report its fiscal Q1 earnings on Nov. 12. Here’s how data suggests you should pay CSCO shares heading into the earnings event.",
+      "publisher": "Barchart",
+      "published_utc": "2026-11-11T16:42:32Z",
+      "url": "https://www.barchart.com/story/news/8783993/ahead-of-cisco-earnings-here-s-what-barchart-data-says-comes-next-for-csco-stock",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/ahead-cisco-earnings-heres-barchart-164232832.html",
+      "thumbnail": "https://media.zenfs.com/en/barchart_com_477/bec27416fdbe79bd1eb29e2bdbc3efb1.jpg"
     }
   ]
 }
