@@ -1,53 +1,89 @@
 {
-  "generated_utc": "2026-11-12T03:47:29.504254Z",
+  "generated_utc": "2026-11-13T03:23:38.348504Z",
   "symbol": "CSCO",
   "company": "Cisco",
-  "article_count": 5,
+  "article_count": 9,
   "articles": [
     {
-      "title": "Dow, S&P 500, Nasdaq Futures Mixed As Tech Rebounds Despite Nvidia CEO Crisis: AMD, CSCO, AMAT In Focus",
-      "summary": "Media reports suggest that Nvidia’s board is looking to replace CEO Jensen Huang after additional news indicated that he had an affair with a company executive.",
-      "publisher": "Stocktwits",
-      "published_utc": "2026-11-12T03:15:12Z",
-      "url": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-mixed-as-tech-rebounds-despite-nvidia-ceo-crisis-amd-csco-amat-in-focus/cNGzKh7R99W",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/dow-p-500-nasdaq-futures-031512683.html",
-      "thumbnail": "https://media.zenfs.com/en/stocktwits_383/0066ddc44bd2be5670cf077d47266911.jpg"
+      "title": "Dow Jones Futures Rise After Market Weathers Nvidia CEO Huang's Exit, Surging Yields",
+      "summary": "The stock market held up well given Nvidia CEO Jensen Huang's exit, surging yields and more. Cisco led key earnings reports late.",
+      "publisher": "Investor's Business Daily",
+      "published_utc": "2026-11-13T03:12:32Z",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-ceo-huang-exit-surging-yields-spacex-tesla-merger-deal/?src=A00220&yptr=yahoo",
+      "yahoo_url": null,
+      "thumbnail": "https://media.zenfs.com/en/ibd.com/3c07a748683a0919a4045879ae1f8e88.jpg"
     },
     {
-      "title": "Cisco (CSCO) Is Considered a Good Investment by Brokers: Is That True?",
-      "summary": "Based on the average brokerage recommendation (ABR), Cisco (CSCO) should be added to one's portfolio. Wall Street analysts' overly optimistic recommendations cast doubt on the effectiveness of this highly sought-after metric. So, is the stock worth buying?",
+      "title": "What Cisco Systems (CSCO) Said on Its Q1 Earnings Call",
+      "summary": "Cisco Systems (NASDAQ:CSCO) raised its fiscal 2027 revenue and earnings outlook after reporting record first-quarter sales, as demand for networking equipment and artificial intelligence infrastructure drove its strongest revenue and earnings growth rates in more than 15 years. Revenue rose 24% yea",
+      "publisher": "MarketBeat",
+      "published_utc": "2026-11-13T01:14:31Z",
+      "url": "https://www.marketbeat.com/instant-alerts/transcript-what-cisco-systems-csco-said-on-its-q1-earnings-call-2026-11-12/?utm_source=yahoofinance&utm_medium=yahoofinance",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-csco-said-q1-011431448.html",
+      "thumbnail": "https://media.zenfs.com/en/marketbeat_955/200f6fa2b9d37a1e1c5ca96292153a58.jpg_up.jpg"
+    },
+    {
+      "title": "Cisco Systems Delivers Record Q1 Results, Raises FY27 Outlook",
+      "summary": "Cisco Systems (CSCO) delivered record Q1 results and raised its FY27 outlook as AI infrastructure demand accelerates.",
       "publisher": "Zacks",
-      "published_utc": "2026-11-11T20:22:43Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-csco-considered-good-investment-202243792.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-csco-considered-good-investment-202243792.html",
-      "thumbnail": "https://media.zenfs.com/en/zacks.com/5ecaf2a9bf082a5f3a554e6526b34be0.jpg"
+      "published_utc": "2026-11-12T23:29:00Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-delivers-record-q1-232900099.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-delivers-record-q1-232900099.html",
+      "thumbnail": "https://media.zenfs.com/en/zacks.com/02fae043f47d40eaef946248178af566.jpg"
     },
     {
-      "title": "What Is Cisco Systems (CSCO) Building With Its New AI Defense Push?",
-      "summary": "Cisco Systems (NasdaqGS:CSCO) has integrated Anthropic’s Claude Mythos into its AI Defense framework for enterprise AI security and control. The rollout adds adaptive red teaming capabilities aimed at stress testing AI agents against adversarial prompts and misuse scenarios. Cisco introduced Tokenomics tools for monitoring AI spend, along with Cisco IQ and Splunk hooks for faster issue remediation and ROI tracking. The Claude Mythos integration and AI Defense upgrades create a new pillar in...",
-      "publisher": "Simply Wall St.",
-      "published_utc": "2026-11-11T20:08:12Z",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-systems-csco-building-ai-200812215.html",
-      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/cisco-systems-csco-building-ai-200812215.html",
-      "thumbnail": "https://media.zenfs.com/en/simply_wall_st__316/1c255d20731295daa30f844fecdb8657.jpg"
+      "title": "Cisco Systems Raises Outlook On Soaring Revenue, Profit",
+      "summary": "The company posted a first-quarter profit of $4.55 billion, driven by high demand in the agentic artificial-intelligence market.",
+      "publisher": "The Wall Street Journal",
+      "published_utc": "2026-11-12T21:50:00Z",
+      "url": "https://www.wsj.com/business/earnings/cisco-systems-raises-outlook-on-soaring-revenue-profit-7efeabd0?siteid=yhoof2&yptr=yahoo",
+      "yahoo_url": null,
+      "thumbnail": "https://media.zenfs.com/en/wsj.com/0d6da1fd612329c2d5bed0a7f13d63eb.jpg"
     },
     {
-      "title": "Cisco earnings preview: EPS, margins, and guidance in focus",
-      "summary": "Investing.com -- Cisco Cisco Systems Inc (CSCO) reports Thursday, Nov 12, 2026, after the close (fiscal Q1 2027). Consensus is EPS $1.32 on revenue of $18.11B, per the earnings tool. That would be about 32% EPS growth and 21.7% revenue growth year over year, according to this Investing.com preview (Nov 9, 2026).",
+      "title": "Cisco shares climb 4% on strong earnings beat and raised outlook",
+      "summary": "Investing.com -- Cisco Systems Inc. shares surged 4% after the networking giant reported first-quarter fiscal 2027 results that comfortably beat analyst expectations and raised its full-year outlook, delivering its strongest revenue and earnings growth in more than 15 years.",
       "publisher": "Investing.com",
-      "published_utc": "2026-11-11T18:07:25Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-earnings-preview-eps-margins-180725950.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-earnings-preview-eps-margins-180725950.html",
+      "published_utc": "2026-11-12T21:43:47Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-shares-climb-4-strong-214347073.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-shares-climb-4-strong-214347073.html",
       "thumbnail": null
     },
     {
-      "title": "Ahead of Cisco Earnings, Here's What Barchart Data Says Comes Next for CSCO Stock",
-      "summary": "Cisco is set to report its fiscal Q1 earnings on Nov. 12. Here’s how data suggests you should pay CSCO shares heading into the earnings event.",
-      "publisher": "Barchart",
-      "published_utc": "2026-11-11T16:42:32Z",
-      "url": "https://www.barchart.com/story/news/8783993/ahead-of-cisco-earnings-here-s-what-barchart-data-says-comes-next-for-csco-stock",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/ahead-cisco-earnings-heres-barchart-164232832.html",
-      "thumbnail": "https://media.zenfs.com/en/barchart_com_477/bec27416fdbe79bd1eb29e2bdbc3efb1.jpg"
+      "title": "Cisco Shares Climb as First-Quarter Growth Hits More Than 15-Year High",
+      "summary": "Cisco Systems' (CSCO) shares jumped after market close Thursday as its fiscal first quarter marked t",
+      "publisher": "MT Newswires",
+      "published_utc": "2026-11-12T21:39:20Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-shares-climb-first-quarter-213920638.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-shares-climb-first-quarter-213920638.html",
+      "thumbnail": "https://media.zenfs.com/en/mt_newswires_premium_news_706/be0816ededd346a589568117bee5a157.jpg"
+    },
+    {
+      "title": "Cisco (CSCO) Reports Q1 Earnings: What Key Metrics Have to Say",
+      "summary": "While the top- and bottom-line numbers for Cisco (CSCO) give a sense of how the business performed in the quarter ended October 2026, it could be worth looking at how some of its key metrics compare to Wall Street estimates and year-ago values.",
+      "publisher": "Zacks",
+      "published_utc": "2026-11-12T21:30:01Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-csco-reports-q1-earnings-213001521.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-csco-reports-q1-earnings-213001521.html",
+      "thumbnail": "https://media.zenfs.com/en/zacks.com/8442d24e11d454aa89061259a9714d43.jpg"
+    },
+    {
+      "title": "Cisco Breezes Past Earnings Estimates Thanks to AI Demand",
+      "summary": "The networking company reported better-than-expected results for its fiscal first quarter and lifted its outlook for the rest of the year.",
+      "publisher": "Barrons.com",
+      "published_utc": "2026-11-12T21:29:00Z",
+      "url": "https://www.barrons.com/articles/cisco-beat-earnings-estimates-stock-ai-64619a24?siteid=yhoof2&yptr=yahoo",
+      "yahoo_url": null,
+      "thumbnail": "https://media.zenfs.com/en/Barrons.com/8af06b52d37b72e05efde8b013e803d5.jpg"
+    },
+    {
+      "title": "Cisco Earnings, Revenue Top Estimates On AI Data Center Growth",
+      "summary": "Cisco stock advanced amid fiscal Q1 earnings and revenue that topped estimates on strong artificial intelligence-related data center growth.",
+      "publisher": "Investor's Business Daily",
+      "published_utc": "2026-11-12T21:28:50Z",
+      "url": "https://www.investors.com/news/technology/cisco-stock-q326-earnings-csco/?src=A00220&yptr=yahoo",
+      "yahoo_url": null,
+      "thumbnail": "https://media.zenfs.com/en/ibd.com/24433afc27e7ce5b455d798dcc1cf268.jpg"
     }
   ]
 }
