@@ -1,89 +1,53 @@
 {
-  "generated_utc": "2026-11-13T03:23:38.348504Z",
+  "generated_utc": "2026-11-14T03:10:11.050863Z",
   "symbol": "CSCO",
   "company": "Cisco",
-  "article_count": 9,
+  "article_count": 5,
   "articles": [
     {
-      "title": "Dow Jones Futures Rise After Market Weathers Nvidia CEO Huang's Exit, Surging Yields",
-      "summary": "The stock market held up well given Nvidia CEO Jensen Huang's exit, surging yields and more. Cisco led key earnings reports late.",
-      "publisher": "Investor's Business Daily",
-      "published_utc": "2026-11-13T03:12:32Z",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-ceo-huang-exit-surging-yields-spacex-tesla-merger-deal/?src=A00220&yptr=yahoo",
+      "title": "Cisco CEO on trusting Nvidia chips after Jensen Huang's exit: 'Absolutely'",
+      "summary": "Cisco (CSCO) CEO Chuck Robbins sits down with Yahoo Finance Executive Editor Brian Sozzi to outline his thoughts on what Nvidia's (NVDA) business and the broader tech landscape might look like without Jensen Huang at the helm.",
+      "publisher": "Yahoo Finance Video",
+      "published_utc": "2026-11-13T20:10:49Z",
+      "url": "https://finance.yahoo.com/video/cisco-ceo-on-trusting-nvidia-chips-after-jensen-huangs-exit-absolutely-201049124.html",
+      "yahoo_url": "https://finance.yahoo.com/video/cisco-ceo-on-trusting-nvidia-chips-after-jensen-huangs-exit-absolutely-201049124.html",
+      "thumbnail": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/prominent-neon-blue-cisco-logo_7413.png"
+    },
+    {
+      "title": "3 signs the AI trade is back",
+      "summary": "Yahoo Finance Executive Editor and Host of Sozzi Unleashed, Brian Sozzi shares three signs that the AI trade may be regaining momentum after a turbulent week. Earnings from Cisco (CSCO), Cerebras (CBRS), and CoreWeave (CRWV) are offering investors renewed optimism and signs of life in a beaten-down AI sector.",
+      "publisher": "Yahoo Finance Video",
+      "published_utc": "2026-11-13T17:12:47Z",
+      "url": "https://finance.yahoo.com/video/3-signs-the-ai-trade-is-back-171247074.html",
+      "yahoo_url": "https://finance.yahoo.com/video/3-signs-the-ai-trade-is-back-171247074.html",
+      "thumbnail": "https://d29szjachogqwa.cloudfront.net/images/2026-11/a62c5053-f4a8-4817-8b6f-298f47a3a95a"
+    },
+    {
+      "title": "Nvidia, AMD, Microsoft, Cerebras, Cisco, Modine, and More Stocks That Explain Today’s Market",
+      "summary": "Microsoft rose even as a global outage across the company’s tools impact millions of people.",
+      "publisher": "Barrons.com",
+      "published_utc": "2026-11-13T21:40:00Z",
+      "url": "https://www.barrons.com/articles/stock-movers-9a030e1c?siteid=yhoof2&yptr=yahoo",
       "yahoo_url": null,
-      "thumbnail": "https://media.zenfs.com/en/ibd.com/3c07a748683a0919a4045879ae1f8e88.jpg"
+      "thumbnail": "https://media.zenfs.com/en/Barrons.com/d63d27dde1769452b8cd940a155906bc.jpg"
     },
     {
-      "title": "What Cisco Systems (CSCO) Said on Its Q1 Earnings Call",
-      "summary": "Cisco Systems (NASDAQ:CSCO) raised its fiscal 2027 revenue and earnings outlook after reporting record first-quarter sales, as demand for networking equipment and artificial intelligence infrastructure drove its strongest revenue and earnings growth rates in more than 15 years. Revenue rose 24% yea",
-      "publisher": "MarketBeat",
-      "published_utc": "2026-11-13T01:14:31Z",
-      "url": "https://www.marketbeat.com/instant-alerts/transcript-what-cisco-systems-csco-said-on-its-q1-earnings-call-2026-11-12/?utm_source=yahoofinance&utm_medium=yahoofinance",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-csco-said-q1-011431448.html",
-      "thumbnail": "https://media.zenfs.com/en/marketbeat_955/200f6fa2b9d37a1e1c5ca96292153a58.jpg_up.jpg"
-    },
-    {
-      "title": "Cisco Systems Delivers Record Q1 Results, Raises FY27 Outlook",
-      "summary": "Cisco Systems (CSCO) delivered record Q1 results and raised its FY27 outlook as AI infrastructure demand accelerates.",
-      "publisher": "Zacks",
-      "published_utc": "2026-11-12T23:29:00Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-delivers-record-q1-232900099.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-delivers-record-q1-232900099.html",
-      "thumbnail": "https://media.zenfs.com/en/zacks.com/02fae043f47d40eaef946248178af566.jpg"
-    },
-    {
-      "title": "Cisco Systems Raises Outlook On Soaring Revenue, Profit",
-      "summary": "The company posted a first-quarter profit of $4.55 billion, driven by high demand in the agentic artificial-intelligence market.",
-      "publisher": "The Wall Street Journal",
-      "published_utc": "2026-11-12T21:50:00Z",
-      "url": "https://www.wsj.com/business/earnings/cisco-systems-raises-outlook-on-soaring-revenue-profit-7efeabd0?siteid=yhoof2&yptr=yahoo",
-      "yahoo_url": null,
-      "thumbnail": "https://media.zenfs.com/en/wsj.com/0d6da1fd612329c2d5bed0a7f13d63eb.jpg"
-    },
-    {
-      "title": "Cisco shares climb 4% on strong earnings beat and raised outlook",
-      "summary": "Investing.com -- Cisco Systems Inc. shares surged 4% after the networking giant reported first-quarter fiscal 2027 results that comfortably beat analyst expectations and raised its full-year outlook, delivering its strongest revenue and earnings growth in more than 15 years.",
+      "title": "Earnings week scorecard: beats rewarded selectively as AI-infrastructure names pull back",
+      "summary": "Investing.com -- Beats were widespread this week, but the market rewarded only some of them. Cisco and Applied Materials both beat and both sold off. CoreWeave, Rocket Lab and Constellation Energy were rewarded. The week reads as a test of \"beat versus priced-in\" for the AI-infrastructure trade.",
       "publisher": "Investing.com",
-      "published_utc": "2026-11-12T21:43:47Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-shares-climb-4-strong-214347073.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-shares-climb-4-strong-214347073.html",
+      "published_utc": "2026-11-13T20:33:15Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-week-scorecard-beats-rewarded-203315112.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/earnings-week-scorecard-beats-rewarded-203315112.html",
       "thumbnail": null
     },
     {
-      "title": "Cisco Shares Climb as First-Quarter Growth Hits More Than 15-Year High",
-      "summary": "Cisco Systems' (CSCO) shares jumped after market close Thursday as its fiscal first quarter marked t",
-      "publisher": "MT Newswires",
-      "published_utc": "2026-11-12T21:39:20Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-shares-climb-first-quarter-213920638.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-shares-climb-first-quarter-213920638.html",
-      "thumbnail": "https://media.zenfs.com/en/mt_newswires_premium_news_706/be0816ededd346a589568117bee5a157.jpg"
-    },
-    {
-      "title": "Cisco (CSCO) Reports Q1 Earnings: What Key Metrics Have to Say",
-      "summary": "While the top- and bottom-line numbers for Cisco (CSCO) give a sense of how the business performed in the quarter ended October 2026, it could be worth looking at how some of its key metrics compare to Wall Street estimates and year-ago values.",
-      "publisher": "Zacks",
-      "published_utc": "2026-11-12T21:30:01Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-csco-reports-q1-earnings-213001521.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-csco-reports-q1-earnings-213001521.html",
-      "thumbnail": "https://media.zenfs.com/en/zacks.com/8442d24e11d454aa89061259a9714d43.jpg"
-    },
-    {
-      "title": "Cisco Breezes Past Earnings Estimates Thanks to AI Demand",
-      "summary": "The networking company reported better-than-expected results for its fiscal first quarter and lifted its outlook for the rest of the year.",
-      "publisher": "Barrons.com",
-      "published_utc": "2026-11-12T21:29:00Z",
-      "url": "https://www.barrons.com/articles/cisco-beat-earnings-estimates-stock-ai-64619a24?siteid=yhoof2&yptr=yahoo",
-      "yahoo_url": null,
-      "thumbnail": "https://media.zenfs.com/en/Barrons.com/8af06b52d37b72e05efde8b013e803d5.jpg"
-    },
-    {
-      "title": "Cisco Earnings, Revenue Top Estimates On AI Data Center Growth",
-      "summary": "Cisco stock advanced amid fiscal Q1 earnings and revenue that topped estimates on strong artificial intelligence-related data center growth.",
-      "publisher": "Investor's Business Daily",
-      "published_utc": "2026-11-12T21:28:50Z",
-      "url": "https://www.investors.com/news/technology/cisco-stock-q326-earnings-csco/?src=A00220&yptr=yahoo",
-      "yahoo_url": null,
-      "thumbnail": "https://media.zenfs.com/en/ibd.com/24433afc27e7ce5b455d798dcc1cf268.jpg"
+      "title": "Cisco earnings analysis: questions answered and next catalysts",
+      "summary": "Investing.com -- Cisco Systems Inc (CSCO) beat on every headline number in FQ1 FY2027 (reported Nov 12, 2026) and still fell. The stock is $95.35, down 6.53% (as of Nov 13, 2:51 PM EST), roughly where it traded before the print and 17% lower over a month.",
+      "publisher": "Investing.com",
+      "published_utc": "2026-11-13T20:32:00Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-earnings-analysis-questions-answered-203200917.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-earnings-analysis-questions-answered-203200917.html",
+      "thumbnail": null
     }
   ]
 }
