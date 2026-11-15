@@ -1,26 +1,26 @@
 {
-  "generated_utc": "2026-11-14T03:10:11.050863Z",
+  "generated_utc": "2026-11-15T02:37:33.363469Z",
   "symbol": "CSCO",
   "company": "Cisco",
-  "article_count": 5,
+  "article_count": 6,
   "articles": [
     {
-      "title": "Cisco CEO on trusting Nvidia chips after Jensen Huang's exit: 'Absolutely'",
-      "summary": "Cisco (CSCO) CEO Chuck Robbins sits down with Yahoo Finance Executive Editor Brian Sozzi to outline his thoughts on what Nvidia's (NVDA) business and the broader tech landscape might look like without Jensen Huang at the helm.",
-      "publisher": "Yahoo Finance Video",
-      "published_utc": "2026-11-13T20:10:49Z",
-      "url": "https://finance.yahoo.com/video/cisco-ceo-on-trusting-nvidia-chips-after-jensen-huangs-exit-absolutely-201049124.html",
-      "yahoo_url": "https://finance.yahoo.com/video/cisco-ceo-on-trusting-nvidia-chips-after-jensen-huangs-exit-absolutely-201049124.html",
-      "thumbnail": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/prominent-neon-blue-cisco-logo_7413.png"
+      "title": "Cisco Just Raised Its AI Forecast Again. Is it a Buy?",
+      "summary": "The networking giant's AI business is growing much faster than its valuation suggests.",
+      "publisher": "Motley Fool",
+      "published_utc": "2026-11-14T13:11:01Z",
+      "url": "https://www.fool.com/investing/2026/11/14/cisco-just-raised-its-ai-forecast-again-is-it-a-buy/",
+      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/cisco-just-raised-ai-forecast-131101044.html",
+      "thumbnail": "https://media.zenfs.com/en/motleyfool.com/1f571fa3eec08966822f877b92d1741d.jpg"
     },
     {
-      "title": "3 signs the AI trade is back",
-      "summary": "Yahoo Finance Executive Editor and Host of Sozzi Unleashed, Brian Sozzi shares three signs that the AI trade may be regaining momentum after a turbulent week. Earnings from Cisco (CSCO), Cerebras (CBRS), and CoreWeave (CRWV) are offering investors renewed optimism and signs of life in a beaten-down AI sector.",
-      "publisher": "Yahoo Finance Video",
-      "published_utc": "2026-11-13T17:12:47Z",
-      "url": "https://finance.yahoo.com/video/3-signs-the-ai-trade-is-back-171247074.html",
-      "yahoo_url": "https://finance.yahoo.com/video/3-signs-the-ai-trade-is-back-171247074.html",
-      "thumbnail": "https://d29szjachogqwa.cloudfront.net/images/2026-11/a62c5053-f4a8-4817-8b6f-298f47a3a95a"
+      "title": "Is Cisco Systems a Buy After Its Latest Earnings Report?",
+      "summary": "For many investors, the company's beat-and-raise first quarter wasn't as impressive as it looked.",
+      "publisher": "Motley Fool",
+      "published_utc": "2026-11-14T08:20:02Z",
+      "url": "https://www.fool.com/investing/2026/11/14/is-cisco-systems-a-buy-after-its-latest-earnings-report/",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-buy-latest-earnings-082002821.html",
+      "thumbnail": "https://media.zenfs.com/en/motleyfool.com/f55d2bd3ec67b47e598591b5d1be32e9.png"
     },
     {
       "title": "Nvidia, AMD, Microsoft, Cerebras, Cisco, Modine, and More Stocks That Explain Today’s Market",
@@ -48,6 +48,15 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-earnings-analysis-questions-answered-203200917.html",
       "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-earnings-analysis-questions-answered-203200917.html",
       "thumbnail": null
+    },
+    {
+      "title": "Cisco CEO on trusting Nvidia chips after Jensen Huang's exit: 'Absolutely'",
+      "summary": "Cisco (CSCO) CEO Chuck Robbins sits down with Yahoo Finance Executive Editor Brian Sozzi to outline his thoughts on what Nvidia's (NVDA) business and the broader tech landscape might look like without Jensen Huang at the helm.",
+      "publisher": "Yahoo Finance Video",
+      "published_utc": "2026-11-13T20:10:49Z",
+      "url": "https://finance.yahoo.com/video/cisco-ceo-on-trusting-nvidia-chips-after-jensen-huangs-exit-absolutely-201049124.html",
+      "yahoo_url": "https://finance.yahoo.com/video/cisco-ceo-on-trusting-nvidia-chips-after-jensen-huangs-exit-absolutely-201049124.html",
+      "thumbnail": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/prominent-neon-blue-cisco-logo_7413.png"
     }
   ]
 }
