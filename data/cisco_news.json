@@ -1,9 +1,36 @@
 {
-  "generated_utc": "2026-11-15T02:37:33.363469Z",
+  "generated_utc": "2026-11-16T02:42:40.673655Z",
   "symbol": "CSCO",
   "company": "Cisco",
-  "article_count": 6,
+  "article_count": 7,
   "articles": [
+    {
+      "title": "US AI Data Centers ‘Are Going to Get Built’ Despite Political Pushback, Says Cisco CEO: ‘Too Important to Our Country’",
+      "summary": "Cisco Systems Inc. Chair and CEO Chuck Robbins said U.S. AI data-center demand has not shifted overseas after the midterms and argued planned projects \"are going to get built,\" adding that the political dynamics around construction \"will get resolved.\" Robbins...",
+      "publisher": "Benzinga",
+      "published_utc": "2026-11-15T22:30:06Z",
+      "url": "https://finance.yahoo.com/technology/ai/articles/us-ai-data-centers-going-223006143.html",
+      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/us-ai-data-centers-going-223006143.html",
+      "thumbnail": "https://media.zenfs.com/en/benzinga_79/e1c6bbbe65b0901273fc5bfd6e644c21.jpg"
+    },
+    {
+      "title": "Cisco Raised Its Earnings Outlook 8%. The Stock Fell 6% Anyway",
+      "summary": "Key TakeawaysCisco raised its fiscal 2027 non-GAAP EPS outlook to $5. 47 to $5.",
+      "publisher": "TIKR",
+      "published_utc": "2026-11-15T08:25:54Z",
+      "url": "https://www.tikr.com/blog/cisco-raised-its-earnings-outlook-8-the-stock-fell-6-anyway?ref=yahoofinance&tlnk=yf-261115-rphhjfjq",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-raised-earnings-outlook-8-082554992.html",
+      "thumbnail": "https://media.zenfs.com/en/tikr_258/7448f0456594a65d72dbe47d77350a18.png"
+    },
+    {
+      "title": "Charter Communications (CHTR) Expands Enterprise Reach With Managed Secure Networking Launch",
+      "summary": "Charter Communications (NasdaqGS:CHTR) Spectrum Business introduced a Managed Cisco Secure Networking solution for enterprise customers in a new service launch. The offer combines Cisco routing hardware with Cisco security capabilities and threat intelligence in a managed subscription package. The service targets business needs around security, network visibility and flexible connectivity within Charter's enterprise networking portfolio. This new Managed Cisco Secure Networking launch is...",
+      "publisher": "Simply Wall St.",
+      "published_utc": "2026-11-15T06:08:07Z",
+      "url": "https://finance.yahoo.com/technology/articles/charter-communications-chtr-expands-enterprise-060807602.html",
+      "yahoo_url": "https://finance.yahoo.com/technology/articles/charter-communications-chtr-expands-enterprise-060807602.html",
+      "thumbnail": "https://media.zenfs.com/en/simply_wall_st__316/1d3360ebb7e1e0298daabc44df22cda0.jpg"
+    },
     {
       "title": "Cisco Just Raised Its AI Forecast Again. Is it a Buy?",
       "summary": "The networking giant's AI business is growing much faster than its valuation suggests.",
@@ -39,24 +66,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-week-scorecard-beats-rewarded-203315112.html",
       "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/earnings-week-scorecard-beats-rewarded-203315112.html",
       "thumbnail": null
-    },
-    {
-      "title": "Cisco earnings analysis: questions answered and next catalysts",
-      "summary": "Investing.com -- Cisco Systems Inc (CSCO) beat on every headline number in FQ1 FY2027 (reported Nov 12, 2026) and still fell. The stock is $95.35, down 6.53% (as of Nov 13, 2:51 PM EST), roughly where it traded before the print and 17% lower over a month.",
-      "publisher": "Investing.com",
-      "published_utc": "2026-11-13T20:32:00Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-earnings-analysis-questions-answered-203200917.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-earnings-analysis-questions-answered-203200917.html",
-      "thumbnail": null
-    },
-    {
-      "title": "Cisco CEO on trusting Nvidia chips after Jensen Huang's exit: 'Absolutely'",
-      "summary": "Cisco (CSCO) CEO Chuck Robbins sits down with Yahoo Finance Executive Editor Brian Sozzi to outline his thoughts on what Nvidia's (NVDA) business and the broader tech landscape might look like without Jensen Huang at the helm.",
-      "publisher": "Yahoo Finance Video",
-      "published_utc": "2026-11-13T20:10:49Z",
-      "url": "https://finance.yahoo.com/video/cisco-ceo-on-trusting-nvidia-chips-after-jensen-huangs-exit-absolutely-201049124.html",
-      "yahoo_url": "https://finance.yahoo.com/video/cisco-ceo-on-trusting-nvidia-chips-after-jensen-huangs-exit-absolutely-201049124.html",
-      "thumbnail": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/prominent-neon-blue-cisco-logo_7413.png"
     }
   ]
 }
