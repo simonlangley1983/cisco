@@ -1,71 +1,80 @@
 {
-  "generated_utc": "2026-11-16T02:42:40.673655Z",
+  "generated_utc": "2026-11-17T05:03:35.917034Z",
   "symbol": "CSCO",
   "company": "Cisco",
-  "article_count": 7,
+  "article_count": 8,
   "articles": [
     {
-      "title": "US AI Data Centers ‘Are Going to Get Built’ Despite Political Pushback, Says Cisco CEO: ‘Too Important to Our Country’",
-      "summary": "Cisco Systems Inc. Chair and CEO Chuck Robbins said U.S. AI data-center demand has not shifted overseas after the midterms and argued planned projects \"are going to get built,\" adding that the political dynamics around construction \"will get resolved.\" Robbins...",
-      "publisher": "Benzinga",
-      "published_utc": "2026-11-15T22:30:06Z",
-      "url": "https://finance.yahoo.com/technology/ai/articles/us-ai-data-centers-going-223006143.html",
-      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/us-ai-data-centers-going-223006143.html",
-      "thumbnail": "https://media.zenfs.com/en/benzinga_79/e1c6bbbe65b0901273fc5bfd6e644c21.jpg"
+      "title": "Cisco CEO Chuck Robbins on the importance of succession planning: 'You don't know what's going to happen'",
+      "summary": "Cisco CEO Chuck Robbins discusses why succession planning is so important.",
+      "publisher": "Yahoo Finance",
+      "published_utc": "2026-11-16T16:40:19Z",
+      "url": "https://finance.yahoo.com/markets/article/cisco-ceo-chuck-robbins-on-the-importance-of-succession-planning-you-dont-know-whats-going-to-happen-164019098.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/article/cisco-ceo-chuck-robbins-on-the-importance-of-succession-planning-you-dont-know-whats-going-to-happen-164019098.html",
+      "thumbnail": "https://s.yimg.com/os/creatr-uploaded-images/2024-10/3a34d030-9604-11ef-9765-87d544f7fa04"
     },
     {
-      "title": "Cisco Raised Its Earnings Outlook 8%. The Stock Fell 6% Anyway",
-      "summary": "Key TakeawaysCisco raised its fiscal 2027 non-GAAP EPS outlook to $5. 47 to $5.",
-      "publisher": "TIKR",
-      "published_utc": "2026-11-15T08:25:54Z",
-      "url": "https://www.tikr.com/blog/cisco-raised-its-earnings-outlook-8-the-stock-fell-6-anyway?ref=yahoofinance&tlnk=yf-261115-rphhjfjq",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-raised-earnings-outlook-8-082554992.html",
-      "thumbnail": "https://media.zenfs.com/en/tikr_258/7448f0456594a65d72dbe47d77350a18.png"
+      "title": "We 'need' AI data centers to be built in the US: Cisco CEO",
+      "summary": "Cisco (CSCO) CEO Chuck Robbins sits down with Yahoo Finance Executive Editor Brian Sozzi to share his thoughts on what the recent midterm election results could mean for the AI data center build-out, and why things need to be handled \"more thoughtfully.\"",
+      "publisher": "Yahoo Finance Video",
+      "published_utc": "2026-11-16T15:42:49Z",
+      "url": "https://finance.yahoo.com/video/we-need-ai-data-centers-to-be-built-in-the-us-cisco-ceo-154249036.html",
+      "yahoo_url": "https://finance.yahoo.com/video/we-need-ai-data-centers-to-be-built-in-the-us-cisco-ceo-154249036.html",
+      "thumbnail": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/yahoo-finance-studio-interview_4009.png_6a0b19c2301032efb52cdc2d9701f2a3b591530d87885299a4d8c437549d815d.png"
     },
     {
-      "title": "Charter Communications (CHTR) Expands Enterprise Reach With Managed Secure Networking Launch",
-      "summary": "Charter Communications (NasdaqGS:CHTR) Spectrum Business introduced a Managed Cisco Secure Networking solution for enterprise customers in a new service launch. The offer combines Cisco routing hardware with Cisco security capabilities and threat intelligence in a managed subscription package. The service targets business needs around security, network visibility and flexible connectivity within Charter's enterprise networking portfolio. This new Managed Cisco Secure Networking launch is...",
+      "title": "A high-stakes week for tech: Anthropic IPO and Nvidia earnings",
+      "summary": "Yahoo Finance Executive Editor Brian Sozzi previews a huge week for the tech market, with Anthropic (ANTH.PVT) set to file for its IPO and Nvidia (NVDA) set to deliver its earnings call as investors brace for results. \n\nSozzi sits down for a 1-on-1 with Cisco (CSCO) CEO Chuck Robbins to look at the state of the tech market, Q1 earnings, and the company's growth.",
+      "publisher": "Yahoo Finance Video",
+      "published_utc": "2026-11-16T15:11:59Z",
+      "url": "https://finance.yahoo.com/video/a-high-stakes-week-for-tech-anthropic-ipo-and-nvidia-earnings-151159744.html",
+      "yahoo_url": "https://finance.yahoo.com/video/a-high-stakes-week-for-tech-anthropic-ipo-and-nvidia-earnings-151159744.html",
+      "thumbnail": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/video-frame-1794841737426_8770.jpg_5268a28c3c3c1901b37c2800680f75d82c7f76ddce6ea9f077ad1d2188a163ec.jpg"
+    },
+    {
+      "title": "Cisco Systems (CSCO) Tied To FAA Ground Stop After Router Failures Hit Flights",
+      "summary": "Cisco Systems (NasdaqGS:CSCO) equipment was cited in an FAA nationwide ground stop that disrupted US flights on 16 November 2026. Preliminary FAA updates linked the outage to router failures in core networking infrastructure that supports air traffic control systems. Federal regulators and aviation operators began reviewing Cisco infrastructure contracts and redundancy practices used in critical air travel operations. This FAA ground stop tied to Cisco networking gear is only one angle on...",
       "publisher": "Simply Wall St.",
-      "published_utc": "2026-11-15T06:08:07Z",
-      "url": "https://finance.yahoo.com/technology/articles/charter-communications-chtr-expands-enterprise-060807602.html",
-      "yahoo_url": "https://finance.yahoo.com/technology/articles/charter-communications-chtr-expands-enterprise-060807602.html",
-      "thumbnail": "https://media.zenfs.com/en/simply_wall_st__316/1d3360ebb7e1e0298daabc44df22cda0.jpg"
+      "published_utc": "2026-11-16T21:14:14Z",
+      "url": "https://finance.yahoo.com/technology/articles/cisco-systems-csco-tied-faa-211414950.html",
+      "yahoo_url": "https://finance.yahoo.com/technology/articles/cisco-systems-csco-tied-faa-211414950.html",
+      "thumbnail": "https://media.zenfs.com/en/simply_wall_st__316/1c255d20731295daa30f844fecdb8657.jpg"
     },
     {
-      "title": "Cisco Just Raised Its AI Forecast Again. Is it a Buy?",
-      "summary": "The networking giant's AI business is growing much faster than its valuation suggests.",
-      "publisher": "Motley Fool",
-      "published_utc": "2026-11-14T13:11:01Z",
-      "url": "https://www.fool.com/investing/2026/11/14/cisco-just-raised-its-ai-forecast-again-is-it-a-buy/",
-      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/cisco-just-raised-ai-forecast-131101044.html",
-      "thumbnail": "https://media.zenfs.com/en/motleyfool.com/1f571fa3eec08966822f877b92d1741d.jpg"
+      "title": "Cisco Systems Had a Stellar Quarter, But CSCO Tumbled - Is It Too Cheap Here?",
+      "summary": "Cisco Systems, which sells cloud and network gear (with an increasing % of sales from software), reported strong quarterly FCF growth and margins, with higher FY guidance. But CSCO fell over 6%. Is it too cheap?",
+      "publisher": "Barchart",
+      "published_utc": "2026-11-16T14:00:03Z",
+      "url": "https://www.barchart.com/story/news/8854901/cisco-systems-had-a-stellar-quarter-but-csco-tumbled-is-it-too-cheap-here",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-had-stellar-quarter-140003217.html",
+      "thumbnail": "https://media.zenfs.com/en/barchart_com_477/bec27416fdbe79bd1eb29e2bdbc3efb1.jpg"
     },
     {
-      "title": "Is Cisco Systems a Buy After Its Latest Earnings Report?",
-      "summary": "For many investors, the company's beat-and-raise first quarter wasn't as impressive as it looked.",
-      "publisher": "Motley Fool",
-      "published_utc": "2026-11-14T08:20:02Z",
-      "url": "https://www.fool.com/investing/2026/11/14/is-cisco-systems-a-buy-after-its-latest-earnings-report/",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-buy-latest-earnings-082002821.html",
-      "thumbnail": "https://media.zenfs.com/en/motleyfool.com/f55d2bd3ec67b47e598591b5d1be32e9.png"
+      "title": "Here is What to Know Beyond Why Cisco Systems, Inc. (CSCO) is a Trending Stock",
+      "summary": "Recently, Zacks.com users have been paying close attention to Cisco (CSCO). This makes it worthwhile to examine what the stock has in store.",
+      "publisher": "Zacks",
+      "published_utc": "2026-11-16T13:00:03Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/know-beyond-why-cisco-systems-130003953.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/know-beyond-why-cisco-systems-130003953.html",
+      "thumbnail": "https://media.zenfs.com/en/zacks.com/ac90b3d74679f6d01a122aa033d8a9a4.jpg"
     },
     {
-      "title": "Nvidia, AMD, Microsoft, Cerebras, Cisco, Modine, and More Stocks That Explain Today’s Market",
-      "summary": "Microsoft rose even as a global outage across the company’s tools impact millions of people.",
-      "publisher": "Barrons.com",
-      "published_utc": "2026-11-13T21:40:00Z",
-      "url": "https://www.barrons.com/articles/stock-movers-9a030e1c?siteid=yhoof2&yptr=yahoo",
-      "yahoo_url": null,
-      "thumbnail": "https://media.zenfs.com/en/Barrons.com/d63d27dde1769452b8cd940a155906bc.jpg"
-    },
-    {
-      "title": "Earnings week scorecard: beats rewarded selectively as AI-infrastructure names pull back",
-      "summary": "Investing.com -- Beats were widespread this week, but the market rewarded only some of them. Cisco and Applied Materials both beat and both sold off. CoreWeave, Rocket Lab and Constellation Energy were rewarded. The week reads as a test of \"beat versus priced-in\" for the AI-infrastructure trade.",
-      "publisher": "Investing.com",
-      "published_utc": "2026-11-13T20:33:15Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-week-scorecard-beats-rewarded-203315112.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/earnings-week-scorecard-beats-rewarded-203315112.html",
+      "title": "53 ETFs Add to Cisco (CSCO) Holdings on Thursday",
+      "summary": "ETFs bought $48.9 million of Cisco stock on Thursday, with 53 buyers against 16 sellers.",
+      "publisher": "GuruFocus.com",
+      "published_utc": "2026-11-16T11:01:24Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/53-etfs-add-cisco-csco-110124280.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/53-etfs-add-cisco-csco-110124280.html",
       "thumbnail": null
+    },
+    {
+      "title": "Cisco posts its best growth in 15 years. Why isn't Wall Street buying?",
+      "summary": "Cisco’s AI business is gaining momentum, but Morgan Stanley sees moderating enterprise orders and other factors that could limit further upside.",
+      "publisher": "TheStreet",
+      "published_utc": "2026-11-16T04:17:00Z",
+      "url": "https://www.thestreet.com/investing/stocks/csco-cisco-morgan-stanley-maintains-price-target-on-cisco-after-strongest-growth-in-15-years",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-posts-best-growth-15-041700221.html",
+      "thumbnail": "https://media.zenfs.com/en/thestreet_881/4bfe745f055ba374ea000f95c4120d6c.jpg"
     }
   ]
 }
