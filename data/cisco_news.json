@@ -1,80 +1,44 @@
 {
-  "generated_utc": "2026-11-17T05:03:35.917034Z",
+  "generated_utc": "2026-11-18T04:14:17.676152Z",
   "symbol": "CSCO",
   "company": "Cisco",
-  "article_count": 8,
+  "article_count": 4,
   "articles": [
     {
-      "title": "Cisco CEO Chuck Robbins on the importance of succession planning: 'You don't know what's going to happen'",
-      "summary": "Cisco CEO Chuck Robbins discusses why succession planning is so important.",
+      "title": "AI industry is 'bigger than one person': Cisco CEO Chuck Robbins",
+      "summary": "Cisco's CEO offers up a good reminder on tech in the wake of the Jensen Huang scandal.",
       "publisher": "Yahoo Finance",
-      "published_utc": "2026-11-16T16:40:19Z",
-      "url": "https://finance.yahoo.com/markets/article/cisco-ceo-chuck-robbins-on-the-importance-of-succession-planning-you-dont-know-whats-going-to-happen-164019098.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/article/cisco-ceo-chuck-robbins-on-the-importance-of-succession-planning-you-dont-know-whats-going-to-happen-164019098.html",
-      "thumbnail": "https://s.yimg.com/os/creatr-uploaded-images/2024-10/3a34d030-9604-11ef-9765-87d544f7fa04"
+      "published_utc": "2026-11-17T18:20:51Z",
+      "url": "https://finance.yahoo.com/technology/article/ai-industry-is-bigger-than-one-person-cisco-ceo-chuck-robbins-182051404.html",
+      "yahoo_url": "https://finance.yahoo.com/technology/article/ai-industry-is-bigger-than-one-person-cisco-ceo-chuck-robbins-182051404.html",
+      "thumbnail": "https://d29szjachogqwa.cloudfront.net/images/2026-11/3e25f1de-c68d-4b2f-bc07-60517fe98431"
     },
     {
-      "title": "We 'need' AI data centers to be built in the US: Cisco CEO",
-      "summary": "Cisco (CSCO) CEO Chuck Robbins sits down with Yahoo Finance Executive Editor Brian Sozzi to share his thoughts on what the recent midterm election results could mean for the AI data center build-out, and why things need to be handled \"more thoughtfully.\"",
-      "publisher": "Yahoo Finance Video",
-      "published_utc": "2026-11-16T15:42:49Z",
-      "url": "https://finance.yahoo.com/video/we-need-ai-data-centers-to-be-built-in-the-us-cisco-ceo-154249036.html",
-      "yahoo_url": "https://finance.yahoo.com/video/we-need-ai-data-centers-to-be-built-in-the-us-cisco-ceo-154249036.html",
-      "thumbnail": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/yahoo-finance-studio-interview_4009.png_6a0b19c2301032efb52cdc2d9701f2a3b591530d87885299a4d8c437549d815d.png"
-    },
-    {
-      "title": "A high-stakes week for tech: Anthropic IPO and Nvidia earnings",
-      "summary": "Yahoo Finance Executive Editor Brian Sozzi previews a huge week for the tech market, with Anthropic (ANTH.PVT) set to file for its IPO and Nvidia (NVDA) set to deliver its earnings call as investors brace for results. \n\nSozzi sits down for a 1-on-1 with Cisco (CSCO) CEO Chuck Robbins to look at the state of the tech market, Q1 earnings, and the company's growth.",
-      "publisher": "Yahoo Finance Video",
-      "published_utc": "2026-11-16T15:11:59Z",
-      "url": "https://finance.yahoo.com/video/a-high-stakes-week-for-tech-anthropic-ipo-and-nvidia-earnings-151159744.html",
-      "yahoo_url": "https://finance.yahoo.com/video/a-high-stakes-week-for-tech-anthropic-ipo-and-nvidia-earnings-151159744.html",
-      "thumbnail": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/video-frame-1794841737426_8770.jpg_5268a28c3c3c1901b37c2800680f75d82c7f76ddce6ea9f077ad1d2188a163ec.jpg"
-    },
-    {
-      "title": "Cisco Systems (CSCO) Tied To FAA Ground Stop After Router Failures Hit Flights",
-      "summary": "Cisco Systems (NasdaqGS:CSCO) equipment was cited in an FAA nationwide ground stop that disrupted US flights on 16 November 2026. Preliminary FAA updates linked the outage to router failures in core networking infrastructure that supports air traffic control systems. Federal regulators and aviation operators began reviewing Cisco infrastructure contracts and redundancy practices used in critical air travel operations. This FAA ground stop tied to Cisco networking gear is only one angle on...",
+      "title": "Cisco (CSCO) Stock Gets Fair Value Trim As Analysts Cut Targets After Strong Q1",
+      "summary": "Cisco Systems is working through a reset in expectations, with fair value in current models moving from US$137.25 to US$129.96. Recent research links this shift to a mixed but constructive analyst narrative, where trimmed price targets sit alongside comments about solid execution, resilient margins, and sizeable AI and networking opportunities. As you read on, you will see how these evolving views on Cisco Systems are shaping the story that investors are tracking now. Analyst Price Targets...",
       "publisher": "Simply Wall St.",
-      "published_utc": "2026-11-16T21:14:14Z",
-      "url": "https://finance.yahoo.com/technology/articles/cisco-systems-csco-tied-faa-211414950.html",
-      "yahoo_url": "https://finance.yahoo.com/technology/articles/cisco-systems-csco-tied-faa-211414950.html",
+      "published_utc": "2026-11-17T22:10:08Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-csco-stock-gets-fair-221008598.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-csco-stock-gets-fair-221008598.html",
       "thumbnail": "https://media.zenfs.com/en/simply_wall_st__316/1c255d20731295daa30f844fecdb8657.jpg"
     },
     {
-      "title": "Cisco Systems Had a Stellar Quarter, But CSCO Tumbled - Is It Too Cheap Here?",
-      "summary": "Cisco Systems, which sells cloud and network gear (with an increasing % of sales from software), reported strong quarterly FCF growth and margins, with higher FY guidance. But CSCO fell over 6%. Is it too cheap?",
-      "publisher": "Barchart",
-      "published_utc": "2026-11-16T14:00:03Z",
-      "url": "https://www.barchart.com/story/news/8854901/cisco-systems-had-a-stellar-quarter-but-csco-tumbled-is-it-too-cheap-here",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-had-stellar-quarter-140003217.html",
-      "thumbnail": "https://media.zenfs.com/en/barchart_com_477/bec27416fdbe79bd1eb29e2bdbc3efb1.jpg"
+      "title": "Why Cisco Systems, Inc. (CSCO) Deserves a Place on Your Long-Term Technology Watch List",
+      "summary": "We just published our list, Ken Fisher Portfolio Review: 10 Highest-Conviction Technology Stocks for Long-Term Growth, and Cisco Systems, Inc. ranked 10th on this list. Ken Fisher, founder and former CEO of Fisher Asset Management, has historically maintained a constructive, growth-oriented view of technology stocks. His investment philosophy centers around companies with strong long-term growth […]",
+      "publisher": "Insider Monkey",
+      "published_utc": "2026-11-17T20:21:17Z",
+      "url": "https://finance.yahoo.com/technology/articles/why-cisco-systems-inc-csco-202117829.html",
+      "yahoo_url": "https://finance.yahoo.com/technology/articles/why-cisco-systems-inc-csco-202117829.html",
+      "thumbnail": "https://media.zenfs.com/en/insidermonkey.com/1d8066761f6b50c3060f412d15b75ecd.jpg"
     },
     {
-      "title": "Here is What to Know Beyond Why Cisco Systems, Inc. (CSCO) is a Trending Stock",
-      "summary": "Recently, Zacks.com users have been paying close attention to Cisco (CSCO). This makes it worthwhile to examine what the stock has in store.",
+      "title": "Cisco Systems & 2 Momentum Stocks to Buy Now for Big Upside",
+      "summary": "The Driehaus momentum strategy picks Cisco Systems, Arista Networks and TechnipFMC as top picks, backed by solid earnings growth and positive momentum signals.",
       "publisher": "Zacks",
-      "published_utc": "2026-11-16T13:00:03Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/know-beyond-why-cisco-systems-130003953.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/know-beyond-why-cisco-systems-130003953.html",
-      "thumbnail": "https://media.zenfs.com/en/zacks.com/ac90b3d74679f6d01a122aa033d8a9a4.jpg"
-    },
-    {
-      "title": "53 ETFs Add to Cisco (CSCO) Holdings on Thursday",
-      "summary": "ETFs bought $48.9 million of Cisco stock on Thursday, with 53 buyers against 16 sellers.",
-      "publisher": "GuruFocus.com",
-      "published_utc": "2026-11-16T11:01:24Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/53-etfs-add-cisco-csco-110124280.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/53-etfs-add-cisco-csco-110124280.html",
-      "thumbnail": null
-    },
-    {
-      "title": "Cisco posts its best growth in 15 years. Why isn't Wall Street buying?",
-      "summary": "Cisco’s AI business is gaining momentum, but Morgan Stanley sees moderating enterprise orders and other factors that could limit further upside.",
-      "publisher": "TheStreet",
-      "published_utc": "2026-11-16T04:17:00Z",
-      "url": "https://www.thestreet.com/investing/stocks/csco-cisco-morgan-stanley-maintains-price-target-on-cisco-after-strongest-growth-in-15-years",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-posts-best-growth-15-041700221.html",
-      "thumbnail": "https://media.zenfs.com/en/thestreet_881/4bfe745f055ba374ea000f95c4120d6c.jpg"
+      "published_utc": "2026-11-17T19:00:00Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-2-momentum-stocks-190000090.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-2-momentum-stocks-190000090.html",
+      "thumbnail": "https://media.zenfs.com/en/zacks.com/75701a0cb7cb5c2a9a21e2ae671472f5.jpg"
     }
   ]
 }
