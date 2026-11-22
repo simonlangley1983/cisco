@@ -1,9 +1,27 @@
 {
-  "generated_utc": "2026-11-21T03:56:31.870328Z",
+  "generated_utc": "2026-11-22T03:05:18.103379Z",
   "symbol": "CSCO",
   "company": "Cisco",
-  "article_count": 5,
+  "article_count": 4,
   "articles": [
+    {
+      "title": "Cisco Stock Fell 15.5% Despite Its Strongest Growth in 15 Years. Is the Dividend Safe?",
+      "summary": "Cisco just posted its best growth in over 15 years, yet investors rushed for the exits. For income seekers, the real question is what the numbers behind that payout reveal, and which lever management would pull first if demand cools.",
+      "publisher": "24/7 Wall St.",
+      "published_utc": "2026-11-21T21:47:55Z",
+      "url": "https://247wallst.com/investing/2026/11/21/cisco-stock-fell-15-5-despite-its-strongest-growth-in-15-years-is-the-dividend-safe/",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-stock-fell-15-5-214755324.html",
+      "thumbnail": "https://media.zenfs.com/en/24_7_wall_st__718/9131f06bb62a81425dcbcbc7fab970dd.jpg"
+    },
+    {
+      "title": "Cisco vs. HPE: One Has Better Financials, the Other Has 93% Upside. Which Stock Wins?",
+      "summary": "Cisco and HPE both power the AI buildout and pay dividends. We compare their financials, payouts, and analyst targets to find the better buy.",
+      "publisher": "Barchart",
+      "published_utc": "2026-11-21T00:00:03Z",
+      "url": "https://www.barchart.com/story/news/8944748/cisco-vs-hpe-one-has-better-financials-the-other-has-93-upside-which-stock-wins",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-vs-hpe-one-better-000003483.html",
+      "thumbnail": "https://media.zenfs.com/en/barchart_com_477/2f8c2928a5e3383584a0d582ae3789dc.jpg"
+    },
     {
       "title": "How Investors May Respond To Cisco Stock After Earnings Beat",
       "summary": "Cisco Systems reported past Q1 FY2027 results with revenue of US$18.5b, net income of US$4.6b, higher EPS than a year earlier, raised full year guidance, and a higher AI infrastructure outlook alongside new AI focused alliances with DXC Technology and Qumulo. The combination of stronger fundamentals, Cisco's US$9b AI infrastructure revenue target from hyperscalers and real world security and IT operations partnerships signals heavier reliance on AI driven networking and software to support...",
@@ -21,33 +39,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-inc-csco-posted-172223888.html",
       "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-inc-csco-posted-172223888.html",
       "thumbnail": "https://media.zenfs.com/en/insidermonkey.com/24c2be068e7ea5a7fe1148f1fbfc9a04.jpg"
-    },
-    {
-      "title": "Cisco Fell 89%. Is Nvidia Stock Next?",
-      "summary": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks.",
-      "publisher": "Trefis",
-      "published_utc": "2026-11-20T14:03:25Z",
-      "url": "https://www.trefis.com/stock/nvda/articles/626552/cisco-fell-89-is-nvidia-stock-next/2026-11-20",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-fell-89-nvidia-stock-140325020.html",
-      "thumbnail": "https://media.zenfs.com/en/trefis_142/c4903bfbeafe212739065f83a917fbc7.jpg"
-    },
-    {
-      "title": "The Zacks Analyst Blog Highlights Cisco, UnitedHealth and Salesforce",
-      "summary": "Cisco, UnitedHealth and Salesforce are included in this Analyst Blog.",
-      "publisher": "Zacks",
-      "published_utc": "2026-11-20T13:42:00Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-cisco-134200852.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-cisco-134200852.html",
-      "thumbnail": "https://media.zenfs.com/en/zacks.com/343791033106522177ca35d2a4d67ce3.jpg_up.jpg"
-    },
-    {
-      "title": "Anthropic Defies Tech Rout On Debut — Tom Lee Sees ‘Big Payoff’ Ahead And Says Cisco’s Wild 1997 Ride Shows Why",
-      "summary": "After six straight S&P 500 losses, Lee noted that the index rose the following week in all 10 prior cases he analyzed.",
-      "publisher": "Stocktwits",
-      "published_utc": "2026-11-20T05:18:58Z",
-      "url": "https://stocktwits.com/news-articles/markets/equity/anthropic-defies-tech-rout-debut-tom-lee-big-payoff-cisco-1997-ride/cNbS5vFR9K4",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-defies-tech-rout-debut-051858481.html",
-      "thumbnail": "https://media.zenfs.com/en/stocktwits_383/c59a791d07eaa24652d0fea59a189db9.jpg"
     }
   ]
 }
