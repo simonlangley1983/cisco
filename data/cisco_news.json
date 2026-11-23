@@ -1,9 +1,18 @@
 {
-  "generated_utc": "2026-11-22T03:05:18.103379Z",
+  "generated_utc": "2026-11-23T03:42:15.565953Z",
   "symbol": "CSCO",
   "company": "Cisco",
   "article_count": 4,
   "articles": [
+    {
+      "title": "Is Nvidia the Next Cisco? What the Dot-Com Crash Says About the AI Sell-Off",
+      "summary": "Nvidia posted a blockbuster quarter, yet its stock has cratered 41% in a month, and Wall Street keeps whispering Cisco. One set of numbers cuts against the chart, and one upcoming forecast could decide which story wins.",
+      "publisher": "24/7 Wall St.",
+      "published_utc": "2026-11-22T14:06:07Z",
+      "url": "https://247wallst.com/investing/2026/11/22/is-nvidia-the-next-cisco-what-the-dot-com-crash-says-about-the-ai-sell-off/",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-next-cisco-dot-com-140607621.html",
+      "thumbnail": "https://media.zenfs.com/en/24_7_wall_st__718/89e4ed3d7154e47be50e4e4338b42f40"
+    },
     {
       "title": "Cisco Stock Fell 15.5% Despite Its Strongest Growth in 15 Years. Is the Dividend Safe?",
       "summary": "Cisco just posted its best growth in over 15 years, yet investors rushed for the exits. For income seekers, the real question is what the numbers behind that payout reveal, and which lever management would pull first if demand cools.",
@@ -30,15 +39,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-cisco-stock-191220194.html",
       "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-cisco-stock-191220194.html",
       "thumbnail": "https://media.zenfs.com/en/simply_wall_st__316/1c255d20731295daa30f844fecdb8657.jpg"
-    },
-    {
-      "title": "Cisco Systems, Inc. (CSCO) Posted Record $17.3 Billion Revenue, but Margins Slipped: Is the Stock Still Worth Buying?",
-      "summary": "Investment management company First Pacific Advisors recently released its “FPA Queens Road Value Fund” Q3 2026 investor letter. A copy of the letter can be downloaded here. The Fund returned -1.82% in the third quarter of 2026, underperforming the S&P 500 Value Index, which gained 0.90%, while its year-to-date return reached 9.16%, slightly ahead of the […]",
-      "publisher": "Insider Monkey",
-      "published_utc": "2026-11-20T17:22:23Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-inc-csco-posted-172223888.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-inc-csco-posted-172223888.html",
-      "thumbnail": "https://media.zenfs.com/en/insidermonkey.com/24c2be068e7ea5a7fe1148f1fbfc9a04.jpg"
     }
   ]
 }
