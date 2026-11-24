@@ -1,44 +1,44 @@
 {
-  "generated_utc": "2026-11-23T03:42:15.565953Z",
+  "generated_utc": "2026-11-24T06:56:42.553005Z",
   "symbol": "CSCO",
   "company": "Cisco",
   "article_count": 4,
   "articles": [
     {
-      "title": "Is Nvidia the Next Cisco? What the Dot-Com Crash Says About the AI Sell-Off",
-      "summary": "Nvidia posted a blockbuster quarter, yet its stock has cratered 41% in a month, and Wall Street keeps whispering Cisco. One set of numbers cuts against the chart, and one upcoming forecast could decide which story wins.",
-      "publisher": "24/7 Wall St.",
-      "published_utc": "2026-11-22T14:06:07Z",
-      "url": "https://247wallst.com/investing/2026/11/22/is-nvidia-the-next-cisco-what-the-dot-com-crash-says-about-the-ai-sell-off/",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-next-cisco-dot-com-140607621.html",
-      "thumbnail": "https://media.zenfs.com/en/24_7_wall_st__718/89e4ed3d7154e47be50e4e4338b42f40"
+      "title": "OpenAI & Cisco team up on AI defense system 'Shirudo': Learn more from these execs",
+      "summary": "Cisco (CSCO) and OpenAI (OPAI.PVT) are partnering on Shirudo, a defense system against AI-powered cyberattacks.\n\nCisco president and chief product officer Jeetu Patel and OpenAI co-founder and president Greg Brockman sit down with Deirdre Bosa to discuss the details.",
+      "publisher": "Yahoo Finance Video",
+      "published_utc": "2026-11-23T22:01:44Z",
+      "url": "https://finance.yahoo.com/video/openai--cisco-team-up-on-ai-defense-system-shirudo-learn-more-from-these-execs-220144119.html",
+      "yahoo_url": "https://finance.yahoo.com/video/openai--cisco-team-up-on-ai-defense-system-shirudo-learn-more-from-these-execs-220144119.html",
+      "thumbnail": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/three-panel-broadcast-split-screen_7678.png"
     },
     {
-      "title": "Cisco Stock Fell 15.5% Despite Its Strongest Growth in 15 Years. Is the Dividend Safe?",
-      "summary": "Cisco just posted its best growth in over 15 years, yet investors rushed for the exits. For income seekers, the real question is what the numbers behind that payout reveal, and which lever management would pull first if demand cools.",
-      "publisher": "24/7 Wall St.",
-      "published_utc": "2026-11-21T21:47:55Z",
-      "url": "https://247wallst.com/investing/2026/11/21/cisco-stock-fell-15-5-despite-its-strongest-growth-in-15-years-is-the-dividend-safe/",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-stock-fell-15-5-214755324.html",
-      "thumbnail": "https://media.zenfs.com/en/24_7_wall_st__718/9131f06bb62a81425dcbcbc7fab970dd.jpg"
+      "title": "Can Cisco Stock Hit $120?",
+      "summary": "For questions about this article or underlying research, email help@trefis.com.",
+      "publisher": "Trefis",
+      "published_utc": "2026-11-24T05:06:42Z",
+      "url": "https://www.trefis.com/stock/csco/articles/627586/can-cisco-stock-hit-120/2026-11-23",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-stock-hit-120-050642947.html",
+      "thumbnail": "https://media.zenfs.com/en/trefis_142/2c6894e9b1f31fd3ead7fb164f67793e.jpg"
     },
     {
-      "title": "Cisco vs. HPE: One Has Better Financials, the Other Has 93% Upside. Which Stock Wins?",
-      "summary": "Cisco and HPE both power the AI buildout and pay dividends. We compare their financials, payouts, and analyst targets to find the better buy.",
-      "publisher": "Barchart",
-      "published_utc": "2026-11-21T00:00:03Z",
-      "url": "https://www.barchart.com/story/news/8944748/cisco-vs-hpe-one-has-better-financials-the-other-has-93-upside-which-stock-wins",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-vs-hpe-one-better-000003483.html",
-      "thumbnail": "https://media.zenfs.com/en/barchart_com_477/2f8c2928a5e3383584a0d582ae3789dc.jpg"
+      "title": "Why Motorola's Premium Over Cisco Is Harder To Justify",
+      "summary": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92.",
+      "publisher": "Trefis",
+      "published_utc": "2026-11-24T00:02:46Z",
+      "url": "https://www.trefis.com/stock/msi/articles/627543/why-motorola-s-premium-over-cisco-is-harder-to-justify/2026-11-23",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/why-motorolas-premium-over-cisco-000246777.html",
+      "thumbnail": "https://media.zenfs.com/en/trefis_142/197a162f5d169706f1de042eea786aec.jpg"
     },
     {
-      "title": "How Investors May Respond To Cisco Stock After Earnings Beat",
-      "summary": "Cisco Systems reported past Q1 FY2027 results with revenue of US$18.5b, net income of US$4.6b, higher EPS than a year earlier, raised full year guidance, and a higher AI infrastructure outlook alongside new AI focused alliances with DXC Technology and Qumulo. The combination of stronger fundamentals, Cisco's US$9b AI infrastructure revenue target from hyperscalers and real world security and IT operations partnerships signals heavier reliance on AI driven networking and software to support...",
-      "publisher": "Simply Wall St.",
-      "published_utc": "2026-11-20T19:12:20Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-cisco-stock-191220194.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-cisco-stock-191220194.html",
-      "thumbnail": "https://media.zenfs.com/en/simply_wall_st__316/1c255d20731295daa30f844fecdb8657.jpg"
+      "title": "Cisco, OpenAI Launch Project to Safeguard Agentic AI",
+      "summary": "The project, called Shirudo, helps protect running Linux systems without a reboot while teams roll out a patch.",
+      "publisher": "The Wall Street Journal",
+      "published_utc": "2026-11-23T22:12:00Z",
+      "url": "https://www.wsj.com/tech/cisco-openai-launch-project-to-safeguard-agentic-ai-f48e6420?siteid=yhoof2&yptr=yahoo",
+      "yahoo_url": null,
+      "thumbnail": "https://media.zenfs.com/en/wsj.com/ad5d1e873af20f2c10891da9621757b0.jpg_up.jpg"
     }
   ]
 }
