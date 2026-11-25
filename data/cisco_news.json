@@ -1,44 +1,44 @@
 {
-  "generated_utc": "2026-11-24T06:56:42.553005Z",
+  "generated_utc": "2026-11-25T05:24:45.921194Z",
   "symbol": "CSCO",
   "company": "Cisco",
   "article_count": 4,
   "articles": [
     {
-      "title": "OpenAI & Cisco team up on AI defense system 'Shirudo': Learn more from these execs",
-      "summary": "Cisco (CSCO) and OpenAI (OPAI.PVT) are partnering on Shirudo, a defense system against AI-powered cyberattacks.\n\nCisco president and chief product officer Jeetu Patel and OpenAI co-founder and president Greg Brockman sit down with Deirdre Bosa to discuss the details.",
-      "publisher": "Yahoo Finance Video",
-      "published_utc": "2026-11-23T22:01:44Z",
-      "url": "https://finance.yahoo.com/video/openai--cisco-team-up-on-ai-defense-system-shirudo-learn-more-from-these-execs-220144119.html",
-      "yahoo_url": "https://finance.yahoo.com/video/openai--cisco-team-up-on-ai-defense-system-shirudo-learn-more-from-these-execs-220144119.html",
-      "thumbnail": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/three-panel-broadcast-split-screen_7678.png"
+      "title": "Cisco Systems (CSCO) Unveils Shirudo for Real Time AI Cyber Defense",
+      "summary": "Cisco Systems (NasdaqGS: CSCO) and OpenAI announced Shirudo, a self-defending AI cybersecurity system for enterprises. Shirudo uses eBPF based agents to observe low level infrastructure activity and trigger real time automated threat responses. The platform is released as open source software, inviting enterprise security teams and developers to contribute and extend its capabilities. The Shirudo launch with OpenAI sits alongside broader shifts in Cisco's AI security positioning that recent...",
+      "publisher": "Simply Wall St.",
+      "published_utc": "2026-11-25T01:14:19Z",
+      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-systems-csco-unveils-shirudo-011419803.html",
+      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/cisco-systems-csco-unveils-shirudo-011419803.html",
+      "thumbnail": "https://media.zenfs.com/en/simply_wall_st__316/1c255d20731295daa30f844fecdb8657.jpg"
     },
     {
-      "title": "Can Cisco Stock Hit $120?",
-      "summary": "For questions about this article or underlying research, email help@trefis.com.",
+      "title": "Cisco (CSCO) Stock May Be 29% Undervalued As AI Security News Builds",
+      "summary": "Cisco Systems has delivered strong multi year share gains. With a recent pullback on the chart, the key question is whether the current price still aligns with the cash the business is expected to generate. Over the past 3 years, Cisco Systems has returned about 112%. This places significant focus on whether that share price climb is supported by the durability and level of its future cash flows. Fresh partnerships around AI driven networking and security, including projects like Shirudo and...",
+      "publisher": "Simply Wall St.",
+      "published_utc": "2026-11-25T00:20:31Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-csco-stock-may-29-002031349.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-csco-stock-may-29-002031349.html",
+      "thumbnail": "https://media.zenfs.com/en/simply_wall_st__316/1c255d20731295daa30f844fecdb8657.jpg"
+    },
+    {
+      "title": "Why Did Cisco Stock Jump?",
+      "summary": "Today's big story: Nvidia Added $954 Billion In A Day. Is Jensen Huang Too Big To Fire.",
       "publisher": "Trefis",
-      "published_utc": "2026-11-24T05:06:42Z",
-      "url": "https://www.trefis.com/stock/csco/articles/627586/can-cisco-stock-hit-120/2026-11-23",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-stock-hit-120-050642947.html",
-      "thumbnail": "https://media.zenfs.com/en/trefis_142/2c6894e9b1f31fd3ead7fb164f67793e.jpg"
+      "published_utc": "2026-11-24T17:31:08Z",
+      "url": "https://www.trefis.com/stock/csco/articles/628631/why-did-cisco-stock-jump/2026-11-24",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/why-did-cisco-stock-jump-173108627.html",
+      "thumbnail": null
     },
     {
-      "title": "Why Motorola's Premium Over Cisco Is Harder To Justify",
-      "summary": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92.",
-      "publisher": "Trefis",
-      "published_utc": "2026-11-24T00:02:46Z",
-      "url": "https://www.trefis.com/stock/msi/articles/627543/why-motorola-s-premium-over-cisco-is-harder-to-justify/2026-11-23",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/why-motorolas-premium-over-cisco-000246777.html",
-      "thumbnail": "https://media.zenfs.com/en/trefis_142/197a162f5d169706f1de042eea786aec.jpg"
-    },
-    {
-      "title": "Cisco, OpenAI Launch Project to Safeguard Agentic AI",
-      "summary": "The project, called Shirudo, helps protect running Linux systems without a reboot while teams roll out a patch.",
-      "publisher": "The Wall Street Journal",
-      "published_utc": "2026-11-23T22:12:00Z",
-      "url": "https://www.wsj.com/tech/cisco-openai-launch-project-to-safeguard-agentic-ai-f48e6420?siteid=yhoof2&yptr=yahoo",
-      "yahoo_url": null,
-      "thumbnail": "https://media.zenfs.com/en/wsj.com/ad5d1e873af20f2c10891da9621757b0.jpg_up.jpg"
+      "title": "The Zacks Analyst Blog Highlights NVIDIA, Cisco Systems, BHP, GEE and Tandy Leather Factory",
+      "summary": "NVIDIA rides AI computing demand, Cisco benefits from networking upgrades and BHP taps low-cost iron ore and copper growth, but challenges cloud their outlooks.",
+      "publisher": "Zacks",
+      "published_utc": "2026-11-24T14:25:00Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-nvidia-142500168.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-nvidia-142500168.html",
+      "thumbnail": "https://media.zenfs.com/en/zacks.com/6d9e676bfa949d34d87584464569b788.jpg_up.jpg"
     }
   ]
 }
