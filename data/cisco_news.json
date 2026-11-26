@@ -1,44 +1,26 @@
 {
-  "generated_utc": "2026-11-25T05:24:45.921194Z",
+  "generated_utc": "2026-11-26T04:59:05.092260Z",
   "symbol": "CSCO",
   "company": "Cisco",
-  "article_count": 4,
+  "article_count": 2,
   "articles": [
     {
-      "title": "Cisco Systems (CSCO) Unveils Shirudo for Real Time AI Cyber Defense",
-      "summary": "Cisco Systems (NasdaqGS: CSCO) and OpenAI announced Shirudo, a self-defending AI cybersecurity system for enterprises. Shirudo uses eBPF based agents to observe low level infrastructure activity and trigger real time automated threat responses. The platform is released as open source software, inviting enterprise security teams and developers to contribute and extend its capabilities. The Shirudo launch with OpenAI sits alongside broader shifts in Cisco's AI security positioning that recent...",
-      "publisher": "Simply Wall St.",
-      "published_utc": "2026-11-25T01:14:19Z",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-systems-csco-unveils-shirudo-011419803.html",
-      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/cisco-systems-csco-unveils-shirudo-011419803.html",
-      "thumbnail": "https://media.zenfs.com/en/simply_wall_st__316/1c255d20731295daa30f844fecdb8657.jpg"
-    },
-    {
-      "title": "Cisco (CSCO) Stock May Be 29% Undervalued As AI Security News Builds",
-      "summary": "Cisco Systems has delivered strong multi year share gains. With a recent pullback on the chart, the key question is whether the current price still aligns with the cash the business is expected to generate. Over the past 3 years, Cisco Systems has returned about 112%. This places significant focus on whether that share price climb is supported by the durability and level of its future cash flows. Fresh partnerships around AI driven networking and security, including projects like Shirudo and...",
-      "publisher": "Simply Wall St.",
-      "published_utc": "2026-11-25T00:20:31Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-csco-stock-may-29-002031349.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-csco-stock-may-29-002031349.html",
-      "thumbnail": "https://media.zenfs.com/en/simply_wall_st__316/1c255d20731295daa30f844fecdb8657.jpg"
-    },
-    {
-      "title": "Why Did Cisco Stock Jump?",
-      "summary": "Today's big story: Nvidia Added $954 Billion In A Day. Is Jensen Huang Too Big To Fire.",
-      "publisher": "Trefis",
-      "published_utc": "2026-11-24T17:31:08Z",
-      "url": "https://www.trefis.com/stock/csco/articles/628631/why-did-cisco-stock-jump/2026-11-24",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/why-did-cisco-stock-jump-173108627.html",
-      "thumbnail": null
-    },
-    {
-      "title": "The Zacks Analyst Blog Highlights NVIDIA, Cisco Systems, BHP, GEE and Tandy Leather Factory",
-      "summary": "NVIDIA rides AI computing demand, Cisco benefits from networking upgrades and BHP taps low-cost iron ore and copper growth, but challenges cloud their outlooks.",
+      "title": "Cisco Gains From AI Networking Boom: Can It Outpace HPE & ANET?",
+      "summary": "CSCO rides on AI networking boom with surging revenues, hyperscaler design wins and an expanding portfolio.",
       "publisher": "Zacks",
-      "published_utc": "2026-11-24T14:25:00Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-nvidia-142500168.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-nvidia-142500168.html",
-      "thumbnail": "https://media.zenfs.com/en/zacks.com/6d9e676bfa949d34d87584464569b788.jpg_up.jpg"
+      "published_utc": "2026-11-25T15:29:00Z",
+      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-gains-ai-networking-boom-152900428.html",
+      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/cisco-gains-ai-networking-boom-152900428.html",
+      "thumbnail": "https://media.zenfs.com/en/zacks.com/77a053cf2d2dc44c2e658d9c7a167193.jpg_up.jpg"
+    },
+    {
+      "title": "$300,000 in IBM, Merck and Cisco Could Pay More Than $7,000 a Year in Dividends",
+      "summary": "One Dow giant just handed shareholders a raise, while another faces a patent cliff and a third leans on AI spending that could vanish fast. Which dividend check is safest, and which one hides the biggest risk?",
+      "publisher": "24/7 Wall St.",
+      "published_utc": "2026-11-25T14:17:38Z",
+      "url": "https://247wallst.com/investing/2026/11/25/300000-in-ibm-merck-and-cisco-could-pay-more-than-7000-a-year-in-dividends/",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/300-000-ibm-merck-cisco-141738603.html",
+      "thumbnail": "https://media.zenfs.com/en/24_7_wall_st__718/bb7063731612429f2ef033e276f2e0e1.jpg"
     }
   ]
 }
