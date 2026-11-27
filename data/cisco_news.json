@@ -1,26 +1,35 @@
 {
-  "generated_utc": "2026-11-26T04:59:05.092260Z",
+  "generated_utc": "2026-11-27T04:59:16.374047Z",
   "symbol": "CSCO",
   "company": "Cisco",
-  "article_count": 2,
+  "article_count": 3,
   "articles": [
     {
-      "title": "Cisco Gains From AI Networking Boom: Can It Outpace HPE & ANET?",
-      "summary": "CSCO rides on AI networking boom with surging revenues, hyperscaler design wins and an expanding portfolio.",
-      "publisher": "Zacks",
-      "published_utc": "2026-11-25T15:29:00Z",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-gains-ai-networking-boom-152900428.html",
-      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/cisco-gains-ai-networking-boom-152900428.html",
-      "thumbnail": "https://media.zenfs.com/en/zacks.com/77a053cf2d2dc44c2e658d9c7a167193.jpg_up.jpg"
+      "title": "Is Cisco Among the Morgan Stanley’s 8 Best Networking & Optical Communications Stocks to Buy for 2027?",
+      "summary": "Our list of Morgan Stanley’s 8 Best Networking & Optical Communications Stocks to Buy for 2027, with Cisco Systems, Inc. (NASDAQ:CSCO) ranking eighth. Cloud operators sharply increased purchases of optical transport equipment in the third quarter of 2026. In its recent market update, Dell’Oro Group reported that vendors grew revenue from large North American cloud […]",
+      "publisher": "Insider Monkey",
+      "published_utc": "2026-11-27T04:12:34Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-among-morgan-stanley-8-041234343.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-among-morgan-stanley-8-041234343.html",
+      "thumbnail": "https://media.zenfs.com/en/insidermonkey.com/716463dd517c5151c4d11d74b5c8eb7e.jpg"
     },
     {
-      "title": "$300,000 in IBM, Merck and Cisco Could Pay More Than $7,000 a Year in Dividends",
-      "summary": "One Dow giant just handed shareholders a raise, while another faces a patent cliff and a third leans on AI spending that could vanish fast. Which dividend check is safest, and which one hides the biggest risk?",
-      "publisher": "24/7 Wall St.",
-      "published_utc": "2026-11-25T14:17:38Z",
-      "url": "https://247wallst.com/investing/2026/11/25/300000-in-ibm-merck-and-cisco-could-pay-more-than-7000-a-year-in-dividends/",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/300-000-ibm-merck-cisco-141738603.html",
-      "thumbnail": "https://media.zenfs.com/en/24_7_wall_st__718/bb7063731612429f2ef033e276f2e0e1.jpg"
+      "title": "Ken Fisher and 13 Other Big Funds Bought Cisco Last Quarter, While 11 Sold. Who’s Right?",
+      "summary": "Key TakeawaysOf the 460 big funds that have filed 13Fs for the quarter ended Sept. 30, 14 bought Cisco and 11 sold it, with Ken Fisher’s Fisher Investments making the biggest buy.",
+      "publisher": "TIKR",
+      "published_utc": "2026-11-26T18:41:07Z",
+      "url": "https://www.tikr.com/blog/ken-fisher-and-13-other-big-funds-bought-cisco-last-quarter-while-11-sold-whos-right?ref=yahoofinance&tlnk=yf-261126-h4726jcf",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/ken-fisher-13-other-big-184107625.html",
+      "thumbnail": "https://media.zenfs.com/en/tikr_258/895c80afac24dba2b3ea1ceb41859830"
+    },
+    {
+      "title": "ETFs Bought $63.9 Million of Cisco (CSCO) on Nov. 24",
+      "summary": "66 ETFs bought Cisco shares versus 19 that sold on Tuesday, Nov. 24.",
+      "publisher": "GuruFocus.com",
+      "published_utc": "2026-11-26T11:00:59Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-bought-63-9-million-110059108.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/etfs-bought-63-9-million-110059108.html",
+      "thumbnail": null
     }
   ]
 }
