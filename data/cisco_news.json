@@ -1,35 +1,80 @@
 {
-  "generated_utc": "2026-11-27T04:59:16.374047Z",
+  "generated_utc": "2026-11-28T04:43:11.156971Z",
   "symbol": "CSCO",
   "company": "Cisco",
-  "article_count": 3,
+  "article_count": 8,
   "articles": [
     {
-      "title": "Is Cisco Among the Morgan Stanley’s 8 Best Networking & Optical Communications Stocks to Buy for 2027?",
-      "summary": "Our list of Morgan Stanley’s 8 Best Networking & Optical Communications Stocks to Buy for 2027, with Cisco Systems, Inc. (NASDAQ:CSCO) ranking eighth. Cloud operators sharply increased purchases of optical transport equipment in the third quarter of 2026. In its recent market update, Dell’Oro Group reported that vendors grew revenue from large North American cloud […]",
-      "publisher": "Insider Monkey",
-      "published_utc": "2026-11-27T04:12:34Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-among-morgan-stanley-8-041234343.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-among-morgan-stanley-8-041234343.html",
-      "thumbnail": "https://media.zenfs.com/en/insidermonkey.com/716463dd517c5151c4d11d74b5c8eb7e.jpg"
+      "title": "Cisco Systems (CSCO) Expands AI Security Push With Two New Enterprise Tie Ups",
+      "summary": "Cisco Systems (NasdaqGS: CSCO) is working with DXC Technology to integrate Cisco AgenticOps into the DXC OASIS platform for enterprise IT automation. The firm is also partnering with Qumulo on a joint ransomware defense solution that combines Cisco Hypershield with N9300 Smart Switches. Both collaborations focus on AI driven automation and security for large IT environments, adding fresh detail to Cisco's broader AI push. The DXC AgenticOps integration and Qumulo ransomware defense tie ups...",
+      "publisher": "Simply Wall St.",
+      "published_utc": "2026-11-28T02:09:47Z",
+      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-systems-csco-expands-ai-020947010.html",
+      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/cisco-systems-csco-expands-ai-020947010.html",
+      "thumbnail": "https://media.zenfs.com/en/simply_wall_st__316/1c255d20731295daa30f844fecdb8657.jpg"
     },
     {
-      "title": "Ken Fisher and 13 Other Big Funds Bought Cisco Last Quarter, While 11 Sold. Who’s Right?",
-      "summary": "Key TakeawaysOf the 460 big funds that have filed 13Fs for the quarter ended Sept. 30, 14 bought Cisco and 11 sold it, with Ken Fisher’s Fisher Investments making the biggest buy.",
+      "title": "Cisco (CSCO) Upgraded to Strong Buy: Here's Why",
+      "summary": "Cisco (CSCO) might move higher on growing optimism about its earnings prospects, which is reflected by its upgrade to a Zacks Rank #1 (Strong Buy).",
+      "publisher": "Zacks",
+      "published_utc": "2026-11-27T16:00:03Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-csco-upgraded-strong-buy-160003728.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/cisco-csco-upgraded-strong-buy-160003728.html",
+      "thumbnail": "https://media.zenfs.com/en/zacks.com/c2fdcaac033e049c74f38d188afcc9f9.jpg_up.jpg"
+    },
+    {
+      "title": "Exploits Arrive in “10 to 15 Minutes,” Patches in 45 Days, per Cisco’s Jeetu Patel. Cue CrowdStrike",
+      "summary": "Key TakeawaysCisco’s Jeetu Patel says attackers can exploit a newly announced software flaw within 10 to 15 minutes, while patching takes about 45 days. Patching faster brings its own risk, as recent outages at JPMorgan Chase and Microsoft show.",
       "publisher": "TIKR",
-      "published_utc": "2026-11-26T18:41:07Z",
-      "url": "https://www.tikr.com/blog/ken-fisher-and-13-other-big-funds-bought-cisco-last-quarter-while-11-sold-whos-right?ref=yahoofinance&tlnk=yf-261126-h4726jcf",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/ken-fisher-13-other-big-184107625.html",
-      "thumbnail": "https://media.zenfs.com/en/tikr_258/895c80afac24dba2b3ea1ceb41859830"
+      "published_utc": "2026-11-27T13:35:36Z",
+      "url": "https://www.tikr.com/blog/exploits-arrive-in-10-to-15-minutes-patches-in-45-days-per-ciscos-jeetu-patel-cue-crowdstrike?ref=yahoofinance&tlnk=yf-261127-27866rp2",
+      "yahoo_url": "https://finance.yahoo.com/technology/articles/exploits-arrive-10-15-minutes-133536775.html",
+      "thumbnail": "https://media.zenfs.com/en/tikr_258/7137d2b8df2868d4ed434ad6d9cb46f7"
     },
     {
-      "title": "ETFs Bought $63.9 Million of Cisco (CSCO) on Nov. 24",
-      "summary": "66 ETFs bought Cisco shares versus 19 that sold on Tuesday, Nov. 24.",
+      "title": "Wall Street Analysts Think Cisco (CSCO) Is a Good Investment: Is It?",
+      "summary": "According to the average brokerage recommendation (ABR), one should invest in Cisco (CSCO). It is debatable whether this highly sought-after metric is effective because Wall Street analysts' recommendations tend to be overly optimistic. Would it be worth investing in the stock?",
+      "publisher": "Zacks",
+      "published_utc": "2026-11-27T13:30:03Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-think-cisco-133003299.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-think-cisco-133003299.html",
+      "thumbnail": "https://media.zenfs.com/en/zacks.com/0c6f98f4bf655bec3b199bc1a71b8b85.jpg_up.jpg"
+    },
+    {
+      "title": "Top Big Data Stocks to Tap the Growing AI-Driven Opportunity",
+      "summary": "Cisco, Salesforce and Dell Technologies are tapping the growing AI-driven Big Data opportunity as demand for advanced infrastructure and analytics accelerates.",
+      "publisher": "Zacks",
+      "published_utc": "2026-11-27T13:27:00Z",
+      "url": "https://finance.yahoo.com/technology/ai/articles/top-big-data-stocks-tap-132700343.html",
+      "yahoo_url": "https://finance.yahoo.com/technology/ai/articles/top-big-data-stocks-tap-132700343.html",
+      "thumbnail": "https://media.zenfs.com/en/zacks.com/7e65418edbf7491f843b8e0de38cb899.jpg_up.jpg"
+    },
+    {
+      "title": "Investors Heavily Search Cisco Systems, Inc. (CSCO): Here is What You Need to Know",
+      "summary": "Recently, Zacks.com users have been paying close attention to Cisco (CSCO). This makes it worthwhile to examine what the stock has in store.",
+      "publisher": "Zacks",
+      "published_utc": "2026-11-27T13:00:03Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-cisco-systems-130003652.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-cisco-systems-130003652.html",
+      "thumbnail": "https://media.zenfs.com/en/zacks.com/21b1f011539d3e31c28282071d344177.jpg_up.jpg"
+    },
+    {
+      "title": "50 ETFs Add to Cisco (CSCO) Holdings on Nov. 25",
+      "summary": "ETFs bought $87.4 million of Cisco stock on Wednesday, with 50 buyers against 19 sellers.",
       "publisher": "GuruFocus.com",
-      "published_utc": "2026-11-26T11:00:59Z",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-bought-63-9-million-110059108.html",
-      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/etfs-bought-63-9-million-110059108.html",
+      "published_utc": "2026-11-27T11:01:23Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/50-etfs-add-cisco-csco-110123778.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/50-etfs-add-cisco-csco-110123778.html",
       "thumbnail": null
+    },
+    {
+      "title": "New Strong Buy Stocks for November 27th",
+      "summary": "APA, ANET, TXN, CSCO and NEPH have been added to the Zacks Rank #1 (Strong Buy) List on November 27, 2026.",
+      "publisher": "Zacks",
+      "published_utc": "2026-11-27T09:49:00Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/strong-buy-stocks-november-27th-094900353.html",
+      "yahoo_url": "https://finance.yahoo.com/markets/stocks/articles/strong-buy-stocks-november-27th-094900353.html",
+      "thumbnail": "https://media.zenfs.com/en/zacks.com/188ad02b9c7cca00e0c94a7b9e9cb1b4.jpg_up.jpg"
     }
   ]
 }
